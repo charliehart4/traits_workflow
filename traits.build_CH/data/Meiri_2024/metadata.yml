@@ -1,0 +1,242 @@
+source:
+  primary:
+    key: Meiri_2024
+    bibtype: Article
+    year: '2024'
+    author: Shai Meiri
+    journal: Global Ecology and Biogeography
+    title: '<scp>SquamBase</scp>—A database of squamate (Reptilia: Squamata) traits'
+    volume: '33'
+    number: '4'
+    doi: 10.1111/geb.13812
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+   data %>%
+      mutate(
+        maximum_mass = 10^(as.numeric(`maximum mass (derived from allometric equations; in log10, g)`)),
+        derived_litter_size_n = as.numeric(`maximum mean brood size`),
+        derived_litters_per_year_n = as.numeric(`Yearly broods (maximum)`),
+        derived_n_offspring_year = derived_litter_size_n * derived_litters_per_year_n,
+        derived_diet = Diet %>%
+         gsub("\\*", "", .) %>%
+          tolower(),
+          derived_diet = case_when(
+          tolower(Diet) == "carnivorous"  ~ "carnivore",
+          tolower(Diet) == "omnivorous"   ~ "omnivore",
+          tolower(Diet) == "herbivorous"  ~ "herbivore",
+          TRUE                             ~ NA_character_
+        )
+      ) %>%
+      drop_na(derived_diet)  %>% 
+      mutate(
+        diet_carnivore    = ifelse(derived_diet == "carnivore", 1, 0),
+        diet_omnivore     = ifelse(derived_diet == "omnivore", 1, 0),
+        diet_herbivore    = ifelse(derived_diet == "herbivore", 1, 0),  
+        
+        substrate = tolower(substrate),
+        stratum_fossorial = ifelse(grepl("fossorial", substrate), 1, 0),
+        stratum_terrestrial = ifelse(grepl("terrestrial", substrate), 1, 0),
+        stratum_arboreal_insessorial = ifelse(grepl("arboreal", substrate), 1, 0),
+        stratum_aquatic = ifelse(grepl("aquatic", substrate), 1, 0),
+        stratum_saxicolous = ifelse(grepl("saxicolous", substrate), 1, 0),
+        stratum_cryptic = ifelse(grepl("cryptic", substrate), 1, 0),
+
+        activity_nocturnal   = ifelse(`Activity time` == "Nocturnal", 1, ifelse(is.na(`Activity time`), NA, 0)),
+        activity_diurnal     = ifelse(`Activity time` == "Diurnal", 1, ifelse(is.na(`Activity time`), NA, 0)),
+        activity_crepuscular = ifelse(`Activity time` == "Crepuscular", 1, ifelse(is.na(`Activity time`), NA, 0)),
+        activity_cathemeral  = ifelse(`Activity time` == "Cathemeral", 1, ifelse(is.na(`Activity time`), NA, 0))
+      )
+     '
+  collection_date: ''
+  taxon_name: Species name (Binomial)
+  location_name: .na
+  description: .na
+  basis_of_record: .na
+  life_stage: .na
+  sampling_strategy: .na
+  original_file: .na
+  notes: .na
+locations: .na
+contexts: .na
+traits:
+- var_in: maximum_mass
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: Back-transformed from allometric estimates.
+- var_in: Average home range size (minimum; m^2)
+  unit_in: m2
+  trait_name: home_range_km2
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: derived_diet
+  unit_in: categorical
+  trait_name: diet
+  entity_type: species
+  value_type: mode
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: substrate
+  unit_in: .na
+  trait_name: stratum
+  entity_type: species
+  value_type: .na
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: Maximum Longevity (years)
+  unit_in: years
+  trait_name: max_longevity_d
+  entity_type: species
+  value_type: maximum
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: derived_litter_size_n
+  unit_in: count
+  trait_name: litter_size_n
+  entity_type: species
+  value_type: .na
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: derived_litters_per_year_n
+  unit_in: count
+  trait_name: litters_per_year_n
+  entity_type: species
+  value_type: maximum
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: derived_n_offspring_year
+  unit_in: count
+  trait_name: n_offspring_year
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: Product of litter size and litters per year.
+- var_in: stratum_aquatic
+  unit_in: .na
+  trait_name: stratum_aquatic
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from substrate field.
+- var_in: stratum_arboreal_insessorial
+  unit_in: .na
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from substrate field.
+- var_in: stratum_terrestrial
+  unit_in: .na
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from substrate field.
+- var_in: stratum_fossorial
+  unit_in: .na
+  trait_name: stratum_fossorial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from substrate field.
+- var_in: stratum_saxicolous
+  unit_in: .na
+  trait_name: stratum_saxicolous
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from substrate field.
+- var_in: stratum_cryptic
+  unit_in: .na
+  trait_name: stratum_cryptic
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from substrate field.
+- var_in: diet_herbivore
+  unit_in: .na  
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_carnivore
+  unit_in: .na
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_omnivore
+  unit_in: .na
+  trait_name: diet_omnivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: activity_nocturnal
+  unit_in: .na
+  trait_name: activity_nocturnal
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Activity time' categorical field
+- var_in: activity_diurnal
+  unit_in: .na
+  trait_name: activity_diurnal
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Activity time' categorical field
+- var_in: activity_crepuscular
+  unit_in: .na
+  trait_name: activity_crepuscular
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Activity time' categorical field
+- var_in: activity_cathemeral
+  unit_in: .na
+  trait_name: activity_cathemeral
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Activity time' categorical field
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

@@ -1,0 +1,203 @@
+source:
+  primary:
+    key: Tobias_2022
+    bibtype: Article
+    year: '2022'
+    author: Joseph A. Tobias and Catherine Sheard and Alex L. Pigot and Adam J. M.
+      Devenish and Jingyi Yang and Ferran Sayol and Montague H. C. NeateClegg and
+      Nico Alioravainen and Thomas L. Weeks and Robert A. Barber and Patrick A. Walkden
+      and Hannah E. A. Macgregor and Samuel E. I. Jones and Claire Vincent and Anna
+      G. Phillips and Nicola M. Marples and Flavia A. MontañoCentellas and Victor
+      LeandroSilva and Santiago Claramunt and Bianca Darski and Benjamin G. Freeman
+      and Tom P. Bregman and Christopher R. Cooney and Emma C. Hughes and Elliot J.
+      R. Capp and Zoe K. Varley and Nicholas R. Friedman and Heiko Korntheuer and
+      Andrea CorralesVargas and Christopher H. Trisos and Brian C. Weeks and Dagmar
+      M. Hanz and Till Töpfer and Gustavo A. Bravo and Vladimír Remeš and Larissa
+      Nowak and Lincoln S. Carneiro and Amilkar J. Moncada R. and Beata Matysioková
+      and Daniel T. Baldassarre and Alejandra MartínezSalinas and Jared D. Wolfe
+      and Philip M. Chapman and Benjamin G. Daly and Marjorie C. Sorensen and Alexander
+      Neu and Michael A. Ford and Rebekah J. Mayhew and Luis Fabio Silveira and David
+      J. Kelly and Nathaniel N. D. Annorbah and Henry S. Pollock and Ada M. GrabowskaZhang
+      and Jay P. Mcentee and Juan Carlos T. Gonzalez and Camila G. Meneses and Marcia
+      C. Muñoz and Luke L. Powell and Gabriel A. Jamie and Thomas J. Matthews and
+      Oscar Johnson and Guilherme R. R. Brito and Kristof Zyskowski and Ross Crates
+      and Michael G. Harvey and Maura Jurado Zevallos and Peter A. Hosner and Tom
+      BradferLawrence and James M. Maley and F. Gary Stiles and Hevana S. Lima and
+      Kaiya L. Provost and Moses Chibesa and Mmatjie Mashao and Jeffrey T. Howard
+      and Edson Mlamba and Marcus A. H. Chua and Bicheng Li and M. Isabel Gómez and
+      Natalia C. García and Martin Packert and Jerome Fuchs and Jarome R. Ali and
+      Elizabeth P. Derryberry and Monica L. Carlson and Rolly C. Urriza and Kristin
+      E. Brzeski and Dewi M. Prawiradilaga and Matt J. Rayner and Eliot T. Miller
+      and Rauri C. K. Bowie and RenéMarie Lafontaine and R. Paul Scofield and Yingqiang
+      Lou and Lankani Somarathna and Denis Lepage and Marshall Illif and Eike Lena
+      Neuschulz and Mathias Templin and D. Matthias Dehling and Jacob C. Cooper and
+      Olivier S. G. Pauwels and Kangkuso Analuddin and Jon Fjeldså and Nathalie Seddon
+      and Paul R. Sweet and Fabrice A. J. Declerck and Luciano N. Naka and Jeffrey
+      D. Brawn and Alexandre Aleixo and Katrin BöhningGaese and Carsten Rahbek and
+      Susanne A. Fritz and Gavin H. Thomas and Matthias Schleuning
+    journal: Ecology Letters
+    title: 'AVONET: morphological, ecological and geographical data for all birds'
+    volume: '25'
+    number: '3'
+    pages: 581--597
+    doi: 10.1111/ele.13898
+    issn: 1461-0248
+    editor: Tim Coulson
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+   data %>%
+   mutate(
+    diet_derived = case_when(
+      Trophic.Niche %in% c("Vertivore", "Aquatic predator", "Scavenger") ~ "carnivore",
+      Trophic.Niche == "Invertivore" ~ "invertivore",
+      Trophic.Niche %in% c("Herbivore aquatic", "Herbivore terrestrial") ~ "herbivore",
+      Trophic.Niche == "Frugivore" ~ "inflorescence",
+      Trophic.Niche == "Nectarivore" ~ "inflorescence",
+      Trophic.Niche == "Granivore" ~ "granivore",
+      Trophic.Niche == "Omnivore" ~ "omnivore",
+      TRUE ~ NA_character_
+    )
+   ) %>%
+   drop_na(diet_derived)%>%
+   mutate(
+     diet_carnivore    = ifelse(diet_derived == "carnivore", 1, 0),
+     diet_invertivore  = ifelse(diet_derived == "invertivore", 1, 0),
+     diet_herbivore    = ifelse(diet_derived == "herbivore", 1, 0),
+     diet_inflorescence = ifelse(diet_derived == "inflorescence", 1, 0),
+     diet_granivore    = ifelse(diet_derived == "granivore", 1, 0),
+     diet_omnivore     = ifelse(diet_derived == "omnivore", 1, 0),
+     Primary.Lifestyle = tolower(Primary.Lifestyle),
+     stratum_terrestrial = ifelse(grepl("terrestrial", Primary.Lifestyle), 1, 0),
+     stratum_arboreal_insessorial = ifelse(grepl("arboreal|insessorial", Primary.Lifestyle), 1, 0),
+     stratum_aerial = ifelse(grepl("aerial", Primary.Lifestyle), 1, 0)
+   )
+   '
+  collection_date: ''
+  taxon_name: Species1
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Mass
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: diet_derived
+  unit_in: .na
+  trait_name: diet
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from Trophic.Niche using custom R code
+- var_in: Primary.Lifestyle
+  unit_in: .na
+  trait_name: stratum
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_carnivore
+  unit_in: .na
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Trophic.Niche using custom R code.
+- var_in: diet_invertivore
+  unit_in: .na
+  trait_name: diet_invertivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Trophic.Niche using custom R code.
+- var_in: diet_herbivore
+  unit_in: .na
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Trophic.Niche using custom R code.
+- var_in: diet_inflorescence
+  unit_in: .na
+  trait_name: diet_inflorescence
+  entity_type: unknown
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Trophic.Niche using custom R code.
+- var_in: diet_granivore
+  unit_in: .na
+  trait_name: diet_granivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Trophic.Niche using custom R code.
+- var_in: diet_omnivore
+  unit_in: .na
+  trait_name: diet_omnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Trophic.Niche using custom R code.
+- var_in: stratum_terrestrial
+  unit_in: .na
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Primary.Lifestyle field.
+- var_in: stratum_arboreal_insessorial
+  unit_in: .na
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Primary.Lifestyle field.
+- var_in: stratum_aerial
+  unit_in: .na
+  trait_name: stratum_aerial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from Primary.Lifestyle field.
+- var_in: Hand-Wing.Index
+  unit_in: HWI
+  trait_name: dispersal_HWI
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: HWI will be used as a proxy for dispersal
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

@@ -1,0 +1,221 @@
+source:
+  primary:
+    key: Oskyrko_2024
+    bibtype: Article
+    year: '2024'
+    author: Oleksandra Oskyrko and Chunrong Mi and Shai Meiri and Weiguo Du
+    journal: Scientific Data
+    title: 'ReptTraits: a comprehensive dataset of ecological traits in reptiles'
+    volume: '11'
+    number: '1'
+    doi: 10.1038/s41597-024-03079-5
+    issn: 2052-4463
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+    data %>%
+      mutate(
+        derived_diet = case_when(
+          tolower(Diet) == "carnivorous"  ~ "carnivore",
+          tolower(Diet) == "omnivorous"   ~ "omnivore",
+          tolower(Diet) == "herbivorous"  ~ "herbivore",
+          TRUE                             ~ NA_character_
+        )
+      ) %>%
+      drop_na(derived_diet)  %>%   
+        mutate(
+        diet_carnivore    = ifelse(derived_diet == "carnivore", 1, 0),
+        diet_omnivore     = ifelse(derived_diet == "omnivore", 1, 0),
+        diet_herbivore    = ifelse(derived_diet == "herbivore", 1, 0),
+    stratum_aquatic = ifelse(grepl("Aquatic", Microhabitat, ignore.case = TRUE), 1, 0),
+    stratum_arboreal_insessorial = ifelse(grepl("Arboreal", Microhabitat, ignore.case = TRUE), 1, 0),
+    stratum_fossorial = ifelse(grepl("Fossorial", Microhabitat, ignore.case = TRUE), 1, 0),
+    stratum_terrestrial = ifelse(grepl("Terrestrial", Microhabitat, ignore.case = TRUE), 1, 0),
+    stratum_saxicolous = ifelse(grepl("Saxicolous", Microhabitat, ignore.case = TRUE), 1, 0),
+    stratum_cryptic = ifelse(grepl("Cryptic", Microhabitat, ignore.case = TRUE), 1, 0),
+
+    n_offspring_year = as.numeric(`Mean number of offspring per litter or number of eggs per clutch`) *
+    as.numeric(`Number of litters or clutches produced per year`),
+
+    activity_nocturnal   = ifelse(`Active time` == "Nocturnal", 1, ifelse(is.na(`Active time`), NA, 0)),
+        activity_diurnal     = ifelse(`Active time` == "Diurnal", 1, ifelse(is.na(`Active time`), NA, 0)),
+        activity_crepuscular = ifelse(`Active time` == "Crepuscular", 1, ifelse(is.na(`Active time`), NA, 0)),
+        activity_cathemeral  = ifelse(`Active time` == "Cathemeral", 1, ifelse(is.na(`Active time`), NA, 0))
+   )
+   '
+  collection_date: ''
+  taxon_name: Species
+  location_name: unknown
+  description:  "Species-level reptile traits compiled and lightly derived from ReptTraits (Oskyrko et al. 2024)."
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: "Binary habitat/diet and activity variables derived from source columns; simple recodes applied (see custom_R_code)."
+locations: .na
+contexts: .na
+traits:
+- var_in: stratum_aquatic
+  unit_in: .na
+  trait_name: stratum_aquatic
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from `Microhabitat` field
+- var_in: stratum_arboreal_insessorial
+  unit_in: .na
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from `Microhabitat` field
+- var_in: stratum_fossorial
+  unit_in: .na
+  trait_name: stratum_fossorial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from `Microhabitat` field
+- var_in: stratum_terrestrial
+  unit_in: .na
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from `Microhabitat` field
+- var_in: stratum_saxicolous
+  unit_in: .na
+  trait_name: stratum_saxicolous
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from `Microhabitat` field
+- var_in: stratum_cryptic
+  unit_in: .na
+  trait_name: stratum_cryptic
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Derived from `Microhabitat` field
+- var_in: derived_diet
+  unit_in: .na
+  trait_name: diet
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods:  Recoded from 'Diet' using lowercase transformation
+- var_in: Maximum Longevity (years)
+  unit_in: years
+  trait_name: max_longevity_d
+  entity_type: unknown
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Maximum body mass (g)
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: 'Mean number of offspring per litter or number of eggs per clutch'
+  unit_in: count
+  trait_name: litter_size_n
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: 'Number of litters or clutches produced per year'
+  unit_in: count
+  trait_name: litters_per_year_n
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: n_offspring_year
+  unit_in: count
+  trait_name: n_offspring_year
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: Product of `litter_size_n` and `litters_per_year_n`
+- var_in: diet_herbivore
+  unit_in: .na
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_carnivore
+  unit_in: .na
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_omnivore
+  unit_in: .na
+  trait_name: diet_omnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: activity_nocturnal
+  unit_in: .na
+  trait_name: activity_nocturnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Active time' categorical field
+- var_in: activity_diurnal
+  unit_in: .na
+  trait_name: activity_diurnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Active time' categorical field
+- var_in: activity_crepuscular
+  unit_in: .na
+  trait_name: activity_crepuscular
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Active time' categorical field
+- var_in: activity_cathemeral
+  unit_in: .na
+  trait_name: activity_cathemeral
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from 'Active time' categorical field
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

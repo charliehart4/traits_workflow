@@ -1,0 +1,57 @@
+source:
+  primary:
+    key: Cunningham_2024
+    bibtype: Article
+    year: '2024'
+    author: Calum X. Cunningham and Grant J. Williamson and Rachael H. Nolan and Lina
+      Teckentrup and Matthias M. Boer and David M. J. S. Bowman
+    journal: Global Change Biology
+    title: 'Pyrogeography in flux: Reorganization of Australian fire regimes in a
+      hotter world'
+    volume: '30'
+    number: '1'
+    doi: 10.1111/gcb.17130
+    issn: 1365-2486
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: ''
+  taxon_name: Sci_Name
+  location_name: unknown
+  description: "Species-level pyrome metrics extracted from Cunningham et al. (2024): dominant pyrome class and pyrome breadth (number of pyrome classes per species)."
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: "Manual extraction at species level from published pyrome classification; not field measurements."
+  original_file: unknown
+  notes: "Values reflect the paper’s pyrome classifications; see methods for variable definitions."
+locations: .na
+contexts: .na
+traits:
+- var_in: dominant_pyrome
+  unit_in: count
+  trait_name: dominant_pyrome
+  entity_type: species
+  value_type: unknown
+  basis_of_value: measurement
+  replicates: .na
+  methods: "Dominant pyrome class per species as reported in Cunningham et al. (2024)."
+- var_in: pyrome_breadth
+  unit_in: count
+  trait_name: pyrome_breadth
+  entity_type: species
+  value_type: unknown
+  basis_of_value: measurement
+  replicates: .na
+  methods: "Count of distinct pyrome classes associated with each species (extracted from Cunningham et al. 2024)."
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

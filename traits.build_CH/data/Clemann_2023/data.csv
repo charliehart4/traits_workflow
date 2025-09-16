@@ -1,0 +1,36 @@
+﻿Taxon_ID,Scientific_Name,Scientific_Name_Alt,Genus,Common_Name,Taxa_Group,Conservation_Listing,FFG_Status,Mass_g,home_range_km2,dispersal_km,stratum,stratum_aerial,stratum_arboreal_insessorial,stratum_aquatic,stratum_cryptic,stratum_fossorial,stratum_generalist,stratum_saxicolous,stratum_terrestrial,nesting,nest_burrow,nest_cave,nest_ground,nest_hollows,nest_branch,volant,hibernation_torpor,diet,diet_breadth_n,diet_carnivore,diet_herbivore,diet_invertivore,diet_infloresence,diet_omnivore,diet_granivore,litter_size_n,litters_per_year_n
+13131,Crinia parinsignifera,Crinia parinsignifera,Crinia,Plains Froglet,Amphibians,NotListed,NotListed,0.66,,,,0,0,1,0,1,0,1,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,130,1
+13134,Crinia signifera,Crinia signifera,Crinia,Common Froglet,Amphibians,NotListed,NotListed,1.9,,,,0,0,1,0,1,0,1,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,215,1
+13135,Crinia sloanei,Crinia sloanei,Crinia,Sloane's Froglet,Amphibians,Australia,Endangered,0.47,,,,0,0,1,0,1,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,200,1
+13029,Geocrinia laevis,Geocrinia laevis,Geocrinia,Southern Smooth Froglet,Amphibians,NotListed,NotListed,0.92,,,,0,0,1,0,1,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,180,1
+13033,Geocrinia victoriana,Geocrinia victoriana,Geocrinia,Victorian Smooth Froglet,Amphibians,NotListed,NotListed,1.57,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,200,1
+13042,Heleioporus australiacus,Heleioporus australiacus,Heleioporus,Giant Burrowing Frog,Amphibians,Victoria,Critically Endangered,56.59,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,1239,1
+13058,Limnodynastes dumerilii,Limnodynastes dumerilii,Limnodynastes,Southern Bullfrog (ssp. unknown),Amphibians,NotListed,NotListed,15.31,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,3900,1
+63913,Limnodynastes dumerilii dumerilii,Limnodynastes dumerilii,Limnodynastes,Pobblebonk Frog,Amphibians,NotListed,NotListed,15.31,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,3900,1
+63914,Limnodynastes dumerilii insularis,Limnodynastes dumerilii,Limnodynastes,Pobblebonk Frog,Amphibians,NotListed,NotListed,15.31,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,3900,1
+63915,Limnodynastes dumerilii variegatus,Limnodynastes dumerilii,Limnodynastes,Pobblebonk Frog,Amphibians,NotListed,NotListed,15.31,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,3900,1
+13060,Limnodynastes interioris,Limnodynastes interioris,Limnodynastes,Giant Bullfrog,Amphibians,Victoria,Endangered,36.45,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,1100,1
+13061,Limnodynastes peronii,Limnodynastes peronii,Limnodynastes,Striped Marsh Frog,Amphibians,NotListed,NotListed,12.17,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,1300,1
+13063,Limnodynastes tasmaniensis,Limnodynastes tasmaniensis,Limnodynastes,Spotted Marsh Frog (race unknown),Amphibians,NotListed,NotListed,3.37,,,,0,0,1,0,1,0,1,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,1500,1
+13166,Litoria aurea,Litoria aurea,Litoria,Green and Golden Bell Frog,Amphibians,NotListed,NotListed,50,,,,0,0,1,0,0,0,0,0,,0,0,1,0,0,0,,,,1,1,1,0,0,0,5000,1
+13168,Litoria booroolongensis,Litoria booroolongensis,Litoria,Booroolong Tree Frog,Amphibians,Australia,Endangered,NA,,,,0,0,1,0,0,0,1,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,1300,1
+13175,Litoria citropa,Litoria citropa,Litoria,Blue Mountains Tree Frog,Amphibians,NotListed,NotListed,8.62,,,,0,0,1,0,0,0,1,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,1900,1
+528551,Litoria dentata,Litoria dentata,Litoria,Keferstein's Tree Frog,Amphibians,Victoria,Critically Endangered,4.8,,,,0,0,1,0,0,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,3000,1
+13182,Litoria ewingii,Litoria ewingii,Litoria,Southern Brown Tree Frog,Amphibians,NotListed,NotListed,1.69,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,700,1
+13192,Litoria lesueuri,Litoria lesueurii,Litoria,Lesueur's Frog,Amphibians,NotListed,NotListed,24,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,1600,1
+13203,Litoria paraewingi,Litoria paraewingi,Litoria,Plains Brown Tree Frog,Amphibians,NotListed,NotListed,1.2,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,550,1
+13204,Litoria peronii,Litoria peronii,Litoria,Peron's Tree Frog,Amphibians,NotListed,NotListed,5.88,,,,0,1,1,0,0,0,0,1,,0,0,1,0,1,0,,,,0,1,1,0,0,0,2390,1
+13207,Litoria raniformis,Litoria raniformis,Litoria,Growling Grass Frog,Amphibians,Victoria,Vulnerable,65.2,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,1,1,1,0,0,0,4500,1
+13195,Litoria spenceri,Litoria spenceri,Litoria,Spotted Tree Frog,Amphibians,Australia,Critically Endangered,13,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,900,1
+63907,Litoria verreauxii alpina,Litoria verreauxii,Litoria,Alpine Tree Frog,Amphibians,Victoria,Critically Endangered,1.74,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,220,1
+63906,Litoria verreauxii verreauxii,Litoria verreauxii,Litoria,Verreaux's Tree Frog,Amphibians,NotListed,NotListed,1.74,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,1000,1
+13936,Litoria watsoni,Litoria littlejohni,Litoria,Large Brown Tree Frog,Amphibians,Australia,Endangered,16.8,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,100,1
+13103,Paracrinia haswelli,Paracrinia haswelli,Paracrinia,Haswell's Froglet,Amphibians,NotListed,NotListed,1.95,,,,0,0,1,0,0,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,280,1
+13106,Philoria frosti,Philoria frosti,Philoria,Baw Baw Frog,Amphibians,Australia,Critically Endangered,14.5,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,185,1
+13117,Pseudophryne bibronii,Pseudophryne bibronii,Pseudophryne,Brown Toadlet,Amphibians,Victoria,Endangered,1.19,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,200,1
+13120,Pseudophryne dendyi,Pseudophryne dendyi,Pseudophryne,Dendy's Toadlet,Amphibians,NotListed,NotListed,1.1,,,,0,0,1,0,1,0,0,1,,0,0,1,0,0,0,,,,0,1,1,0,0,0,170,1
+13125,Pseudophryne semimarmorata,Pseudophryne semimarmorata,Pseudophryne,Southern Toadlet,Amphibians,Victoria,Endangered,0.58,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,170,1
+13158,Uperoleia laevigata,Uperoleia laevigata,Uperoleia,Smooth Toadlet,Amphibians,NotListed,NotListed,1.31,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,,1
+13930,Uperoleia martini,Uperoleia martini,Uperoleia,Martin's Toadlet,Amphibians,Victoria,Critically Endangered,0.59,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,200,1
+13151,Uperoleia rugosa,Uperoleia rugosa,Uperoleia,Rugose Toadlet,Amphibians,Victoria,Endangered,1.38,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,225,1
+13931,Uperoleia tyleri,Uperoleia tyleri,Uperoleia,Tyler's Toadlet,Amphibians,NotListed,NotListed,1.04,,,,0,0,1,0,1,0,0,1,,1,0,1,0,0,0,,,,0,1,1,0,0,0,,1

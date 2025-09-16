@@ -1,0 +1,564 @@
+aligned_name,TAXON_ID,taxon_name,COMMON_NAME,TaxaGroup,TAXON_TYPE,taxon_rank,Extinction_Risk,FFG_Status,Sci_Name_Alt
+Cercartetus nanus,11150,Cercartetus nanus,Eastern Pygmy-possum,Mammals,Mammals,Species,NotListed,NotListed,Cercartetus nanus
+Cercartetus lepidus,11152,Cercartetus lepidus,Little Pygmy-possum,Mammals,Mammals,Species,NotListed,NotListed,Cercartetus lepidus
+Litoria aurea,13166,Litoria aurea,Green and Golden Bell Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria aurea
+Litoria peronii,13204,Litoria peronii,Peron's Tree Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria peronii
+Litoria ewingii,13182,Litoria ewingii,Southern Brown Tree Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria ewingii
+Litoria verreauxii verreauxii,63906,Litoria verreauxii verreauxii,Verreaux's Tree Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria verreauxii
+Litoria lesueuri,13192,Litoria lesueuri,Lesueur's Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria lesueurii
+Litoria paraewingi,13203,Litoria paraewingi,Plains Brown Tree Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria paraewingi
+Litoria citropa,13175,Litoria citropa,Blue Mountains Tree Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Litoria citropa
+Lichenostomus chrysops,10614,Lichenostomus chrysops,Yellow-faced Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Caligavis chrysops
+Lichenostomus penicillatus,10625,Lichenostomus penicillatus,White-plumed Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Ptilotula penicillata
+Lichenostomus leucotis,10617,Lichenostomus leucotis,White-eared Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Nesoptilotis leucotis
+Lichenostomus melanops,10619,Lichenostomus melanops,Yellow-tufted Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Lichenostomus melanops
+Lichenostomus virescens,10608,Lichenostomus virescens,Singing Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Gavicalis virescens
+Lichenostomus ornatus,10622,Lichenostomus ornatus,Yellow-plumed Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Ptilotula ornata
+Lichenostomus fuscus,10613,Lichenostomus fuscus,Fuscous Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Ptilotula fusca
+Lichenostomus cratitius,10620,Lichenostomus cratitius,Purple-gaped Honeyeater,Birds,Passerine birds,Species,Victoria,Vulnerable,Lichenostomus cratitius
+Acanthiza chrysorrhoa,10486,Acanthiza chrysorrhoa,Yellow-rumped Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza chrysorrhoa
+Acanthiza pusilla,10475,Acanthiza pusilla,Brown Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza pusilla
+Acanthiza lineata,10470,Acanthiza lineata,Striated Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza lineata
+Acanthiza reguloides,10484,Acanthiza reguloides,Buff-rumped Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza reguloides
+Acanthiza nana,10471,Acanthiza nana,Yellow Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza nana
+Acanthiza uropygialis,10481,Acanthiza uropygialis,Chestnut-rumped Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza uropygialis
+Calidris acuminata,10163,Calidris acuminata,Sharp-tailed Sandpiper,Birds,Waders,Species,NotListed,NotListed,Calidris acuminata
+Acanthiza apicalis,10476,Acanthiza apicalis,Inland Thornbill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthiza apicalis
+Calidris ruficollis,10162,Calidris ruficollis,Red-necked Stint,Birds,Waders,Species,NotListed,NotListed,Calidris ruficollis
+Calidris melanotos,10978,Calidris melanotos,Pectoral Sandpiper,Birds,Waders,Species,NotListed,NotListed,Calidris melanotos
+Calidris ferruginea,10161,Calidris ferruginea,Curlew Sandpiper,Birds,Waders,Species,Australia,Critically Endangered,Calidris ferruginea
+Calidris canutus,10164,Calidris canutus,Red Knot,Birds,Waders,Species,Australia,Endangered,Calidris canutus
+Calidris alba,10166,Calidris alba,Sanderling,Birds,Waders,Species,NotListed,NotListed,Calidris alba
+Calidris subminuta,10965,Calidris subminuta,Long-toed Stint,Birds,Waders,Species,NotListed,NotListed,Calidris subminuta
+Limnodynastes dumerilii,13058,Limnodynastes dumerilii,Southern Bullfrog (ssp. unknown),Amphibians,Amphibians,Species,NotListed,NotListed,Limnodynastes dumerilii
+Limnodynastes tasmaniensis,13063,Limnodynastes tasmaniensis,Spotted Marsh Frog (race unknown),Amphibians,Amphibians,Species,NotListed,NotListed,Limnodynastes tasmaniensis
+Limnodynastes peronii,13061,Limnodynastes peronii,Striped Marsh Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Limnodynastes peronii
+Ctenotus robustus,12375,Ctenotus robustus,Large Striped Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenotus robustus
+Limnodynastes dumerilii dumerilii,63913,Limnodynastes dumerilii dumerilii,Pobblebonk Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Limnodynastes dumerilii
+Ctenotus orientalis,12936,Ctenotus orientalis,Eastern Striped Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenotus orientalis
+Ctenotus taeniolatus,12386,Ctenotus taeniolatus,Copper-tailed Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenotus taeniolatus
+Ctenotus regius,12374,Ctenotus regius,Regal Striped Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenotus regius
+Limnodynastes dumerilii insularis,63914,Limnodynastes dumerilii insularis,Pobblebonk Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Limnodynastes dumerilii
+Ctenotus brachyonyx,12342,Ctenotus brachyonyx,Murray Striped Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenotus brachyonyx
+Ctenotus taeniatus,62933,Ctenotus taeniatus,Brooks's Striped Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenotus taeniatus
+Limnodynastes dumerilii variegatus,63915,Limnodynastes dumerilii variegatus,Pobblebonk Frog,Amphibians,Amphibians,Species,NotListed,NotListed,Limnodynastes dumerilii
+Falco berigora,10239,Falco berigora,Brown Falcon,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Falco berigora
+Falco cenchroides,10240,Falco cenchroides,Nankeen Kestrel,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Falco cenchroides
+Falco peregrinus,10237,Falco peregrinus,Peregrine Falcon,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Falco peregrinus
+Falco longipennis,10235,Falco longipennis,Australian Hobby,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Falco longipennis
+Falco subniger,10238,Falco subniger,Black Falcon,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Falco subniger
+Pseudemoia entrecasteauxii,12994,Pseudemoia entrecasteauxii,Southern Grass Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Pseudemoia entrecasteauxii
+Pseudemoia spenceri,12541,Pseudemoia spenceri,Spencer's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Pseudemoia spenceri
+Pseudemoia form cryodoma/pagenstecheri,12948,Pseudemoia form cryodoma/pagenstecheri,Grass skink FORM (P.pag/cry),Reptiles,Reptiles,Species,NotListed,NotListed,Pseudemoia cryodoma
+Pachycephala rufiventris,10401,Pachycephala rufiventris,Rufous Whistler,Birds,Passerine birds,Species,NotListed,NotListed,Pachycephala rufiventris
+Pachycephala pectoralis,10398,Pachycephala pectoralis,Golden Whistler,Birds,Passerine birds,Species,NotListed,NotListed,Pachycephala pectoralis
+Petroica boodang,10380,Petroica boodang,Scarlet Robin,Birds,Passerine birds,Species,NotListed,NotListed,Petroica boodang
+Macropus giganteus,11265,Macropus giganteus,Eastern Grey Kangaroo,Mammals,Mammals,Species,NotListed,NotListed,Macropus giganteus
+Petroica phoenicea,10382,Petroica phoenicea,Flame Robin,Birds,Passerine birds,Species,NotListed,NotListed,Petroica phoenicea
+Artamus cyanopterus,10547,Artamus cyanopterus,Dusky Woodswallow,Birds,Passerine birds,Species,NotListed,NotListed,Artamus cyanopterus
+Petroica goodenovii,10381,Petroica goodenovii,Red-capped Robin,Birds,Passerine birds,Species,NotListed,NotListed,Petroica goodenovii
+Artamus superciliosus,10545,Artamus superciliosus,White-browed Woodswallow,Birds,Passerine birds,Species,NotListed,NotListed,Artamus superciliosus
+Petroica rosea,10384,Petroica rosea,Rose Robin,Birds,Passerine birds,Species,NotListed,NotListed,Petroica rosea
+Eulamprus tympanum tympanum,62956,Eulamprus tympanum tympanum,Southern Water Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Eulamprus tympanum
+Artamus personatus,10544,Artamus personatus,Masked Woodswallow,Birds,Passerine birds,Species,NotListed,NotListed,Artamus personatus
+Pachycephala olivacea,10405,Pachycephala olivacea,Olive Whistler,Birds,Passerine birds,Species,NotListed,NotListed,Pachycephala olivacea
+Eulamprus heatwolei,12957,Eulamprus heatwolei,Yellow-bellied Water Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Eulamprus heatwolei
+Petroica rodinogaster,10383,Petroica rodinogaster,Pink Robin,Birds,Passerine birds,Species,NotListed,NotListed,Petroica rodinogaster
+Macropus fuliginosus,11263,Macropus fuliginosus,Western Grey Kangaroo,Mammals,Mammals,Species,NotListed,NotListed,Macropus fuliginosus
+Artamus cinereus,10546,Artamus cinereus,Black-faced Woodswallow,Birds,Passerine birds,Species,NotListed,NotListed,Artamus cinereus
+Neophema chrysostoma,10306,Neophema chrysostoma,Blue-winged Parrot,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Neophema chrysostoma
+Pachycephala inornata,10403,Pachycephala inornata,Gilbert's Whistler,Birds,Passerine birds,Species,NotListed,NotListed,Pachycephala inornata
+Macropus rufogriseus,11261,Macropus rufogriseus,Red-necked Wallaby,Mammals,Mammals,Species,NotListed,NotListed,Macropus rufogriseus
+Artamus leucorynchus,10543,Artamus leucorynchus,White-breasted Woodswallow,Birds,Passerine birds,Species,NotListed,NotListed,Artamus leucoryn
+Macropus rufus,11275,Macropus rufus,Red Kangaroo,Mammals,Mammals,Species,NotListed,NotListed,Macropus rufus
+Charadrius ruficapillus,10143,Charadrius ruficapillus,Red-capped Plover,Birds,Waders,Species,NotListed,NotListed,Charadrius ruficapillus
+Charadrius bicinctus,10140,Charadrius bicinctus,Double-banded Plover,Birds,Waders,Species,NotListed,NotListed,Charadrius bicinctus
+Neophema elegans,10307,Neophema elegans,Elegant Parrot,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Neophema elegans
+Charadrius leschenaultii,10141,Charadrius leschenaultii,Greater Sand Plover,Birds,Waders,Species,Australia,Vulnerable,Charadrius leschenaultii
+Charadrius mongolus,10139,Charadrius mongolus,Lesser Sand Plover,Birds,Waders,Species,Australia,Endangered,Charadrius mongolus
+Eulamprus quoyii,12557,Eulamprus quoyii,Eastern Water Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Eulamprus quoyii
+Peltohyas australis,10145,Peltohyas australis,Inland Dotterel,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Peltohyas australis
+Corvus mellori,10954,Corvus mellori,Little Raven,Birds,Passerine birds,Species,NotListed,NotListed,Corvus mellori
+Corvus coronoides,10930,Corvus coronoides,Australian Raven,Birds,Passerine birds,Species,NotListed,NotListed,Corvus coronoides
+Coracina novaehollandiae,10424,Coracina novaehollandiae,Black-faced Cuckoo-shrike,Birds,Passerine birds,Species,NotListed,NotListed,Coracina novaehollandiae
+Manorina melanocephala,10634,Manorina melanocephala,Noisy Miner,Birds,Passerine birds,Species,NotListed,NotListed,Manorina melanocephala
+Malurus cyaneus,10529,Malurus cyaneus,Superb Fairy-wren,Birds,Passerine birds,Species,NotListed,NotListed,Malurus cyaneus
+Phylidonyris novaehollandiae,10631,Phylidonyris novaehollandiae,New Holland Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Phylidonyris novaehollandiae
+Ardea pacifica,10189,Ardea pacifica,White-necked Heron,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Ardea pacifica
+Vespadelus vulturnus,11379,Vespadelus vulturnus,Little Forest Bat,Mammals,Bats,Species,NotListed,NotListed,Vespadelus vulturnus
+Vespadelus regulus,11378,Vespadelus regulus,Southern Forest Bat,Mammals,Bats,Species,NotListed,NotListed,Vespadelus regulus
+Anas superciliosa,10208,Anas superciliosa,Pacific Black Duck,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Anas superciliosa
+Anas gracilis,10211,Anas gracilis,Grey Teal,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Anas gracilis
+Ardea ibis,10977,Ardea ibis,Cattle Egret,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Bubulcus ibis
+Tiliqua scincoides,12580,Tiliqua scincoides,Common Blue-tongued Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Tiliqua scincoides
+Vespadelus darlingtoni,11381,Vespadelus darlingtoni,Large Forest Bat,Mammals,Bats,Species,NotListed,NotListed,Vespadelus darlingtoni
+Phalacrocorax carbo,10096,Phalacrocorax carbo,Great Cormorant,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Phalacrocorax carbo
+Tiliqua nigrolutea,12578,Tiliqua nigrolutea,Blotched Blue-tongued Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Tiliqua nigrolutea
+Coracina papuensis,10425,Coracina papuensis,White-bellied Cuckoo-shrike,Birds,Passerine birds,Species,NotListed,NotListed,Coracina papuensis
+Liopholis whitii GROUP,62430,Liopholis whitii GROUP,White's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Liopholis whitii
+Anas castanea,10210,Anas castanea,Chestnut Teal,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Anas castanea
+Phalacrocorax sulcirostris,10097,Phalacrocorax sulcirostris,Little Black Cormorant,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Phalacrocorax sulcirostris
+Tiliqua rugosa,12583,Tiliqua rugosa,Stumpy-tailed Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Tiliqua rugosa
+Corvus tasmanicus,10868,Corvus tasmanicus,Forest Raven,Birds,Passerine birds,Species,NotListed,NotListed,Corvus tasmanicus
+Antechinus agilis,11028,Antechinus agilis,Agile Antechinus,Mammals,Mammals,Species,NotListed,NotListed,Antechinus agilis
+Phylidonyris albifrons,10594,Phylidonyris albifrons,White-fronted Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Purnella albifrons
+Spatula rhynchotis,10212,Spatula rhynchotis,Australasian Shoveler,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Spatula rhynchotis
+Phylidonyris melanops,10593,Phylidonyris melanops,Tawny-crowned Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Gliciphila melanops
+Antechinus swainsonii,11033,Antechinus swainsonii,Dusky Antechinus,Mammals,Mammals,Species,NotListed,NotListed,Antechinus swainsonii
+Manorina melanophrys,10633,Manorina melanophrys,Bell Miner,Birds,Passerine birds,Species,NotListed,NotListed,Manorina melanophrys
+Manorina flavigula,10635,Manorina flavigula,Yellow-throated Miner,Birds,Passerine birds,Species,NotListed,NotListed,Manorina flavigula
+Delma inornata,12160,Delma inornata,Olive Legless Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Delma inornata
+Phylidonyris pyrrhoptera,10630,Phylidonyris pyrrhoptera,Crescent Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Phylidonyris pyrrhopterus
+Ramphotyphlops bituberculatus,12588,Ramphotyphlops bituberculatus,Peters's Blind Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Anilios bituberculatus
+Calamanthus fuliginosus,10500,Calamanthus fuliginosus,Striated Fieldwren,Birds,Passerine birds,Species,NotListed,NotListed,Calamanthus fuliginosus
+Parasuta nigriceps,12724,Parasuta nigriceps,Mitchell's Short-tailed Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Suta nigriceps
+Parasuta flagellum,12727,Parasuta flagellum,Little Whip Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Suta flagellum
+Calamanthus cautus,10499,Calamanthus cautus,Shy Heathwren,Birds,Passerine birds,Species,NotListed,NotListed,Calamanthus cautus
+Delma australis,12154,Delma australis,Southern Legless Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Delma australis
+Coracina tenuirostris,10429,Coracina tenuirostris,Common Cicadabird,Birds,Passerine birds,Species,NotListed,NotListed,Edolisoma tenuirostre
+Phalacrocorax varius,10099,Phalacrocorax varius,Pied Cormorant,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Phalacrocorax varius
+Ramphotyphlops bicolor,12586,Ramphotyphlops bicolor,West Australian Dark-spined Blind Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Anilios bicolor
+Uperoleia laevigata,13158,Uperoleia laevigata,Smooth Toadlet,Amphibians,Amphibians,Species,NotListed,NotListed,Uperoleia laevigata
+Malurus splendens,10532,Malurus splendens,Splendid Fairy-wren,Birds,Passerine birds,Species,NotListed,NotListed,Malurus splendens
+Corvus bennetti,10691,Corvus bennetti,Little Crow,Birds,Passerine birds,Species,NotListed,NotListed,Corvus bennetti
+Delma butleri,12167,Delma butleri,Butler's Legless Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Delma butleri
+Antechinus flavipes,11027,Antechinus flavipes,Yellow-footed Antechinus,Mammals,Mammals,Species,NotListed,NotListed,Antechinus flavipes
+Aprasia inaurita,12143,Aprasia inaurita,Pink-nosed Worm-Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Aprasia inaurita
+Vespadelus baverstocki,11819,Vespadelus baverstocki,Inland Forest Bat,Mammals,Bats,Species,NotListed,NotListed,Vespadelus baverstocki
+Liopholis inornata,12413,Liopholis inornata,Desert Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Liopholis inornata
+Malurus lamberti,10536,Malurus lamberti,Variegated Fairy-wren,Birds,Passerine birds,Species,NotListed,NotListed,Malurus lamberti
+Malurus leucopterus,10535,Malurus leucopterus,White-winged Fairy-wren,Birds,Passerine birds,Species,NotListed,NotListed,Malurus leucopterus
+Ramphotyphlops nigrescens,12599,Ramphotyphlops nigrescens,Gray's Blind Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Anilios nigrescens
+Parasuta dwyeri,12726,Parasuta dwyeri,Dwyer's Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Suta dwyeri
+Calamanthus campestris,10502,Calamanthus campestris,Rufous Fieldwren,Birds,Passerine birds,Species,NotListed,NotListed,Calamanthus campestris
+Phalacrocorax fuscescens,10098,Phalacrocorax fuscescens,Black-faced Cormorant,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Phalacrocorax fuscescens
+Uperoleia tyleri,13931,Uperoleia tyleri,Tyler's Toadlet,Amphibians,Amphibians,Species,NotListed,NotListed,Uperoleia tyleri
+Liopholis montana,12433,Liopholis montana,Mountain Skink,Reptiles,Reptiles,Species,Australia,Endangered,Liopholis montana
+Tiliqua occipitalis,12579,Tiliqua occipitalis,Western Blue-tongued Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Tiliqua occipitalis
+Ramphotyphlops proximus,12603,Ramphotyphlops proximus,Woodland Blind Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Anilios proximus
+Pseudemoia pagenstecheri (Volcanic Plains),12993,Pseudemoia pagenstecheri (Volcanic Plains),Tussock Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Pseudemoia pagenstecheri
+Pseudemoia rawlinsoni,12683,Pseudemoia rawlinsoni,Glossy Grass Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Pseudemoia rawlinsoni
+Ctenotus olympicus,19008,Ctenotus olympicus,Saltbush Striped Skink,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Ctenotus olympicus
+Cacatua galerita,10269,Cacatua galerita,Sulphur-crested Cockatoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cacatua galerita
+Cracticus tibicen,10705,Cracticus tibicen,Australian Magpie,Birds,Passerine birds,Species,NotListed,NotListed,Gymnorhina tibicen
+Chrysococcyx basalis,10342,Chrysococcyx basalis,Horsfield's Bronze-Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Chalcites basalis
+Rhipidura leucophrys,10364,Rhipidura leucophrys,Willie Wagtail,Birds,Passerine birds,Species,NotListed,NotListed,Rhipidura leucophrys
+Cracticus torquatus,10702,Cracticus torquatus,Grey Butcherbird,Birds,Passerine birds,Species,NotListed,NotListed,Cracticus torquatus
+Cacomantis pallidus,10337,Cacomantis pallidus,Pallid Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Heteroscenes pallidus
+Anthochaera carunculata,10638,Anthochaera carunculata,Red Wattlebird,Birds,Passerine birds,Species,NotListed,NotListed,Anthochaera carunculata
+Crinia signifera,13134,Crinia signifera,Common Froglet,Amphibians,Amphibians,Species,NotListed,NotListed,Crinia signifera
+Melithreptus lunatus,10578,Melithreptus lunatus,White-naped Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Melithreptus lunatus
+Cacomantis flabelliformis,10338,Cacomantis flabelliformis,Fan-tailed Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cacomantis flabelliformis
+Rhipidura albiscapa,10361,Rhipidura albiscapa,Grey Fantail,Birds,Passerine birds,Species,NotListed,NotListed,Rhipidura albiscapa
+Cacatua sanguinea,10271,Cacatua sanguinea,Little Corella,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cacatua sanguinea
+Cacatua tenuirostris,10272,Cacatua tenuirostris,Long-billed Corella,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cacatua tenuirostris
+Accipiter fasciatus,10221,Accipiter fasciatus,Brown Goshawk,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Accipiter fasciatus
+Nyctophilus geoffroyi,11335,Nyctophilus geoffroyi,Lesser Long-eared Bat,Mammals,Bats,Species,NotListed,NotListed,Nyctophilus geoffroyi
+Tyto javanica,10249,Tyto javanica,Pacific Barn Owl,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Tyto alba
+Epthianura albifrons,10448,Epthianura albifrons,White-fronted Chat,Birds,Passerine birds,Species,NotListed,NotListed,Epthianura albifrons
+Chrysococcyx lucidus,10344,Chrysococcyx lucidus,Shining Bronze-Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Chalcites lucidus
+Egretta novaehollandiae,10188,Egretta novaehollandiae,White-faced Heron,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Egretta novaehollandiae
+Glossopsitta concinna,10258,Glossopsitta concinna,Musk Lorikeet,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Glossopsitta concinna
+Myiagra inquieta,10369,Myiagra inquieta,Restless Flycatcher,Birds,Passerine birds,Species,NotListed,NotListed,Myiagra inquieta
+Accipiter cirrhocephalus,10222,Accipiter cirrhocephalus,Collared Sparrowhawk,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Accipiter cirrocephalus
+Melithreptus brevirostris,10583,Melithreptus brevirostris,Brown-headed Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Melithreptus brevirostris
+Coturnix pectoralis,10009,Coturnix pectoralis,Stubble Quail,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Coturnix pectoralis
+Ninox novaeseelandiae,10242,Ninox novaeseelandiae,Southern Boobook,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Ninox novaeseelandiae
+Myiagra cyanoleuca,10366,Myiagra cyanoleuca,Satin Flycatcher,Birds,Passerine birds,Species,NotListed,NotListed,Myiagra cyanoleuca
+Climacteris picumnus victoriae,60555,Climacteris picumnus victoriae,Brown Treecreeper (south-eastern ssp.),Birds,Passerine birds,Species,NotListed,NotListed,Climacteris picumnus
+Nyctophilus gouldi,11334,Nyctophilus gouldi,Gould's Long-eared Bat,Mammals,Bats,Species,NotListed,NotListed,Nyctophilus gouldi
+Turnix varia,10014,Turnix varia,Painted Button-quail,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Turnix varius
+Mormopterus sp. 4,11808,Mormopterus sp. 4,Southern Freetail Bat,Mammals,Bats,Species,NotListed,NotListed,Mormopterus planiceps
+Lerista bougainvillii,12475,Lerista bougainvillii,Bougainville's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Lerista bougainvillii
+Crinia parinsignifera,13131,Crinia parinsignifera,Plains Froglet,Amphibians,Amphibians,Species,NotListed,NotListed,Crinia parinsignifera
+Cacomantis variolosus,10339,Cacomantis variolosus,Brush Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cacomantis variolosus
+Egernia saxatilis intermedia,62938,Egernia saxatilis intermedia,Black Rock Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Egernia saxatilis
+Myiagra rubecula,10365,Myiagra rubecula,Leaden Flycatcher,Birds,Passerine birds,Species,NotListed,NotListed,Myiagra rubecula
+Rhipidura rufifrons,10362,Rhipidura rufifrons,Rufous Fantail,Birds,Passerine birds,Species,NotListed,NotListed,Rhipidura rufifrons
+Cracticus nigrogularis,10700,Cracticus nigrogularis,Pied Butcherbird,Birds,Passerine birds,Species,NotListed,NotListed,Cracticus nigrogularis
+Morethia boulengeri,12526,Morethia boulengeri,Boulenger's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Morethia boulengeri
+Petaurus breviceps,11138,Petaurus breviceps,Sugar Glider,Mammals,Mammals,Species,NotListed,NotListed,Petaurus breviceps
+Amphibolurus muricatus,12194,Amphibolurus muricatus,Tree Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Amphibolurus muricatus
+Glossopsitta pusilla,10260,Glossopsitta pusilla,Little Lorikeet,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Glossopsitta pusilla
+Scotorepens balstoni,11364,Scotorepens balstoni,Inland Broad-nosed Bat,Mammals,Bats,Species,NotListed,NotListed,Scotorepens balstoni
+Coturnix ypsilophora australis,10010,Coturnix ypsilophora australis,Brown Quail,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Synoicus ypsilophorus
+Diplodactylus vittatus,12077,Diplodactylus vittatus,Wood Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Diplodactylus vittatus
+Geopelia striata,10030,Geopelia striata,Peaceful Dove,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Geopelia striata
+Mormopterus sp. 2,11839,Mormopterus sp. 2,Eastern Freetail Bat,Mammals,Bats,Species,NotListed,NotListed,Mormopterus norfolkensis
+Climacteris erythrops,10560,Climacteris erythrops,Red-browed Treecreeper,Birds,Passerine birds,Species,NotListed,NotListed,Climacteris erythrops
+Calyptorhynchus funereus,10267,Calyptorhynchus funereus,Yellow-tailed Black-Cockatoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Zanda funerea
+Gerygone olivacea,10453,Gerygone olivacea,White-throated Gerygone,Birds,Passerine birds,Species,NotListed,NotListed,Gerygone olivacea
+Varanus varius,12283,Varanus varius,Lace Monitor,Reptiles,Reptiles,Species,Victoria,Endangered,Varanus varius
+Rankinia diemensis,12182,Rankinia diemensis,Mountain Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Rankinia diemensis
+Pomatostomus superciliosus,10445,Pomatostomus superciliosus,White-browed Babbler,Birds,Passerine birds,Species,NotListed,NotListed,Pomatostomus superciliosus
+Gerygone fusca,10463,Gerygone fusca,Western Gerygone,Birds,Passerine birds,Species,NotListed,NotListed,Gerygone fusca
+Porzana fluminea,10049,Porzana fluminea,Australian Spotted Crake,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Porzana fluminea
+Glossopsitta porphyrocephala,10259,Glossopsitta porphyrocephala,Purple-crowned Lorikeet,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Glossopsitta porphyrocephala
+Anthochaera chrysoptera,10637,Anthochaera chrysoptera,Little Wattlebird,Birds,Passerine birds,Species,NotListed,NotListed,Anthochaera chrysoptera
+Varanus gouldii,12271,Varanus gouldii,Sand Goanna,Reptiles,Reptiles,Species,NotListed,NotListed,Varanus gouldii
+Scotorepens orion,11811,Scotorepens orion,Eastern Broad-nosed Bat,Mammals,Bats,Species,NotListed,NotListed,Scotorepens orion
+Egernia cunninghami,12408,Egernia cunninghami,Cunningham's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Egernia cunninghami
+Epthianura tricolor,10449,Epthianura tricolor,Crimson Chat,Birds,Passerine birds,Species,NotListed,NotListed,Epthianura tricolor
+Chrysococcyx osculans,10341,Chrysococcyx osculans,Black-eared Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Chalcites osculans
+Morethia obscura,12529,Morethia obscura,Obscure Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Morethia obscura
+Petaurus australis australis,11136,Petaurus australis,Yellow-bellied Glider,Mammals,Mammals,Species,Australia,Vulnerable,Petaurus australis
+Diplodactylus damaeus,12109,Diplodactylus damaeus,Beaded Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Lucasium damaeum
+Amphibolurus nobbi,19000,Amphibolurus nobbi,Nobbi Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Diporiphora nobbi
+Melithreptus gularis,10580,Melithreptus gularis,Black-chinned Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Melithreptus gularis
+Egernia striolata,12429,Egernia striolata,Tree Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Egernia striolata
+Pomatostomus ruficeps,10446,Pomatostomus ruficeps,Chestnut-crowned Babbler,Birds,Passerine birds,Species,NotListed,NotListed,Pomatostomus ruficeps
+Lerista punctatovittata,12499,Lerista punctatovittata,Spotted Burrowing Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Lerista punctatovittata
+Pseudophryne dendyi,13120,Pseudophryne dendyi,Dendy's Toadlet,Amphibians,Amphibians,Species,NotListed,NotListed,Pseudophryne dendyi
+Epthianura aurifrons,10450,Epthianura aurifrons,Orange Chat,Birds,Passerine birds,Species,NotListed,NotListed,Epthianura aurifrons
+Gerygone mouki,10454,Gerygone mouki,Brown Gerygone,Birds,Passerine birds,Species,NotListed,NotListed,Gerygone mouki
+Crinia sloanei,13135,Crinia sloanei,Sloane's Froglet,Amphibians,Amphibians,Species,Australia,Endangered,Crinia sloanei
+Amphibolurus norrisi,12209,Amphibolurus norrisi,Norris's Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Amphibolurus norrisi
+Diplodactylus tessellatus,12076,Diplodactylus tessellatus,Tessellated Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Diplodactylus tessellatus
+Porzana tabuensis,10051,Porzana tabuensis,Spotless Crake,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Zapornia tabuensis
+Turnix velox,10018,Turnix velox,Little Button-quail,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Turnix velox
+Mormopterus sp. 3,11809,Mormopterus sp. 3,Inland Freetail Bat,Mammals,Bats,Species,NotListed,NotListed,Ozimops petersi
+Tringa nebularia,10158,Tringa nebularia,Common Greenshank,Birds,Waders,Species,Victoria,Endangered,Tringa nebularia
+Tringa stagnatilis,10159,Tringa stagnatilis,Marsh Sandpiper,Birds,Waders,Species,Victoria,Endangered,Tringa stagnatilis
+Egretta sacra,10191,Egretta sacra,Eastern Reef Egret,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Egretta sacra
+Geopelia humeralis,10032,Geopelia humeralis,Bar-shouldered Dove,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Geopelia humeralis
+Rankinia diemensis (Grampians),63941,Rankinia diemensis (Grampians),Mountain Dragon Grampians form,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Rankinia diemensis
+Sminthopsis crassicaudata,11072,Sminthopsis crassicaudata,Fat-tailed Dunnart,Mammals,Mammals,Species,Victoria,Vulnerable,Sminthopsis crassicaudata
+Cercartetus concinnus minor,11151,Cercartetus concinnus minor,Western Pygmy-possum,Mammals,Mammals,Species,NotListed,NotListed,Cercartetus concinnus
+Sminthopsis murina murina,11061,Sminthopsis murina murina,Common Dunnart,Mammals,Mammals,Species,Victoria,Vulnerable,Sminthopsis murina
+Pseudomys apodemoides,11457,Pseudomys apodemoides,Silky Mouse,Mammals,Mammals,Species,NotListed,NotListed,Pseudomys apodemoides
+Scotorepens greyii,11362,Scotorepens greyii,Little Broad-nosed Bat,Mammals,Bats,Species,NotListed,NotListed,Scotorepens greyii
+Platycercus elegans,10282,Platycercus elegans,Crimson Rosella,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Platycercus elegans
+Petrochelidon nigricans,10359,Petrochelidon nigricans,Tree Martin,Birds,Passerine birds,Species,NotListed,NotListed,Petrochelidon nigricans
+Pardalotus striatus,10976,Pardalotus striatus,Striated Pardalote,Birds,Passerine birds,Species,NotListed,NotListed,Pardalotus striatus
+Pardalotus punctatus punctatus,10565,Pardalotus punctatus punctatus,Spotted Pardalote,Birds,Passerine birds,Species,NotListed,NotListed,Pardalotus punctatus
+Strepera versicolor,10697,Strepera versicolor,Grey Currawong,Birds,Passerine birds,Species,NotListed,NotListed,Strepera versicolor
+Strepera graculina,10694,Strepera graculina,Pied Currawong,Birds,Passerine birds,Species,NotListed,NotListed,Strepera graculina
+Platycercus eximius,10288,Platycercus eximius,Eastern Rosella,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Platycercus eximius
+Chalinolobus gouldii,11349,Chalinolobus gouldii,Gould's Wattled Bat,Mammals,Bats,Species,NotListed,NotListed,Chalinolobus gouldii
+Pseudonaja textilis,12699,Pseudonaja textilis,Eastern Brown Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Pseudonaja textilis
+Phaps chalcoptera,10034,Phaps chalcoptera,Common Bronzewing,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Phaps chalcoptera
+Cincloramphus mathewsi,10509,Cincloramphus mathewsi,Rufous Songlark,Birds,Passerine birds,Species,NotListed,NotListed,Cincloramphus mathewsi
+Psephotus haematonotus,10295,Psephotus haematonotus,Red-rumped Parrot,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Psephotus haematonotus
+Lampropholis guichenoti,12451,Lampropholis guichenoti,Garden Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Lampropholis guichenoti
+Threskiornis spinicollis,10180,Threskiornis spinicollis,Straw-necked Ibis,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Threskiornis spinicollis
+Vanellus miles,10133,Vanellus miles,Masked Lapwing,Birds,Waders,Species,NotListed,NotListed,Vanellus miles
+Sericornis frontalis,10488,Sericornis frontalis,White-browed Scrubwren,Birds,Passerine birds,Species,NotListed,NotListed,Sericornis frontalis
+Chalinolobus morio,11351,Chalinolobus morio,Chocolate Wattled Bat,Mammals,Bats,Species,NotListed,NotListed,Chalinolobus morio
+Cincloramphus cruralis,10508,Cincloramphus cruralis,Brown Songlark,Birds,Passerine birds,Species,NotListed,NotListed,Cincloramphus cruralis
+Trichosurus vulpecula,11113,Trichosurus vulpecula,Common Brushtail Possum,Mammals,Mammals,Species,NotListed,NotListed,Trichosurus vulpecula
+Petrochelidon ariel,10360,Petrochelidon ariel,Fairy Martin,Birds,Passerine birds,Species,NotListed,NotListed,Petrochelidon ariel
+Threskiornis molucca,10179,Threskiornis molucca,Australian White Ibis,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Threskiornis moluccus
+Todiramphus sanctus,10326,Todiramphus sanctus,Sacred Kingfisher,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Todiramphus sanctus
+Philemon citreogularis,10646,Philemon citreogularis,Little Friarbird,Birds,Passerine birds,Species,NotListed,NotListed,Philemon citreogularis
+Platalea flavipes,10182,Platalea flavipes,Yellow-billed Spoonbill,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Platalea flavipes
+Philemon corniculatus,10645,Philemon corniculatus,Noisy Friarbird,Birds,Passerine birds,Species,NotListed,NotListed,Philemon corniculatus
+Trichoglossus haematodus,10254,Trichoglossus haematodus,Rainbow Lorikeet,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Trichoglossus haematodus
+Circus approximans,10219,Circus approximans,Swamp Harrier,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Circus approximans
+Acritoscincus duperreyi,12682,Acritoscincus duperreyi,Eastern Three-lined Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Acritoscincus duperreyi
+Phaps elegans,10035,Phaps elegans,Brush Bronzewing,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Phaps elegans
+Austrelaps superbus,12973,Austrelaps superbus,Lowland Copperhead,Reptiles,Reptiles,Species,NotListed,NotListed,Austrelaps superbus
+Vanellus tricolor,10135,Vanellus tricolor,Banded Lapwing,Birds,Waders,Species,NotListed,NotListed,Vanellus tricolor
+Lampropholis delicata,12450,Lampropholis delicata,Delicate Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Lampropholis delicata
+Taeniopygia guttata,10653,Taeniopygia guttata,Zebra Finch,Birds,Passerine birds,Species,NotListed,NotListed,Taeniopygia guttata
+Geocrinia victoriana,13033,Geocrinia victoriana,Victorian Smooth Froglet,Amphibians,Amphibians,Species,NotListed,NotListed,Geocrinia victoriana
+Pogona barbata,12177,Pogona barbata,Bearded Dragon,Reptiles,Reptiles,Species,Victoria,Vulnerable,Pogona barbata
+Ptilonorhynchus violaceus,10679,Ptilonorhynchus violaceus,Satin Bowerbird,Birds,Passerine birds,Species,NotListed,NotListed,Ptilonorhynchus violaceus
+Drysdalia coronoides,12665,Drysdalia coronoides,White-lipped Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Drysdalia coronoides
+Niveoscincus coventryi,12458,Niveoscincus coventryi,Coventry's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Carinascincus coventryi
+Trichosurus cunninghami,11115,Trichosurus cunninghami,Mountain Brushtail Possum,Mammals,Mammals,Species,NotListed,NotListed,Trichosurus cunninghami
+Austrelaps ramsayi,12972,Austrelaps ramsayi,Highland Copperhead,Reptiles,Reptiles,Species,NotListed,NotListed,Austrelaps ramsayi
+Rattus fuscipes,11395,Rattus fuscipes,Bush Rat,Mammals,Mammals,Species,NotListed,NotListed,Rattus fuscipes
+Platalea regia,10181,Platalea regia,Royal Spoonbill,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Platalea regia
+Cinclosoma punctatum,10436,Cinclosoma punctatum,Spotted Quail-thrush,Birds,Passerine birds,Species,NotListed,NotListed,Cinclosoma punctatum
+Eurostopodus mystacalis,10330,Eurostopodus mystacalis,White-throated Nightjar,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Eurostopodus mystacalis
+Rattus lutreolus,11398,Rattus lutreolus,Swamp Rat,Mammals,Mammals,Species,NotListed,NotListed,Rattus lutreolus
+Psephotus varius,10296,Psephotus varius,Mulga Parrot,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Psephotellus varius
+Hemiergis decresiensis,12441,Hemiergis decresiensis,Three-toed Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Hemiergis decresiensis
+Pogona vitticeps,12204,Pogona vitticeps,Central Bearded Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Pogona vitticeps
+Pygopus lepidopodus,12174,Pygopus lepidopodus,Common Scaly-foot,Reptiles,Reptiles,Species,NotListed,NotListed,Pygopus lepidopodus
+Ctenophorus pictus,12199,Ctenophorus pictus,Painted Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenophorus pictus
+Ctenophorus fordi,12185,Ctenophorus fordi,Mallee Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Ctenophorus fordi
+Eurostopodus argus,10331,Eurostopodus argus,Spotted Nightjar,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Eurostopodus argus
+Stipiturus malachurus,10526,Stipiturus malachurus,Southern Emu-wren,Birds,Passerine birds,Species,NotListed,NotListed,Stipiturus malachurus
+Stagonopleura bella,10650,Stagonopleura bella,Beautiful Firetail,Birds,Passerine birds,Species,NotListed,NotListed,Stagonopleura bella
+Todiramphus pyrropygia pyrropygia,10325,Todiramphus pyrropygia pyrropygia,Red-backed Kingfisher,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Todiramphus pyrrhopygius
+Circus assimilis,10218,Circus assimilis,Spotted Harrier,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Circus assimilis
+Sericornis magnirostris,10494,Sericornis magnirostris,Large-billed Scrubwren,Birds,Passerine birds,Species,NotListed,NotListed,Sericornis magnirostra
+Pseudonaja aspidorhyncha,12698,Pseudonaja aspidorhyncha,Patch-nosed Brown Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Pseudonaja aspidorhyncha
+Niveoscincus metallicus,12462,Niveoscincus metallicus,Metallic Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Carinascincus metallicus
+Chelodina longicollis,5134,Chelodina longicollis,Eastern Snake-necked Turtle,Reptiles,Reptiles,Species,NotListed,NotListed,Chelodina longicollis
+Geocrinia laevis,13029,Geocrinia laevis,Southern Smooth Froglet,Amphibians,Amphibians,Species,NotListed,NotListed,Geocrinia laevis
+Acritoscincus platynotus,12464,Acritoscincus platynotus,Red-throated Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Acritoscincus platynotus
+Taeniopygia bichenovii,10655,Taeniopygia bichenovii,Double-barred Finch,Birds,Passerine birds,Species,NotListed,NotListed,Taeniopygia bichenovii
+Larus dominicanus,10981,Larus dominicanus,Kelp Gull,Birds,Waders,Species,NotListed,NotListed,Larus dominicanus
+Cinclosoma castanotus,10437,Cinclosoma castanotus,Chestnut Quail-thrush,Birds,Passerine birds,Species,NotListed,NotListed,Cinclosoma castanotum
+Numenius madagascariensis,10149,Numenius madagascariensis,Eastern Curlew,Birds,Waders,Species,Australia,Critically Endangered,Numenius madagascariensis
+Chlidonias leucopterus,10109,Chlidonias leucopterus,White-winged Black Tern,Birds,Waders,Species,NotListed,NotListed,Chlidonias leucopterus
+Haematopus longirostris,10130,Haematopus longirostris,Pied Oystercatcher,Birds,Waders,Species,NotListed,NotListed,Haematopus longirostris
+Chlidonias hybridus javanicus,10110,Chlidonias hybridus javanicus,Whiskered Tern,Birds,Waders,Species,NotListed,NotListed,Chlidonias hybrida
+Hemiergis peronii,12446,Hemiergis peronii,Four-toed Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Hemiergis peronii
+Numenius phaeopus,10150,Numenius phaeopus,Whimbrel,Birds,Waders,Species,Victoria,Endangered,Numenius phaeopus
+Pluvialis fulva,10137,Pluvialis fulva,Pacific Golden Plover,Birds,Waders,Species,Victoria,Vulnerable,Pluvialis fulva
+Larus pacificus pacificus,60126,Larus pacificus pacificus,Pacific Gull,Birds,Waders,Species,NotListed,NotListed,Larus pacificus
+Haematopus fuliginosus,10131,Haematopus fuliginosus,Sooty Oystercatcher,Birds,Waders,Species,NotListed,NotListed,Haematopus fuliginosus
+Pluvialis squatarola,10136,Pluvialis squatarola,Grey Plover,Birds,Waders,Species,Victoria,Vulnerable,Pluvialis squatarola
+Trichoglossus chlorolepidotus,10256,Trichoglossus chlorolepidotus,Scaly-breasted Lorikeet,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Trichoglossus chlorolepidotus
+Hirundo neoxena,10357,Hirundo neoxena,Welcome Swallow,Birds,Passerine birds,Species,NotListed,NotListed,Hirundo neoxena
+Eolophus roseicapillus,10273,Eolophus roseicapillus,Galah,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Eolophus roseicapilla
+Podargus strigoides,10313,Podargus strigoides,Tawny Frogmouth,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Podargus strigoides
+Ocyphaps lophotes,10043,Ocyphaps lophotes,Crested Pigeon,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Ocyphaps lophotes
+Colluricincla harmonica,10408,Colluricincla harmonica,Grey Shrike-thrush,Birds,Passerine birds,Species,NotListed,NotListed,Colluricincla harmonica
+Grallina cyanoleuca,10415,Grallina cyanoleuca,Magpie-lark,Birds,Passerine birds,Species,NotListed,NotListed,Grallina cyanoleuca
+Zosterops lateralis,10574,Zosterops lateralis,Silvereye,Birds,Passerine birds,Species,NotListed,NotListed,Zosterops lateralis
+Dacelo novaeguineae,10322,Dacelo novaeguineae,Laughing Kookaburra,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Dacelo novaeguineae
+Tadarida australis,11324,Tadarida australis,White-striped Freetail Bat,Mammals,Bats,Species,NotListed,NotListed,Austronomus australis
+Chenonetta jubata,10202,Chenonetta jubata,Australian Wood Duck,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Chenonetta jubata
+Elanus axillaris,10232,Elanus axillaris,Black-shouldered Kite,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Elanus axillaris
+Aquila audax,10224,Aquila audax,Wedge-tailed Eagle,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Aquila audax
+Neochmia temporalis,10662,Neochmia temporalis,Red-browed Finch,Birds,Passerine birds,Species,NotListed,NotListed,Neochmia temporalis
+Daphoenositta chrysoptera,10549,Daphoenositta chrysoptera,Varied Sittella,Birds,Passerine birds,Species,NotListed,NotListed,Daphoenositta chrysoptera
+Notechis scutatus,12681,Notechis scutatus,Tiger Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Notechis scutatus
+Anthus novaeseelandiae,10647,Anthus novaeseelandiae,Australasian Pipit,Birds,Passerine birds,Species,NotListed,NotListed,Anthus novaeseelandiae
+Acanthorhynchus tenuirostris,10591,Acanthorhynchus tenuirostris,Eastern Spinebill,Birds,Passerine birds,Species,NotListed,NotListed,Acanthorhynchus tenuirostris
+Corcorax melanorhamphos,10693,Corcorax melanorhamphos,White-winged Chough,Birds,Passerine birds,Species,NotListed,NotListed,Corcorax melanorhamphos
+Microeca fascinans,10377,Microeca fascinans,Jacky Winter,Birds,Passerine birds,Species,NotListed,NotListed,Microeca fascinans
+Falcunculus frontatus,10416,Falcunculus frontatus,Crested Shrike-tit,Birds,Passerine birds,Species,NotListed,NotListed,Falcunculus frontatus
+Hieraaetus morphnoides,10225,Hieraaetus morphnoides,Little Eagle,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Hieraaetus morphnoides
+Oriolus sagittatus,10671,Oriolus sagittatus,Olive-backed Oriole,Birds,Passerine birds,Species,NotListed,NotListed,Oriolus sagittatus
+Dicaeum hirundinaceum,10564,Dicaeum hirundinaceum,Mistletoebird,Birds,Passerine birds,Species,NotListed,NotListed,Dicaeum hirundinaceum
+Aegotheles cristatus,10317,Aegotheles cristatus,Australian Owlet-nightjar,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Aegotheles cristatus
+Fulica atra,10059,Fulica atra,Eurasian Coot,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Fulica atra
+Haliastur sphenurus,10228,Haliastur sphenurus,Whistling Kite,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Haliastur sphenurus
+Tachyglossus aculeatus,11003,Tachyglossus aculeatus,Short-beaked Echidna,Mammals,Mammals,Species,NotListed,NotListed,Tachyglossus aculeatus
+Eopsaltria australis,10392,Eopsaltria australis,Eastern Yellow Robin,Birds,Passerine birds,Species,NotListed,NotListed,Eopsaltria australis
+Wallabia bicolor,11242,Wallabia bicolor,Black Wallaby,Mammals,Mammals,Species,NotListed,NotListed,Wallabia bicolor
+Porphyrio porphyrio,10058,Porphyrio porphyrio,Purple Swamphen,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Porphyrio porphyrio
+Alisterus scapularis,10281,Alisterus scapularis,Australian King-Parrot,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Alisterus scapularis
+Lalage sueurii,10430,Lalage sueurii,White-winged Triller,Birds,Passerine birds,Species,NotListed,NotListed,Lalage sueurii
+Gallinula tenebrosa,10056,Gallinula tenebrosa,Dusky Moorhen,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Gallinula tenebrosa
+Pseudechis porphyriacus,12693,Pseudechis porphyriacus,Red-bellied Black Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Pseudechis porphyriacus
+Merops ornatus,10329,Merops ornatus,Rainbow Bee-eater,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Merops ornatus
+Nymphicus hollandicus,10274,Nymphicus hollandicus,Cockatiel,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Nymphicus hollandicus
+Microcarbo melanoleucos,10100,Microcarbo melanoleucos,Little Pied Cormorant,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Microcarbo melanoleucos
+Tribonyx ventralis,10055,Tribonyx ventralis,Black-tailed Native-hen,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Tribonyx ventralis
+Acanthagenys rufogularis,10640,Acanthagenys rufogularis,Spiny-cheeked Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Acanthagenys rufogularis
+Cygnus atratus,10203,Cygnus atratus,Black Swan,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cygnus atratus
+Dromaius novaehollandiae,10001,Dromaius novaehollandiae,Emu,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Dromaius novaehollandiae
+Cormobates leucophaeus,10558,Cormobates leucophaeus,White-throated Treecreeper,Birds,Passerine birds,Species,NotListed,NotListed,Cormobates leucophaea
+Acrocephalus stentoreus,10524,Acrocephalus stentoreus,Clamorous Reed Warbler,Birds,Passerine birds,Species,NotListed,NotListed,Acrocephalus stentoreus
+Cheramoeca leucosternus,10358,Cheramoeca leucosternus,White-backed Swallow,Birds,Passerine birds,Species,NotListed,NotListed,Cheramoeca leucosterna
+Apus pacificus,10335,Apus pacificus,Fork-tailed Swift,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Apus pacificus
+Mirafra javanica,10648,Mirafra javanica,Horsfield's Bushlark,Birds,Passerine birds,Species,NotListed,NotListed,Mirafra javanica
+Pseudocheirus peregrinus,11129,Pseudocheirus peregrinus,Common Ringtail Possum,Mammals,Mammals,Species,NotListed,NotListed,Pseudocheirus peregrinus
+Hirundapus caudacutus,10334,Hirundapus caudacutus,White-throated Needletail,Birds,Other Non-passerine birds,Species,Australia,Vulnerable,Hirundapus caudacutus
+Milvus migrans,10229,Milvus migrans,Black Kite,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Milvus migrans
+Elseyornis melanops,10144,Elseyornis melanops,Black-fronted Dotterel,Birds,Waders,Species,NotListed,NotListed,Elseyornis melanops
+Phascolarctos cinereus,11162,Phascolarctos cinereus,Koala,Mammals,Mammals,Species,NotListed,NotListed,Phascolarctos cinereus
+Poliocephalus poliocephalus,10062,Poliocephalus poliocephalus,Hoary-headed Grebe,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Poliocephalus poliocephalus
+Anepischtos maccoyi,12444,Anepischtos maccoyi,McCoy's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Anepischetosia maccoyi
+Aphelocephala leucopsis,10466,Aphelocephala leucopsis,Southern Whiteface,Birds,Passerine birds,Species,NotListed,NotListed,Aphelocephala leucopsis
+Leucosarcia melanoleuca,10044,Leucosarcia melanoleuca,Wonga Pigeon,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Leucosarcia melanoleuca
+Vombatus ursinus,11165,Vombatus ursinus,Common Wombat,Mammals,Mammals,Species,NotListed,NotListed,Vombatus ursinus
+Saproscincus mustelinus,12452,Saproscincus mustelinus,Weasel Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Saproscincus mustelinus
+Falsistrellus tasmaniensis,11372,Falsistrellus tasmaniensis,Eastern False Pipistrelle,Mammals,Bats,Species,NotListed,NotListed,Falsistrellus tasmaniensis
+Entomyzon cyanotis,10641,Entomyzon cyanotis,Blue-faced Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Entomyzon cyanotis
+Smicrornis brevirostris,10465,Smicrornis brevirostris,Weebill,Birds,Passerine birds,Species,NotListed,NotListed,Smicrornis brevirostris
+Melopsittacus undulatus,10310,Melopsittacus undulatus,Budgerigar,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Melopsittacus undulatus
+Anhinga novaehollandiae,10101,Anhinga novaehollandiae,Darter,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Anhinga novaehollandiae
+Megalurus gramineus,10522,Megalurus gramineus,Little Grassbird,Birds,Passerine birds,Species,NotListed,NotListed,Poodytes gramineus
+Pelecanus conspicillatus,10106,Pelecanus conspicillatus,Australian Pelican,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Pelecanus conspicillatus
+Tadorna tadornoides,10207,Tadorna tadornoides,Australian Shelduck,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Tadorna tadornoides
+Malacorhynchus membranaceus,10213,Malacorhynchus membranaceus,Pink-eared Duck,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Malacorhynchus membranaceus
+Menura novaehollandiae,10350,Menura novaehollandiae,Superb Lyrebird,Birds,Passerine birds,Species,NotListed,NotListed,Menura novaehollandiae
+Ornithorhynchus anatinus,5136,Ornithorhynchus anatinus,Platypus,Mammals,Mammals,Species,Victoria,Vulnerable,Ornithorhynchus anatinus
+Callocephalon fimbriatum,10268,Callocephalon fimbriatum,Gang-gang Cockatoo,Birds,Other Non-passerine birds,Species,Australia,Endangered,Callocephalon fimbriatum
+Aythya australis,10215,Aythya australis,Hardhead,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Aythya australis
+Psophodes olivaceus,10421,Psophodes olivaceus,Eastern Whipbird,Birds,Passerine birds,Species,NotListed,NotListed,Psophodes olivaceus
+Menetia greyii,12519,Menetia greyii,Grey's Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Menetia greyii
+Meliphaga lewinii,10605,Meliphaga lewinii,Lewin's Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Meliphaga lewinii
+Rhinoplocephalus nigrescens,12650,Rhinoplocephalus nigrescens,Eastern Small-eyed Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Cryptophis nigrescens
+Christinus marmoratus,12126,Christinus marmoratus,Marbled Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Christinus marmoratus
+Eurystomus orientalis,10318,Eurystomus orientalis,Dollarbird,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Eurystomus orientalis
+Acrobates pygmaeus,11147,Acrobates pygmaeus,Feathertail Glider,Mammals,Mammals,Species,NotListed,NotListed,Acrobates pygmaeus
+Cryptoblepharus pannosus,12326,Cryptoblepharus pannosus,Carnaby's Wall Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Cryptoblepharus pannosus
+Chroicocephalus novaehollandiae,10125,Chroicocephalus novaehollandiae,Silver Gull,Birds,Waders,Species,NotListed,NotListed,Larus novaehollandiae
+Dendrocygna eytoni,10205,Dendrocygna eytoni,Plumed Whistling-Duck,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Dendrocygna eytoni
+Zoothera lunulata,10779,Zoothera lunulata,Bassian Thrush,Birds,Passerine birds,Species,NotListed,NotListed,Zoothera lunulata
+Recurvirostra novaehollandiae,10148,Recurvirostra novaehollandiae,Red-necked Avocet,Birds,Waders,Species,NotListed,NotListed,Recurvirostra novaehollandiae
+Pycnoptilus floccosus,10506,Pycnoptilus floccosus,Pilotbird,Birds,Passerine birds,Species,Australia,Vulnerable,Pycnoptilus floccosus
+Cisticola exilis,10525,Cisticola exilis,Golden-headed Cisticola,Birds,Passerine birds,Species,NotListed,NotListed,Cisticola exilis
+Plectorhyncha lanceolata,10585,Plectorhyncha lanceolata,Striped Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Plectorhyncha lanceolata
+Hydromys chrysogaster,11415,Hydromys chrysogaster,Water Rat,Mammals,Mammals,Species,NotListed,NotListed,Hydromys chrysogaster
+Nycticorax caledonicus hillii,10192,Nycticorax caledonicus hillii,Nankeen Night Heron,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Nycticorax caledonicus
+Perameles nasuta,11097,Perameles nasuta,Long-nosed Bandicoot,Mammals,Mammals,Species,NotListed,NotListed,Perameles nasuta
+Northiella haematogaster,10297,Northiella haematogaster,Blue Bonnet,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Northiella haematogaster
+Underwoodisaurus milii,12138,Underwoodisaurus milii,Thick-tailed Barking Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Underwoodisaurus milii
+Monarcha melanopsis,10373,Monarcha melanopsis,Black-faced Monarch,Birds,Passerine birds,Species,NotListed,NotListed,Monarcha melanopsis
+Cereopsis novaehollandiae,10198,Cereopsis novaehollandiae,Cape Barren Goose,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Cereopsis novaehollandiae
+Strophurus intermedius,12059,Strophurus intermedius,Southern Spiny-tailed Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Strophurus intermedius
+Drymodes brunneopygia,10441,Drymodes brunneopygia,Southern Scrub-robin,Birds,Passerine birds,Species,NotListed,NotListed,Drymodes brunneopygia
+Sugamel niger,10589,Sugamel niger,Black Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Sugomel nigrum
+Intellagama lesueurii howittii,62919,Intellagama lesueurii howittii,Gippsland Water Dragon,Reptiles,Reptiles,Species,NotListed,NotListed,Intellagama lesueurii
+Gallinago hardwickii,10168,Gallinago hardwickii,Latham's Snipe,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Gallinago hardwickii
+Biziura lobata,10217,Biziura lobata,Musk Duck,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Biziura lobata
+Gallirallus philippensis,10046,Gallirallus philippensis,Buff-banded Rail,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Hypotaenidia philippensis
+Myzomela sanguinolenta,10586,Myzomela sanguinolenta,Scarlet Honeyeater,Birds,Passerine birds,Species,NotListed,NotListed,Myzomela sanguinolenta
+Plegadis falcinellus,10178,Plegadis falcinellus,Glossy Ibis,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Plegadis falcinellus
+Lialis burtonis,12170,Lialis burtonis,Burton's Snake-Lizard,Reptiles,Reptiles,Species,NotListed,NotListed,Lialis burtonis
+Paracrinia haswelli,13103,Paracrinia haswelli,Haswell's Froglet,Amphibians,Amphibians,Species,NotListed,NotListed,Paracrinia haswelli
+Carlia tetradactyla,12318,Carlia tetradactyla,Southern Rainbow Skink,Reptiles,Reptiles,Species,NotListed,NotListed,Carlia tetradactyla
+Cladorhynchus leucocephalus,10147,Cladorhynchus leucocephalus,Banded Stilt,Birds,Waders,Species,NotListed,NotListed,Cladorhynchus leucocephalus
+Petauroides volans,11133,Petauroides volans,Greater Glider,Mammals,Mammals,Species,Australia,Endangered,Petauroides volans
+Gehyra variegata,12092,Gehyra variegata,Tree Dtella,Reptiles,Reptiles,Species,NotListed,NotListed,Gehyra variegata
+Tachybaptus novaehollandiae,10061,Tachybaptus novaehollandiae,Australasian Grebe,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Tachybaptus novaehollandiae
+Myotis macropus,11357,Myotis macropus,Southern Myotis,Mammals,Bats,Species,NotListed,NotListed,Myotis macropus
+Alcedo azurea,10319,Alcedo azurea,Azure Kingfisher,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Ceyx azureus
+Ningaui yvonneae,11055,Ningaui yvonneae,Mallee Ningaui,Mammals,Mammals,Species,NotListed,NotListed,Ningaui yvonneae
+Actitis hypoleucos,10157,Actitis hypoleucos,Common Sandpiper,Birds,Waders,Species,Victoria,Vulnerable,Actitis hypoleucos
+Demansia psammophis,12655,Demansia psammophis,Yellow-faced Whip Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Demansia psammophis
+Stiltia isabella,10173,Stiltia isabella,Australian Pratincole,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Stiltia isabella
+Notomys mitchelli,11480,Notomys mitchelli,Mitchell's Hopping-mouse,Mammals,Mammals,Species,NotListed,NotListed,Notomys mitchellii
+Scythrops novaehollandiae,10348,Scythrops novaehollandiae,Channel-billed Cuckoo,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Scythrops novaehollandiae
+Suta suta,12722,Suta suta,Curl Snake,Reptiles,Reptiles,Species,NotListed,NotListed,Suta suta
+Pseudophryne semimarmorata,13125,Pseudophryne semimarmorata,Southern Toadlet,Amphibians,Amphibians,Species,Victoria,Endangered,Pseudophryne semimarmorata
+Heteronotia binoei,12105,Heteronotia binoei,Bynoe's Gecko,Reptiles,Reptiles,Species,NotListed,NotListed,Heteronotia binoei
+Philomachus pugnax,10934,Philomachus pugnax,Ruff,Birds,Waders,Species,NotListed,NotListed,Calidris pugnax
+Sterna striata,10114,Sterna striata,White-fronted Tern,Birds,Waders,Species,NotListed,NotListed,Sterna striata
+Limosa lapponica,10153,Limosa lapponica,Bar-tailed Godwit,Birds,Waders,Species,Australia,Vulnerable,Limosa lapponica
+Amytornis striatus striatus,10513,Amytornis striatus striatus,Striated Grasswren,Birds,Passerine birds,Species,NotListed,NotListed,Amytornis striatus
+Erythrogonys cinctus,10132,Erythrogonys cinctus,Red-kneed Dotterel,Birds,Waders,Species,NotListed,NotListed,Erythrogonys cinctus
+Columba leucomela,10028,Columba leucomela,White-headed Pigeon,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Columba leucomela
+Thalasseus bergii,10115,Thalasseus bergii,Crested Tern,Birds,Waders,Species,NotListed,NotListed,Thalasseus bergii
+Arenaria interpres,10129,Arenaria interpres,Ruddy Turnstone,Birds,Waders,Species,Victoria,Endangered,Arenaria interpres
+Eudynamys orientalis,10347,Eudynamys orientalis,Eastern Koel,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Eudynamys orientalis
+Dicrurus bracteatus,10673,Dicrurus bracteatus,Spangled Drongo,Birds,Passerine birds,Species,NotListed,NotListed,Dicrurus bracteatus
+Podiceps cristatus,10060,Podiceps cristatus,Great Crested Grebe,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Podiceps cristatus
+Emydura macquarii,5135,Emydura macquarii,Murray River Turtle,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Emydura macquarii
+Macropygia amboinensis,10029,Macropygia amboinensis,Brown Cuckoo-Dove,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Macropygia amboinensis
+Pandion cristatus,10241,Pandion cristatus,Osprey,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Pandion haliaetus
+Butorides striatus,10193,Butorides striatus,Striated Heron,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Butorides striata
+Litoria dentata,528551,Litoria dentata,Keferstein's Tree Frog,Amphibians,Amphibians,Species,Victoria,Critically Endangered,Litoria dentata
+Stagonopleura guttata,10652,Stagonopleura guttata,Diamond Firetail,Birds,Passerine birds,Species,Victoria,Vulnerable,Stagonopleura guttata
+Porzana pusilla palustris,10050,Porzana pusilla palustris,Baillon's Crake,Birds,Other Non-passerine birds,Species,NotListed,NotListed,Zapornia pusilla
+Ardea alba modesta,10187,Ardea alba modesta,Eastern Great Egret,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Ardea alba
+Litoria raniformis,13207,Litoria raniformis,Growling Grass Frog,Amphibians,Amphibians,Species,Victoria,Vulnerable,Litoria raniformis
+Antigone rubicunda,10177,Antigone rubicunda,Brolga,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Antigone rubicunda
+Melanodryas cucullata,10385,Melanodryas cucullata,Hooded Robin,Birds,Passerine birds,Species,Victoria,Vulnerable,Melanodryas cucullata
+Lewinia pectoralis,10045,Lewinia pectoralis,Lewin's Rail,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Lewinia pectoralis
+Oxyura australis,10216,Oxyura australis,Blue-billed Duck,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Oxyura australis
+Struthidea cinerea,10675,Struthidea cinerea,Apostlebird,Birds,Passerine birds,Species,Victoria,Vulnerable,Struthidea cinerea
+Ardea intermedia plumifera,10186,Ardea intermedia plumifera,Intermediate Egret,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Ardea intermedia
+Geopelia cuneata,10031,Geopelia cuneata,Diamond Dove,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Geopelia cuneata
+Accipiter novaehollandiae,10220,Accipiter novaehollandiae,Grey Goshawk,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Accipiter novaehollandiae
+Delma impar,12159,Delma impar,Striped Legless Lizard,Reptiles,Reptiles,Species,Victoria,Endangered,Delma impar
+Morelia spilota metcalfei,62969,Morelia spilota metcalfei,Carpet Python,Reptiles,Reptiles,Species,Victoria,Endangered,Morelia spilota
+Lophocroa leadbeateri,10270,Lophocroa leadbeateri,Major Mitchell's Cockatoo,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Cacatua leadbeateri
+Ninox strenua,10248,Ninox strenua,Powerful Owl,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Ninox strenua
+Burhinus grallarius,10174,Burhinus grallarius,Bush Stone-curlew,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Burhinus grallarius
+Grantiella picta,10598,Grantiella picta,Painted Honeyeater,Birds,Passerine birds,Species,Australia,Vulnerable,Grantiella picta
+Isoodon obesulus obesulus,61092,Isoodon obesulus obesulus,Southern Brown Bandicoot,Mammals,Mammals,Species,Australia,Endangered,Isoodon obesulus
+Stictonetta naevosa,10214,Stictonetta naevosa,Freckled Duck,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Stictonetta naevosa
+Pomatostomus temporalis,10443,Pomatostomus temporalis,Grey-crowned Babbler,Birds,Passerine birds,Species,Victoria,Vulnerable,Pomatostomus temporalis
+Leipoa ocellata,10007,Leipoa ocellata,Malleefowl,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Leipoa ocellata
+Phascogale tapoatafa,11017,Phascogale tapoatafa,Brush-tailed Phascogale,Mammals,Mammals,Species,Victoria,Vulnerable,Phascogale tapoatafa
+Egretta garzetta nigripes,10185,Egretta garzetta nigripes,Little Egret,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Egretta garzetta
+Vermicella annulata,12734,Vermicella annulata,Bandy Bandy,Reptiles,Reptiles,Species,Victoria,Endangered,Vermicella annulata
+Acanthiza iredalei hedleyi,10482,Acanthiza iredalei hedleyi,Slender-billed Thornbill,Birds,Passerine birds,Species,Victoria,Endangered,Acanthiza iredalei
+Miniopterus orianae oceanensis,61342,Miniopterus orianae oceanensis,Common Bent-wing Bat (eastern ssp.),Mammals,Bats,Species,Victoria,Critically Endangered,Miniopterus schreibersii
+Lophoictinia isura,10230,Lophoictinia isura,Square-tailed Kite,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Lophoictinia isura
+Gelochelidon nilotica macrotarsa,10111,Gelochelidon nilotica macrotarsa,Gull-billed Tern,Birds,Waders,Species,Victoria,Endangered,Gelochelidon nilotica
+Anseranas semipalmata,10199,Anseranas semipalmata,Magpie Goose,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Anseranas semipalmata
+Calamanthus pyrrhopygius,10498,Calamanthus pyrrhopygius,Chestnut-rumped Heathwren,Birds,Passerine birds,Species,Victoria,Vulnerable,Calamanthus pyrrhopygius
+Potorous tridactylus trisulcatus,11175,Potorous tridactylus trisulcatus,Long-nosed Potoroo,Mammals,Mammals,Species,Australia,Vulnerable,Potorous tridactylus
+Limnodynastes interioris,13060,Limnodynastes interioris,Giant Bullfrog,Amphibians,Amphibians,Species,Victoria,Endangered,Limnodynastes interioris
+Sminthopsis leucopus,11069,Sminthopsis leucopus,White-footed Dunnart,Mammals,Mammals,Species,Victoria,Vulnerable,Sminthopsis leucopus
+Oreoica gutturalis,10419,Oreoica gutturalis,Crested Bellbird,Birds,Passerine birds,Species,Victoria,Endangered,Oreoica gutturalis
+Pyrrholaemus sagittatus,10504,Pyrrholaemus sagittatus,Speckled Warbler,Birds,Passerine birds,Species,Victoria,Endangered,Pyrrholaemus sagittatus
+Climacteris affinis,10561,Climacteris affinis,White-browed Treecreeper,Birds,Passerine birds,Species,Victoria,Endangered,Climacteris affinis
+Botaurus poiciloptilus,10197,Botaurus poiciloptilus,Australasian Bittern,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Botaurus poiciloptilus
+Tyto tenebricosa,10253,Tyto tenebricosa,Sooty Owl,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Tyto tenebricosa
+Ninox connivens,10246,Ninox connivens,Barking Owl,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Ninox connivens
+Pseudophryne bibronii,13117,Pseudophryne bibronii,Brown Toadlet,Amphibians,Amphibians,Species,Victoria,Endangered,Pseudophryne bibronii
+Haliaeetus leucogaster,10226,Haliaeetus leucogaster,White-bellied Sea-Eagle,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Haliaeetus leucogaster
+Nyctophilus corbeni,61332,Nyctophilus corbeni,South-eastern Long-eared Bat,Mammals,Bats,Species,Victoria,Endangered,Nyctophilus corbeni
+Polytelis anthopeplus monarchoides,10278,Polytelis anthopeplus monarchoides,Regent Parrot,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Polytelis anthopeplus
+Potorous longipes,11179,Potorous longipes,Long-footed Potoroo,Mammals,Mammals,Species,Australia,Endangered,Potorous longipes
+Rostratula australis,10170,Rostratula australis,Australian Painted Snipe,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Rostratula australis
+Varanus rosenbergi,12287,Varanus rosenbergi,Rosenberg's Goanna,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Varanus rosenbergi
+Dasyurus maculatus maculatus,11008,Dasyurus maculatus maculatus,Spot-tailed Quoll,Mammals,Mammals,Species,Victoria,Endangered,Dasyurus maculatus
+Rhinolophus megaphyllus megaphyllus,11303,Rhinolophus megaphyllus megaphyllus,Eastern Horseshoe Bat,Mammals,Bats,Species,Victoria,Endangered,Rhinolophus megaphyllus
+Lathamus discolor,10309,Lathamus discolor,Swift Parrot,Birds,Other Non-passerine birds,Species,Australia,Critically Endangered,Lathamus discolor
+Calyptorhynchus banksii graptogyne,10264,Calyptorhynchus banksii graptogyne,Red-tailed Black-Cockatoo,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Calyptorhynchus banksii
+Pseudomys fumeus,11458,Pseudomys fumeus,Smoky Mouse,Mammals,Mammals,Species,Victoria,Endangered,Pseudomys fumeus
+Petaurus norfolcensis,11137,Petaurus norfolcensis,Squirrel Glider,Mammals,Mammals,Species,Victoria,Vulnerable,Petaurus norfolcensis
+Polytelis swainsonii,10277,Polytelis swainsonii,Superb Parrot,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Polytelis swainsonii
+Morethia adelaidensis,12525,Morethia adelaidensis,Samphire Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Morethia adelaidensis
+Neophema pulchella,10302,Neophema pulchella,Turquoise Parrot,Birds,Other Non-passerine birds,Species,Victoria,Vulnerable,Neophema pulchella
+Drysdalia mastersii,12666,Drysdalia mastersii,Masters' Snake,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Drysdalia mastersii
+Miniopterus orianae bassanii,61343,Miniopterus orianae bassanii,Common Bent-wing Bat (southern ssp.),Mammals,Bats,Species,Victoria,Critically Endangered,Miniopterus schreibersii
+Stipiturus mallee,10527,Stipiturus mallee,Mallee Emu-wren,Birds,Passerine birds,Species,Victoria,Endangered,Stipiturus mallee
+Aprasia striolata,12150,Aprasia striolata,Striped Worm-Lizard,Reptiles,Reptiles,Species,Victoria,Endangered,Aprasia striolata
+Osphranter robustus robustus,61266,Osphranter robustus robustus,Eastern Wallaroo,Mammals,Mammals,Species,Victoria,Endangered,Macropus robustus
+Pseudomys shortridgei,11468,Pseudomys shortridgei,Heath Mouse,Mammals,Mammals,Species,Australia,Endangered,Pseudomys shortridgei
+Pteropus poliocephalus,11280,Pteropus poliocephalus,Grey-headed Flying-fox,Mammals,Bats,Species,Victoria,Vulnerable,Pteropus poliocephalus
+Xenus cinereus,10160,Xenus cinereus,Terek Sandpiper,Birds,Waders,Species,Victoria,Endangered,Xenus cinereus
+Ardeotis australis,10176,Ardeotis australis,Australian Bustard,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Ardeotis australis
+Saccolaimus flaviventris,11321,Saccolaimus flaviventris,Yellow-bellied Sheathtail Bat,Mammals,Bats,Species,Victoria,Vulnerable,Saccolaimus flaviventris
+Tyto novaehollandiae,10250,Tyto novaehollandiae,Masked Owl,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Tyto novaehollandiae
+Uperoleia rugosa,13151,Uperoleia rugosa,Rugose Toadlet,Amphibians,Amphibians,Species,Victoria,Endangered,Uperoleia rugosa
+Hydroprogne caspia,10112,Hydroprogne caspia,Caspian Tern,Birds,Waders,Species,Victoria,Vulnerable,Hydroprogne caspia
+Lerista timida,12492,Lerista timida,Dwarf Burrowing Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Lerista timida
+Lissolepis coventryi,12407,Lissolepis coventryi,Swamp Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Lissolepis coventryi
+Aprasia aurita,12141,Aprasia aurita,Mallee Worm-Lizard,Reptiles,Reptiles,Species,Victoria,Endangered,Aprasia aurita
+Manorina melanotis,10967,Manorina melanotis,Black-eared Miner,Birds,Passerine birds,Species,Victoria,Critically Endangered,Manorina melanotis
+Pygopus schraderi,12176,Pygopus schraderi,Hooded Scaly-foot,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Pygopus schraderi
+Pachycephala rufogularis,10402,Pachycephala rufogularis,Red-lored Whistler,Birds,Passerine birds,Species,Victoria,Vulnerable,Pachycephala rufogularis
+Mastacomys fuscus mordicus,11438,Mastacomys fuscus mordicus,Broad-toothed Rat,Mammals,Mammals,Species,Australia,Vulnerable,Mastacomys fuscus
+Pyrrholaemus brunneus,10497,Pyrrholaemus brunneus,Redthroat,Birds,Passerine birds,Species,Victoria,Endangered,Pyrrholaemus brunneus
+Eulamprus tympanum marnieae,62958,Eulamprus tympanum marnieae,Corangamite Water Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Eulamprus tympanum
+Calidris tenuirostris,10165,Calidris tenuirostris,Great Knot,Birds,Waders,Species,Australia,Critically Endangered,Calidris tenuirostris
+Falco hypoleucos,10236,Falco hypoleucos,Grey Falcon,Birds,Other Non-passerine birds,Species,Australia,Vulnerable,Falco hypoleucos
+Neophema splendida,10303,Neophema splendida,Scarlet-chested Parrot,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Neophema splendida
+Calyptorhynchus lathami,10265,Calyptorhynchus lathami,Glossy Black-Cockatoo,Birds,Other Non-passerine birds,Species,Australia,Vulnerable,Calyptorhynchus lathami
+Anthochaera phrygia,10603,Anthochaera phrygia,Regent Honeyeater,Birds,Passerine birds,Species,Australia,Critically Endangered,Anthochaera phrygia
+Rhynchoedura ornata,12137,Rhynchoedura ornata,Beaked Gecko,Reptiles,Reptiles,Species,Victoria,Endangered,Rhynchoedura ornata
+Planigale gilesi,11050,Planigale gilesi,Gile's Planigale,Mammals,Mammals,Species,Victoria,Vulnerable,Planigale gilesi
+Antechinus minimus maritimus,11034,Antechinus minimus maritimus,Swamp Antechinus,Mammals,Mammals,Species,Australia,Vulnerable,Antechinus minimus
+Dasyornis broadbenti,10521,Dasyornis broadbenti,Rufous Bristlebird,Birds,Passerine birds,Species,NotListed,NotListed,Dasyornis broadbenti
+Thinornis cucullatus,10138,Thinornis cucullatus,Hooded Plover,Birds,Waders,Species,Australia,Vulnerable,Thinornis cucullatus
+Furina diadema,12669,Furina diadema,Red-naped Snake,Reptiles,Reptiles,Species,Victoria,Endangered,Furina diadema
+Pezoporus wallicus,10311,Pezoporus wallicus,Ground Parrot,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Pezoporus wallicus
+Litoria watsoni,13936,Litoria watsoni,Large Brown Tree Frog,Amphibians,Amphibians,Species,Australia,Endangered,Litoria littlejohni
+Chelodina expansa,5133,Chelodina expansa,Broad-shelled Turtle,Reptiles,Reptiles,Species,Victoria,Endangered,Chelodina expansa
+Pseudemoia cryodroma,12992,Pseudemoia cryodroma,Alpine Bog Skink,Reptiles,Reptiles,Species,Australia,Endangered,Pseudemoia cryodroma
+Heleioporus australiacus,13042,Heleioporus australiacus,Giant Burrowing Frog,Amphibians,Amphibians,Species,Victoria,Critically Endangered,Heleioporus australiacus
+Litoria verreauxii alpina,63907,Litoria verreauxii alpina,Alpine Tree Frog,Amphibians,Amphibians,Species,Victoria,Critically Endangered,Litoria verreauxii
+Synoicus chinensis,10012,Synoicus chinensis,King Quail,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Synoicus chinensis
+Gymnobelideus leadbeateri,11141,Gymnobelideus leadbeateri,Leadbeater's Possum,Mammals,Mammals,Species,Australia,Critically Endangered,Gymnobelideus leadbeateri
+Tringa brevipes,10155,Tringa brevipes,Grey-tailed Tattler,Birds,Waders,Species,Victoria,Critically Endangered,Tringa brevipes
+Tympanocryptis petersi,62921,Tympanocryptis petersi,Lined Earless Dragon,Reptiles,Reptiles,Species,Victoria,Endangered,Tympanocryptis petersi
+Parasuta spectabilis,12813,Parasuta spectabilis,Port Lincoln Snake,Reptiles,Reptiles,Species,Victoria,Endangered,Suta spectabilis
+Pseudomys novaehollandiae,11455,Pseudomys novaehollandiae,New Holland Mouse,Mammals,Mammals,Species,Victoria,Endangered,Pseudomys novaehollandiae
+Eulamprus kosciuskoi,12550,Eulamprus kosciuskoi,Alpine Water Skink,Reptiles,Reptiles,Species,Victoria,Endangered,Eulamprus kosciuskoi
+Litoria spenceri,13195,Litoria spenceri,Spotted Tree Frog,Amphibians,Amphibians,Species,Australia,Critically Endangered,Litoria spenceri
+Sternula albifrons,10117,Sternula albifrons,Little Tern,Birds,Waders,Species,Victoria,Critically Endangered,Sternula albifrons
+Turnix pyrrhothorax,10019,Turnix pyrrhothorax,Red-chested Button-quail,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Turnix pyrrhothorax
+Pedionomus torquatus,10020,Pedionomus torquatus,Plains-wanderer,Birds,Other Non-passerine birds,Species,Australia,Critically Endangered,Pedionomus torquatus
+Burramys parvus,11156,Burramys parvus,Mountain Pygmy-possum,Mammals,Mammals,Species,Australia,Endangered,Burramys parvus
+Coracina maxima,10423,Coracina maxima,Ground Cuckoo-shrike,Birds,Passerine birds,Species,Victoria,Endangered,Coracina maxima
+Lichenostomus melanops cassidix,60618,Lichenostomus melanops cassidix,Helmeted Honeyeater,Birds,Passerine birds,Species,Australia,Critically Endangered,Lichenostomus melanops
+Morelia spilota spilota,62968,Morelia spilota spilota,Diamond Python,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Morelia spilota
+Uperoleia martini,13930,Uperoleia martini,Martin's Toadlet,Amphibians,Amphibians,Species,Victoria,Critically Endangered,Uperoleia martini
+Cyclodomorphus praealtus,12987,Cyclodomorphus praealtus,Alpine She-oak Skink,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Cyclodomorphus praealtus
+Aprasia parapulchella,12144,Aprasia parapulchella,Pink-tailed Worm-Lizard,Reptiles,Reptiles,Species,Victoria,Endangered,Aprasia parapulchella
+Dasyornis brachypterus,10519,Dasyornis brachypterus,Eastern Bristlebird,Birds,Passerine birds,Species,Victoria,Critically Endangered,Dasyornis brachypterus
+Liopholis guthega,12432,Liopholis guthega,Guthega Skink,Reptiles,Reptiles,Species,Victoria,Critically Endangered,Liopholis guthega
+Litoria booroolongensis,13168,Litoria booroolongensis,Booroolong Tree Frog,Amphibians,Amphibians,Species,Australia,Endangered,Litoria booroolongensis
+Chlamydera maculata,10680,Chlamydera maculata,Spotted Bowerbird,Birds,Passerine birds,Species,Victoria,Extinct,Chlamydera maculata
+Petrogale penicillata,11215,Petrogale penicillata,Brush-tailed Rock-wallaby,Mammals,Mammals,Species,Victoria,Critically Endangered,Petrogale penicillata
+Neophema chrysogaster,10305,Neophema chrysogaster,Orange-bellied Parrot,Birds,Other Non-passerine birds,Species,Victoria,Critically Endangered,Neophema chrysogaster
+Dupetor flavicollis,60196,Dupetor flavicollis,Black Bittern,Birds,Other Non-passerine birds,Species,Victoria,Endangered,Ixobrychus flavicollis
+Echiopsis curta,12667,Echiopsis curta,Bardick,Reptiles,Reptiles,Species,Victoria,Endangered,Echiopsis curta
+Philoria frosti,13106,Philoria frosti,Baw Baw Frog,Amphibians,Amphibians,Species,Australia,Critically Endangered,Philoria frosti
+Tympanocryptis pinguicolla,12922,Tympanocryptis pinguicolla,Grassland Earless Dragon,Reptiles,Reptiles,Species,Australia,Critically Endangered,Tympanocryptis pinguicolla
+Rankinia diemensis (Anglesea),63940,Rankinia diemensis (Anglesea),Mountain Dragon Angelsea form,Reptiles,Reptiles,Species,NotListed,NotListed,Rankinia diemensis

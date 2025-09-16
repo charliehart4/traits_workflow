@@ -1,0 +1,208 @@
+source:
+  primary:
+    key: Soria_2021
+    bibtype: Article
+    author: Soria, C.D. and Pacifici, M. and Di Marco, M. and Stephen, S.M. and Rondinini, C.
+    year: 2021
+    title: "COMBINE: a coalesced mammal database of intrinsic and extrinsic traits"
+    journal: "Ecology"
+    volume: "102"
+    number: "6"
+    pages: "e03344"
+    doi: 10.1002/ecy.3344
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code:   '
+   data %>%
+   distinct(iucn2020_binomial, .keep_all = TRUE) %>%
+    mutate(
+      across(
+        c("hibernation_torpor", "fossoriality", "freshwater", 
+          "terrestrial_non-volant", "terrestrial_volant", 
+          "dphy_invertebrate", "dphy_vertebrate", "dphy_plant"), 
+        ~ ifelse(is.na(.x), NA, ifelse(.x == 0, 0, 1))
+      ),
+      n_offspring_year = litter_size_n * litters_per_year_n,
+
+      activity_nocturnal   = ifelse(activity_cycle == 1, 1, ifelse(is.na(activity_cycle), NA, 0)),
+      activity_diurnal     = ifelse(activity_cycle == 3, 1, ifelse(is.na(activity_cycle), NA, 0)),
+      activity_crepuscular = ifelse(activity_cycle == 2, 1, ifelse(is.na(activity_cycle), NA, 0)),
+      activity_cathemeral  = ifelse(activity_cycle %in% c(1, 3), 0, NA)  
+    ) %>%
+    distinct()'
+  collection_date: '2025'
+  taxon_name: iucn2020_binomial
+  location_name: unknown
+  description: "Species-level mammal traits compiled from COMBINE (Soria et al. 2021) with simple binary recodes and a derived offspring-per-year metric."
+  basis_of_record: literature
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: "Compilation/unification from multiple published sources under a common taxonomy; not new field measurements."
+locations: .na
+contexts: .na
+traits:
+- var_in: adult_mass_g
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: max_longevity_d
+  unit_in: days
+  trait_name: max_longevity_d
+  entity_type: species
+  value_type: maximum
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: litter_size_n
+  unit_in: count
+  trait_name: litter_size_n
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: litters_per_year_n
+  unit_in: count
+  trait_name: litters_per_year_n
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: dispersal_km
+  unit_in: km
+  trait_name: dispersal_km
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: hibernation_torpor
+  unit_in: unknown
+  trait_name: hibernation_torpor
+  entity_type: species
+  value_type: mode
+  basis_of_value: unknown
+  replicates: .na
+  methods: unknown
+- var_in: fossoriality
+  unit_in: unknown
+  trait_name: stratum_fossorial
+  entity_type: species
+  value_type: mode
+  basis_of_value: unknown
+  replicates: .na
+  methods: unknown
+- var_in: home_range_km2
+  unit_in: km2
+  trait_name: home_range_km2
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: dphy_invertebrate
+  unit_in: unknown
+  trait_name: diet_invertivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: dphy_vertebrate
+  unit_in: unknown
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: dphy_plant
+  unit_in: unknown
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: freshwater
+  unit_in: unknown
+  trait_name: stratum_aquatic
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: terrestrial_non-volant
+  unit_in: unknown
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: terrestrial_volant
+  unit_in: unknown
+  trait_name: volant
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: n_offspring_year
+  unit_in: count
+  trait_name: n_offspring_year
+  entity_type: species
+  value_type: unknown
+  basis_of_value: measurement
+  replicates: .na
+  methods: product of litter size and litters per year
+- var_in: activity_nocturnal
+  unit_in: unknown
+  trait_name: activity_nocturnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from ordinal column 'activity_cycle'; 1 = nocturnal only
+- var_in: activity_diurnal
+  unit_in: unknown
+  trait_name: activity_diurnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from ordinal column 'activity_cycle'; 3 = diurnal only
+- var_in: activity_crepuscular
+  unit_in: unknown
+  trait_name: activity_crepuscular
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from ordinal column 'activity_cycle'; 2 = mixed types including crepuscular
+- var_in: activity_cathemeral
+  unit_in: unknown
+  trait_name: activity_cathemeral
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from ordinal column 'activity_cycle'; set to NA for code 2, 0 for codes 1 and 3
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

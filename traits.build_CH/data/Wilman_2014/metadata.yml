@@ -1,0 +1,176 @@
+source:
+  primary:
+    key: Wilman_2014
+    bibtype: Article
+    author: Wilman, H. and Belmaker, J. and Simpson, J. and de la Rosa, C. and Rivadeneira, M.M. and Jetz, W.
+    year: 2014
+    title: "EltonTraits 1.0: Species-level foraging attributes of the world's birds and mammals"
+    journal: Ecology
+    volume: 95
+    number: 7
+    pages: 2027--2027
+    doi: 10.1890/13-1917.1
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+    data %>%
+    mutate(
+      across(
+        c(`Diet-Inv`, `Diet-Vend`, `Diet-Vect`, `Diet-Vfish`, `Diet-Vunk`,
+          `Diet-Scav`, `Diet-Fruit`, `Diet-Nect`, `Diet-Seed`, `Diet-PlantO`),
+        ~ ifelse(.x == 0, 0, 1)
+      ),
+      diet_carnivore = ifelse(`Diet-Vend` + `Diet-Vect` + `Diet-Vfish` > 0, 1, 0),
+      diet_inflorescence = ifelse(`Diet-Nect` + `Diet-Fruit` > 0, 1, 0),
+      stratum = case_when(
+        `ForStrat-Value` %in% c("Ar", "S") ~ "Arboreal",
+        `ForStrat-Value` == "G" ~ "Terrestrial",
+        `ForStrat-Value` == "I" ~ "Insessorial",
+        `ForStrat-Value` == "A" ~ "Aerial",
+        `ForStrat-Value` == "M" ~ "Aquatic",
+        TRUE ~ NA_character_
+        ) 
+      ) %>%
+    mutate(
+      stratum_terrestrial = ifelse(stratum == "Terrestrial", 1, 0),
+      stratum_arboreal_insessorial = ifelse(stratum %in% c("Arboreal", "Insessorial"), 1, 0),
+      stratum_aerial = ifelse(stratum == "Aerial", 1, 0),
+      stratum_aquatic = ifelse(stratum == "Aquatic", 1, 0)
+    )
+     ' 
+  collection_date: '2025'
+  taxon_name: Scientific
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Diet-Inv
+  unit_in: .na
+  trait_name: diet_invertivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: unknown
+- var_in: Diet-Seed
+  unit_in: .na
+  trait_name: diet_granivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: unknown
+- var_in: Diet-PlantO
+  unit_in: .na
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: unknown
+- var_in: BodyMass-Value
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: unknown
+  basis_of_value: measurement
+  replicates: unknown
+  methods: unknown
+- var_in: diet_carnivore
+  unit_in: .na
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from Diet.Vend, Diet.Vect, Diet.Vfish columns
+- var_in: diet_inflorescence
+  unit_in: .na
+  trait_name: diet_inflorescence
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: derived from Diet.Fruit and Diet.Nect columns
+- var_in: stratum
+  unit_in: .na
+  trait_name: stratum
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: mapped from ForStrat.Value using predefined letter codes
+- var_in: stratum_terrestrial
+  unit_in: .na
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: Derived from ForStrat-Value field.
+- var_in: stratum_arboreal_insessorial
+  unit_in: .na
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: Derived from ForStrat-Value field.
+- var_in: stratum_aerial
+  unit_in: .na
+  trait_name: stratum_aerial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: Derived from ForStrat-Value field.
+- var_in: stratum_aquatic
+  unit_in: .na
+  trait_name: stratum_aquatic
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: Derived from ForStrat-Value field.
+- var_in: Activity-Nocturnal
+  unit_in: .na
+  trait_name: activity_nocturnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: unknown
+- var_in: Activity-Crepuscular
+  unit_in: .na
+  trait_name: activity_crepuscular
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: unknown
+- var_in: Activity-Diurnal
+  unit_in: .na
+  trait_name: activity_diurnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: unknown
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

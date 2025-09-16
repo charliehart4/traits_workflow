@@ -1,0 +1,114 @@
+id,Taxon_ID,Scientific_Name,Scientific_Name_Alt,Genus,Common_Name,stratum,stratum_water,stratum_fossorial,stratum_generalist,stratum_saxicolous,stratum_grass_hummock,stratum_arboreal,stratum_CWD,diet,diet_breadth_n,diet_carnivore,diet_herbivore,diet_invertivore,diet_infloresence,diet_omnivore,diet_granivore
+1,12375,Ctenotus robustus,Ctenotus spaldingi,Ctenotus,Large Striped Skink,,0,1,0,1,0,0,0,Omnivore,,1,0,1,1,0,0
+2,12936,Ctenotus orientalis,Ctenotus orientalis,Ctenotus,Eastern Striped Skink,,0,1,1,0,0,0,0,Omnivore,,0,0,1,1,0,0
+3,12386,Ctenotus taeniolatus,Ctenotus taeniolatus,Ctenotus,Copper-tailed Skink,,0,1,0,1,0,0,0,Carnivore,,1,0,1,0,0,0
+4,12374,Ctenotus regius,Ctenotus regius,Ctenotus,Regal Striped Skink,,0,1,0,0,1,0,0,Omnivore,,0,0,1,1,0,0
+5,12342,Ctenotus brachyonyx,Ctenotus inornatus,Ctenotus,Murray Striped Skink,,0,1,0,0,1,0,0,Invertivore,,0,0,1,0,0,0
+6,62933,Ctenotus taeniatus,Ctenotus taeniatus,Ctenotus,Brooks's Striped Skink,,0,1,0,1,1,0,0,Invertivore,,0,0,1,0,0,0
+7,12994,Pseudemoia entrecasteauxii,Pseudemoia entrecasteauxii,Pseudemoia,Southern Grass Skink,,0,0,1,1,0,0,1,Invertivore,,0,0,1,0,0,0
+8,12541,Pseudemoia spenceri,Pseudemoia spenceri,Pseudemoia,Spencer's Skink,,0,0,0,0,0,1,1,Omnivore,,0,0,1,1,0,0
+9,12948,Pseudemoia pagenstecheri,Pseudemoia cryodoma,Pseudemoia,Grass skink FORM (P.pag/cry),,0,0,0,0,1,0,1,Invertivore,,0,0,1,0,0,0
+10,62956,Eulamprus tympanum tympanum,Eulamprus tympanum,Eulamprus,Southern Water Skink,,1,0,1,0,0,0,1,Carnivore,,1,0,1,0,0,0
+11,12957,Eulamprus heatwolei,Eulamprus heatwolei,Eulamprus,Yellow-bellied Water Skink,,1,0,1,0,0,0,1,Carnivore,,1,0,1,0,0,0
+12,12557,Eulamprus quoyii,Eulamprus quoyii,Eulamprus,Eastern Water Skink,,1,1,0,0,0,0,0,Carnivore,,1,0,1,0,0,0
+13,12580,Tiliqua scincoides,Tiliqua scincoides,Tiliqua,Common Blue-tongued Lizard,,0,0,1,0,0,0,1,Omnivore,,1,0,1,1,1,0
+14,12578,Tiliqua nigrolutea,Tiliqua nigrolutea,Tiliqua,Blotched Blue-tongued Lizard,,0,1,1,0,0,0,1,Omnivore,,1,0,1,1,1,0
+15,62430,Liopholis whitii GROUP,Liopholis whitii,Liopholis,White's Skink,,0,1,1,1,0,0,0,Omnivore,,0,0,1,0,1,0
+16,12583,Tiliqua rugosa,Tiliqua rugosa,Tiliqua,Stumpy-tailed Lizard,,0,1,0,0,0,0,1,Omnivore,,1,0,1,1,1,0
+17,12160,Delma inornata,Delma inornata,Delma,Olive Legless Lizard,,0,0,1,1,0,0,1,Invertivore,,0,0,1,0,0,0
+18,12588,Ramphotyphlops bituberculatus,Anilios bituberculatus,Ramphotyphlops,Peters's Blind Snake,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+19,12724,Parasuta nigriceps,Suta nigriceps,Parasuta,Mitchell's Short-tailed Snake,,0,1,0,1,0,0,0,Carnivore,,1,0,0,0,0,0
+20,12727,Parasuta flagellum,Suta flagellum,Parasuta,Little Whip Snake,,0,1,0,1,0,0,0,Carnivore,,1,0,0,0,0,0
+21,12154,Delma australis,Delma australis,Delma,Southern Legless Lizard,,0,1,0,0,1,0,0,Invertivore,,0,0,1,0,0,0
+22,12586,Ramphotyphlops bicolor,Anilios bicolor,Ramphotyphlops,West Australian Dark-spined Blind Snake,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+23,12167,Delma butleri,Delma butleri,Delma,Butler's Legless Lizard,,0,0,0,0,1,0,0,Invertivore,,0,0,1,0,0,0
+24,12143,Aprasia inaurita,Aprasia inaurita,Aprasia,Pink-nosed Worm-Lizard,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+25,12413,Liopholis inornata,Liopholis inornata,Liopholis,Desert Skink,,0,1,0,0,1,0,0,Omnivore,,1,0,1,0,1,0
+26,12599,Ramphotyphlops nigrescens,Anilios nigrescens,Ramphotyphlops,Gray's Blind Snake,,0,1,0,1,0,0,0,Invertivore,,0,0,1,0,0,0
+27,12726,Parasuta dwyeri,Suta dwyeri,Parasuta,Dwyer's Snake,,0,1,0,1,0,0,0,Carnivore,,1,0,0,0,0,0
+28,12433,Liopholis montana,Liopholis montana,Liopholis,Mountain Skink,,0,1,0,0,0,0,0,Omnivore,,0,0,1,0,1,0
+29,12579,Tiliqua occipitalis,Tiliqua occipitalis,Tiliqua,Western Blue-tongued Lizard,,0,0,0,0,1,0,0,Omnivore,,1,0,1,1,1,0
+30,12603,Ramphotyphlops proximus,Anilios proximus,Ramphotyphlops,Woodland Blind Snake,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+  ,12993,Pseudemoia pagenstecheri (Volcanic Plains),Pseudemoia pagenstecheri,Pseudemoia,Tussock Skink,,0,0,0,0,1,0,0,Invertivore,,0,0,1,0,0,0
+32,12683,Pseudemoia rawlinsoni,Pseudemoia rawlinsoni,Pseudemoia,Glossy Grass Skink,,0,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+33,19008,Ctenotus olympicus,Ctenotus olympicus,Ctenotus,Saltbush Striped Skink,,0,1,0,1,0,0,0,Invertivore,,0,0,1,0,0,0
+34,12475,Lerista bougainvillii,Lerista bougainvillii,Lerista,Bougainville's Skink,,0,1,0,1,0,0,0,Invertivore,,0,0,1,0,0,0
+35,62938,Egernia saxatilis intermedia,Egernia saxatilis,Egernia,Black Rock Skink,,0,0,0,1,0,1,1,Omnivore,,1,0,1,0,1,0
+36,12526,Morethia boulengeri,Morethia boulengeri,Morethia,Boulenger's Skink,,0,1,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+37,12194,Amphibolurus muricatus,Amphibolurus muricatus,Amphibolurus,Tree Dragon,,0,1,0,0,0,1,1,Carnivore,,1,0,1,0,0,0
+38,12077,Diplodactylus vittatus,Diplodactylus vittatus,Diplodactylus,Wood Gecko,,0,1,0,1,1,0,1,Invertivore,,0,0,1,0,0,0
+39,12283,Varanus varius,Varanus varius,Varanus,Lace Monitor,,0,1,0,0,0,1,1,Carnivore,,1,0,0,0,0,0
+40,12182,Rankinia diemensis,Rankinia diemensis,Rankinia,Mountain Dragon,,0,1,1,0,0,0,0,Invertivore,,0,0,1,0,0,0
+41,12271,Varanus gouldii,Varanus gouldii,Varanus,Sand Goanna,,0,1,0,0,0,0,1,Carnivore,,1,0,1,0,0,0
+42,12408,Egernia cunninghami,Egernia cunninghami,Egernia,Cunningham's Skink,,0,0,0,1,0,0,0,Omnivore,,1,0,1,0,1,0
+43,12529,Morethia obscura,Morethia obscura,Morethia,Obscure Skink,,0,1,0,0,1,0,1,Invertivore,,0,0,1,0,0,0
+44,12109,Diplodactylus damaeus,Lucasium damaeum,Diplodactylus,Beaded Gecko,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+45,19000,Amphibolurus nobbi,Diporiphora nobbi,Amphibolurus,Nobbi Dragon,,0,0,0,0,0,1,1,Invertivore,,0,0,1,0,0,0
+46,12429,Egernia striolata,Egernia striolata,Egernia,Tree Skink,,0,0,0,1,0,1,1,Carnivore,,1,0,1,0,0,0
+47,12499,Lerista punctatovittata,Lerista punctatovittata,Lerista,Spotted Burrowing Skink,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+48,12209,Amphibolurus norrisi,Amphibolurus norrisi,Amphibolurus,Norris's Dragon,,0,1,0,0,0,1,1,Carnivore,,1,0,1,0,0,0
+49,12076,Diplodactylus tessellatus,Diplodactylus tessellatus,Diplodactylus,Tessellated Gecko,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+50,63941,Rankinia diemensis (Grampians),Rankinia diemensis,Rankinia,Mountain Dragon Grampians form,,0,1,1,0,0,0,1,Invertivore,,0,0,1,0,0,0
+51,12699,Pseudonaja textilis,Pseudonaja textilis,Pseudonaja,Eastern Brown Snake,,0,0,0,0,0,0,0,Carnivore,,1,0,0,0,0,0
+52,12451,Lampropholis guichenoti,Lampropholis guichenoti,Lampropholis,Garden Skink,,0,0,1,0,0,0,0,Invertivore,,0,0,1,0,0,0
+53,12682,Acritoscincus duperreyi,Acritoscincus duperreyi,Acritoscincus,Eastern Three-lined Skink,,0,0,1,0,0,0,1,Invertivore,,0,0,1,0,0,0
+54,12973,Austrelaps superbus,Austrelaps superbus,Austrelaps,Lowland Copperhead,,0,1,0,0,0,0,1,Carnivore,,1,0,0,0,0,0
+55,12450,Lampropholis delicata,Lampropholis delicata,Lampropholis,Delicate Skink,,0,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+56,12177,Pogona barbata,Pogona barbata,Pogona,Bearded Dragon,,0,0,0,0,0,0,1,Omnivore,,1,0,1,0,1,0
+57,12665,Drysdalia coronoides,Drysdalia coronoides,Drysdalia,White-lipped Snake,,0,0,0,0,0,0,1,Carnivore,,1,0,0,0,0,0
+58,12458,Niveoscincus coventryi,Carinascincus coventryi,Niveoscincus,Coventry's Skink,,0,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+59,12972,Austrelaps ramsayi,Austrelaps ramsayi,Austrelaps,Highland Copperhead,,0,1,0,1,0,0,0,Carnivore,,1,0,0,0,0,0
+60,12441,Hemiergis decresiensis,Hemiergis decresiensis,Hemiergis,Three-toed Skink,,0,0,0,1,0,0,0,Invertivore,,0,0,1,0,0,0
+61,12204,Pogona vitticeps,Pogona vitticeps,Pogona,Central Bearded Dragon,,0,0,0,0,0,0,1,Omnivore,,1,0,1,0,1,0
+62,12174,Pygopus lepidopodus,Pygopus lepidopodus,Pygopus,Common Scaly-foot,,0,1,0,0,0,0,1,Carnivore,,1,0,1,0,0,0
+63,12199,Ctenophorus pictus,Ctenophorus pictus,Ctenophorus,Painted Dragon,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+64,12185,Ctenophorus fordi,Ctenophorus fordi,Ctenophorus,Mallee Dragon,,0,0,0,0,1,0,0,Invertivore,,0,0,1,0,0,0
+65,12698,Pseudonaja aspidorhyncha,Pseudonaja aspidorhyncha,Pseudonaja,Patch-nosed Brown Snake,,0,0,0,0,0,0,0,Carnivore,,1,0,0,0,0,0
+66,12462,Niveoscincus metallicus,Carinascincus metallicus,Niveoscincus,Metallic Skink,,0,0,0,1,0,0,1,Invertivore,,0,0,1,0,0,0
+67,5134,Chelodina longicollis,Chelodina longicollis,Chelodina,Eastern Snake-necked Turtle,,1,0,0,0,0,0,0,Omnivore,,1,0,1,0,1,0
+68,12464,Acritoscincus platynotus,Acritoscincus platynotus,Acritoscincus,Red-throated Skink,,0,0,0,1,0,0,1,Invertivore,,0,0,1,0,0,0
+69,12446,Hemiergis peronii,Hemiergis peronii,Hemiergis,Four-toed Skink,,0,0,0,0,0,0,1,Carnivore,,1,0,1,0,0,0
+70,12681,Notechis scutatus,Notechis scutatus,Notechis,Tiger Snake,,0,1,1,0,0,0,0,Carnivore,,1,0,0,0,0,0
+71,12693,Pseudechis porphyriacus,Pseudechis porphyriacus,Pseudechis,Red-bellied Black Snake,,1,1,0,0,0,0,1,Carnivore,,1,0,0,0,0,0
+72,12444,Anepischtos maccoyi,Anepischetosia maccoyi,Anepischtos,McCoy's Skink,,0,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+73,12452,Saproscincus mustelinus,Saproscincus mustelinus,Saproscincus,Weasel Skink,,0,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+74,12519,Menetia greyii,Menetia greyii,Menetia,Grey's Skink,,0,0,0,1,1,0,1,Invertivore,,0,0,1,0,0,0
+75,12650,Rhinoplocephalus nigrescens,Cryptophis nigrescens,Rhinoplocephalus,Eastern Small-eyed Snake,,0,1,0,1,0,0,1,Carnivore,,1,0,0,0,0,0
+76,12126,Christinus marmoratus,Christinus marmoratus,Christinus,Marbled Gecko,,0,0,0,1,0,1,1,Invertivore,,0,0,1,0,0,0
+77,12326,Cryptoblepharus pannosus,Cryptoblepharus pannosus,Cryptoblepharus,Carnaby's Wall Skink,,0,0,0,1,0,1,1,Invertivore,,0,0,1,0,0,0
+78,12138,Underwoodisaurus milii,Underwoodisaurus milii,Underwoodisaurus,Thick-tailed Barking Gecko,,0,1,0,1,0,0,1,Carnivore,,1,0,1,0,0,0
+79,12059,Strophurus intermedius,Strophurus intermedius,Strophurus,Southern Spiny-tailed Gecko,,0,0,0,1,0,1,1,Invertivore,,0,0,1,0,0,0
+80,62919,Intellagama lesueurii howittii,Intellagama lesueurii,Intellagama,Gippsland Water Dragon,,1,1,0,0,0,1,1,Omnivore,,1,0,1,1,1,0
+81,12170,Lialis burtonis,Lialis burtonis,Lialis,Burton's Snake-Lizard,,0,0,0,1,1,0,1,Carnivore,,1,0,0,0,0,0
+82,12318,Carlia tetradactyla,Carlia tetradactyla,Carlia,Southern Rainbow Skink,,0,0,0,1,0,0,1,Invertivore,,0,0,1,0,0,0
+83,12092,Gehyra variegata,Gehyra veriscolor,Gehyra,Tree Dtella,,0,0,0,0,0,1,1,Invertivore,,0,0,1,0,0,0
+84,12655,Demansia psammophis,Demansia psammophis,Demansia,Yellow-faced Whip Snake,,0,0,0,0,1,0,0,Carnivore,,1,0,0,0,0,0
+85,12722,Suta suta,Suta suta,Suta,Curl Snake,,0,1,0,0,0,0,0,Carnivore,,1,0,0,0,0,0
+86,12105,Heteronotia binoei,Heteronotia binoei,Heteronotia,Bynoe's Gecko,,0,1,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+87,5135,Emydura macquarii,Emydura macquarii,Emydura,Murray River Turtle,,1,0,0,0,0,0,0,Omnivore,,1,1,1,0,1,0
+88,12159,Delma impar,Delma impar,Delma,Striped Legless Lizard,,0,1,0,0,1,0,1,Invertivore,,0,0,1,0,0,0
+89,62969,Morelia spilota metcalfei,Morelia spilota,Morelia,Carpet Python,,0,1,0,1,0,1,1,Carnivore,,1,0,0,0,0,0
+90,12734,Vermicella annulata,Vermicella annulata,Vermicella,Bandy Bandy,,0,1,0,0,0,0,0,Carnivore,,1,0,0,0,0,0
+91,12287,Varanus rosenbergi,Varanus rosenbergi,Varanus,Rosenberg's Goanna,,0,1,0,0,0,1,0,Carnivore,,1,0,1,0,0,0
+92,12525,Morethia adelaidensis,Morethia adelaidensis,Morethia,Samphire Skink,,0,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+93,12666,Drysdalia mastersii,Drysdalia mastersii,Drysdalia,Masters' Snake,,0,0,0,0,1,0,1,Carnivore,,1,0,0,0,0,0
+94,12150,Aprasia striolata,Aprasia striolata,Aprasia,Striped Worm-Lizard,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+95,12492,Lerista timida,Lerista timida,Lerista,Dwarf Burrowing Skink,,0,1,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+96,12407,Lissolepis coventryi,Lissolepis coventryi,Lissolepis,Swamp Skink,,1,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+97,12141,Aprasia aurita,Aprasia aurita,Aprasia,Mallee Worm-Lizard,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+98,12176,Pygopus schraderi,Pygopus schraderi,Pygopus,Hooded Scaly-foot,,0,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+99,62958,Eulamprus tympanum marnieae,Eulamprus tympanum,Eulamprus,Corangamite Water Skink,,1,0,0,1,0,0,0,Invertivore,,0,0,1,0,0,0
+100,12137,Rhynchoedura ornata,Rhynchoedura ornata,Rhynchoedura,Beaked Gecko,,0,1,0,0,0,0,1,Invertivore,,0,0,0,0,0,0
+101,12669,Furina diadema,Furina diadema,Furina,Red-naped Snake,,0,0,0,0,0,0,1,Carnivore,,1,0,0,0,0,0
+102,5133,Chelodina expansa,Chelodina expansa,Chelodina,Broad-shelled Turtle,,1,0,0,0,0,0,0,Carnivore,,1,0,1,0,0,0
+103,12992,Pseudemoia cryodroma,Pseudemoia cryodroma,Pseudemoia,Alpine Bog Skink,,1,0,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+104,62921,Tympanocryptis petersi,Tympanocryptis lineata,Tympanocryptis,Lined Earless Dragon,,0,1,0,0,0,0,1,Invertivore,,0,0,1,0,0,0
+105,12813,Parasuta spectabilis,Suta spectabilis,Parasuta,Port Lincoln Snake,,0,1,0,0,0,0,0,Carnivore,,1,0,0,0,0,0
+106,12550,Eulamprus kosciuskoi,Eulamprus kosciuskoi,Eulamprus,Alpine Water Skink,,1,1,0,0,0,0,0,Invertivore,,0,0,1,0,0,0
+107,62968,Morelia spilota spilota,Morelia spilota,Morelia,Diamond Python,,0,0,0,0,0,0,1,Carnivore,,1,0,0,0,0,0
+108,12987,Cyclodomorphus praealtus,Cyclodomorphus praealtus,Cyclodomorphus,Alpine She-oak Skink,,0,0,0,1,1,0,0,Invertivore,,1,0,1,0,0,0
+109,12144,Aprasia parapulchella,Aprasia parapulchella,Aprasia,Pink-tailed Worm-Lizard,,0,1,0,1,0,0,0,Invertivore,,0,0,1,0,0,0
+110,12432,Liopholis guthega,Liopholis guthega,Liopholis,Guthega Skink,,0,1,0,0,0,0,0,Omnivore,,0,0,1,1,0,0
+111,12667,Echiopsis curta,Echiopsis curta,Echiopsis,Bardick,,0,0,0,0,1,0,1,Carnivore,,1,0,0,0,0,0
+112,12922,Tympanocryptis pinguicolla,Tympanocryptis pinguicolla,Tympanocryptis,Grassland Earless Dragon,,0,1,0,0,1,0,0,Invertivore,,0,0,1,0,0,0
+113,63940,Rankinia diemensis (Anglesea),Rankinia diemensis,Rankinia,Mountain Dragon Angelsea form,,0,0,0,0,0,0,0,Carnivore,,1,0,1,0,0,0

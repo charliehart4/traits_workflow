@@ -1,0 +1,189 @@
+source:
+  primary:
+    key: Oliveira_2017
+    bibtype: Article
+    year: '2017'
+    author: Brunno Freire Oliveira and Vinícius Avelar São-Pedro and Georgina Santos-Barrera
+      and Caterina Penone and Gabriel C. Costa
+    journal: Scientific Data
+    title: AmphiBIO, a global database for amphibian ecological traits
+    volume: '4'
+    number: '1'
+    doi: 10.1038/sdata.2017.123
+    issn: 2052-4463
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+   data %>%
+    mutate(
+    derived_litters_per_year_n = as.numeric(Reproductive_output_y),
+      derived_litter_size_n = rowMeans(
+        cbind(Litter_size_min_n, Litter_size_max_n),
+        na.rm = TRUE
+      ),
+       derived_n_offspring_year = derived_litter_size_n * derived_litters_per_year_n
+    ) %>%
+    mutate(
+      across(
+        c(Fos, Ter, Aqu, Arb, Leaves, Seeds, Arthro, Vert),
+        ~ ifelse(is.na(.x), 0, ifelse(.x == 0, 0, 1))
+      )
+    ) %>%
+    mutate(
+      activity_diurnal     = ifelse(is.na(Diu), 0, Diu),
+      activity_nocturnal   = ifelse(is.na(Noc), 0, Noc),
+      activity_crepuscular = ifelse(is.na(Crepu), 0, Crepu),
+    )
+   '
+  collection_date: ''
+  taxon_name: Species
+  location_name: unknown
+  description: "Species-level amphibian traits compiled from AmphiBIO (Oliveira et al. 2017)"
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: Fos
+  unit_in: unknown
+  trait_name: stratum_fossorial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Ter
+  unit_in: unknown
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Aqu
+  unit_in: unknown
+  trait_name: stratum_aquatic
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Arb
+  unit_in: unknown
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Leaves
+  unit_in: unknown
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Seeds
+  unit_in: unknown
+  trait_name: diet_granivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Arthro
+  unit_in: unknown
+  trait_name: diet_invertivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Vert
+  unit_in: unknown
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Body_mass_g
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: Longevity_max_y
+  unit_in: years
+  trait_name: max_longevity_d
+  entity_type: species
+  value_type: maximum
+  basis_of_value: measurement
+  replicates: .na
+  methods: unknown
+- var_in: derived_litter_size_n
+  unit_in: count
+  trait_name: litter_size_n
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: Averaged from `Litter_size_min_n` and `Litter_size_max_n`
+- var_in: derived_litters_per_year_n
+  unit_in: count
+  trait_name: litters_per_year_n
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods:
+- var_in: derived_n_offspring_year
+  unit_in: count
+  trait_name: n_offspring_year
+  entity_type: species
+  value_type: mean
+  basis_of_value: expert_score
+  replicates: .na
+  methods: product of `derived_litter_size_n` and `Reproductive_output_y`
+- var_in: Diu
+  unit_in: unknown
+  trait_name: activity_diurnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Noc
+  unit_in: unknown
+  trait_name: activity_nocturnal
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: Crepu
+  unit_in: unknown
+  trait_name: activity_crepuscular
+  entity_type: species
+  value_type: unknown
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

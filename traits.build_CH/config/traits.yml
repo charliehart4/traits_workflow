@@ -1,0 +1,332 @@
+traits:
+  description: Names and details of traits for the geometry database, geometryDB. All  of these have a role in calculating geometries needed for heat budget calculations.
+  type: list
+  elements:
+    Mass_g:
+      label: mass 
+      description: mass measured to the nearest gram
+      type: numeric
+      units: g
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    home_range_km2:
+      label: home range 
+      description: home range measured to nearest m2
+      type: numeric
+      units: km2
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    dispersal_km:
+      label: dispersal distance 
+      description: dispersal distance to nearest km
+      type: numeric
+      units: km
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    stratum:
+      label: stratum 
+      description: which stratum category does species fall under
+      type: categorical
+      allowed_values_levels:
+        arboreal: Primarily lives in trees
+        terrestrial: Ground-dwelling
+        insessorial: Perches on trees or bushes
+        generalist: Uses multiple strata
+        aerial: Active in the air (e.g. flying or gliding)
+        aquatic: Lives in water or wet habitats
+        fossorial: Digs or burrows underground
+        saxicolous: Lives among rocks
+    stratum_aquatic:
+      label: stratum aquatic 
+      description: does species live in water
+      type: categorical
+      allowed_values_levels:
+        1: Yes
+        0: No
+    stratum_aerial:
+      label: stratum aerial 
+      description: does species live in the air
+      type: categorical
+      allowed_values_levels:
+        1: Yes
+        0: No
+    stratum_fossorial:
+      label: stratum fossorial 
+      description: does species live underground
+      type: categorical
+      allowed_values_levels:
+        1: Yes
+        0: No
+    stratum_arboreal_insessorial:
+      label: stratum arboreal 
+      description: does species live in trees
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_cryptic:
+      label: stratum cryptic 
+      description: does species avoid detection
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_generalist:
+      label: stratum generalist 
+      description: does species live in a variety of enviornments
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_saxicolous:
+      label: stratum saxicolous 
+      description: does species live among rocks
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_terrestrial:
+      label: stratum terrestrial 
+      description: does species live on land
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_water:
+      label: stratum water 
+      description: does species live close to water
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_CWD:
+      label: stratum CWD 
+      description: does species live in coarse woody debris
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    stratum_grass_hummock:
+      label: stratum grass hummock 
+      description: does species live in grass hummocks
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    nesting:
+      label: nesting 
+      description: where does species nest
+      type: categorical
+      allowed_values_levels:
+        branch: nests on branches
+        burrow: nests in burrows
+        hollows: nests in tree hollows
+        ground: nests on the ground
+        cave: nests in caves
+    nest_burrow:
+      label: nest burrow 
+      description: does species nest in a burrow
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    nest_cave:
+      label: nest cave 
+      description: does species nest in a cave
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    nest_ground:
+      label: nest ground 
+      description: does species nest on the ground
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    nest_hollows:
+      label: nest hollows 
+      description: does species nest in hollows
+      type: categorical
+      allowed_values_levels:
+        1: Yes
+        0: No
+    nest_branch:
+      label: nest branch 
+      description: does species nest on a branch
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    volant:
+      label: volant 
+      description: is species capable of flying or gliding
+      type: categorical
+      allowed_values_levels:
+        1: Yes
+        0: No
+    hibernation_torpor:
+      label: hibernation torpor
+      description: is species capable of hibernation or torpor 
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    diet:
+      label: diet 
+      description: which diet category does species belong to
+      type: categorical
+      allowed_values_levels:
+        omnivore: Eats both plants and animals
+        invertivore: Feeds on invertebrates
+        carnivore: Feeds on vertebrates or fish
+        herbivore: Feeds on plant material
+        inflorescence: Feeds on nectar or fruit
+        granivore: Feeds on seeds
+    diet bredth:
+      label: diet bredth
+      description: how many diet categories does species consume 
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 10
+    diet_carnivore:
+      label: diet carnivore
+      description: does species feed on animals
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No
+    diet_herbivore:
+      label: diet herbivore
+      description: does species feed on plants
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    diet_invertivore:
+      label: diet invertivore
+      description: does species feed on invertebrates
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    diet_inflorescence:
+      label: diet inflorescence
+      description: does species feed on inflorescence
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No
+    diet_omnivore:
+      label: diet omnivore
+      description: does species feed on both plants and animals
+      type: categorical
+      allowed_values_levels:
+       1: Yes
+       0: No
+    diet_granivore:
+      label: diet granivore
+      description: does species feed on seeds
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No
+    litter_size_n:
+      label: litter brood size
+      description: how many young are in each litter or brood 
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    litters_per_year_n:
+      label: litters per year
+      description: how many litters or broods per year 
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    max_longevity_d:
+      label: max longevity days
+      description: what is the maximum number of days the species has been obseved to live
+      type: numeric
+      units: days
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    n_offspring_year:
+      label: number of offspring produced in an year
+      description: how many young are produced in a year 
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    biggest_patch_size:
+      label: biggest patch size
+      description: biggest patch size 
+      type: numeric
+      units: m2
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    n_habitat_patches:
+      label: number of habitat pattches
+      description: number of patches 
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    patch_isolation:
+      label: patch isolation
+      description: patch isolation 
+      type: numeric
+      units: m2
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    dominant_pyrome:
+      label: dominant pyrome
+      description: dominant pyrome
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    pyrome_breadth:
+      label: pyrome breadth
+      description: pyrome breadth
+      type: numeric
+      units: count
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    dispersal_HWI:
+      label: dispersal hand-wing index 
+      description: dispersal distance proxy uing HWI for birds only
+      type: numeric
+      units: HWI
+      allowed_values_min: 0
+      allowed_values_max: 1000000
+    activity_nocturnal:
+      label: activity nocturnal
+      description: is the species active during the night
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No
+    activity_diurnal:
+      label: activity diurnal
+      description: is the species active during the day
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No
+    activity_crepuscular:
+      label: activity crepuscular
+      description: is the species active during dawn and dusk
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No
+    activity_cathemeral:
+      label: activity cathemeral
+      description: is the species active both day and night
+      type: categorical
+      allowed_values_levels:
+      1: Yes
+      0: No

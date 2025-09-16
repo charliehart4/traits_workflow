@@ -1,0 +1,562 @@
+dominant_pyrome,pyrome_breadth,TAXON_ID,dominant_pyrome_name,Sci_Name,COMMON_NAME,TaxaGroup,TAXON_TYPE,Extinction_Risk,FFG_Status,Sci_Name_Alt
+4,4,11028,Wet Temperate Forest,Antechinus agilis,Agile Antechinus,Mammals,Mammals,NotListed,NotListed,Antechinus agilis
+4,2,12992,Wet Temperate Forest,Pseudemoia cryodroma,Alpine Bog Skink,Reptiles,Reptiles,Australia,Endangered,Pseudemoia cryodroma
+4,1,12987,Wet Temperate Forest,Cyclodomorphus praealtus,Alpine She-oak Skink,Reptiles,Reptiles,Victoria,Critically Endangered,Cyclodomorphus praealtus
+4,1,63907,Wet Temperate Forest,Litoria verreauxii alpina,Alpine Tree Frog,Amphibians,Amphibians,Victoria,Critically Endangered,Litoria verreauxii
+4,1,12550,Wet Temperate Forest,Eulamprus kosciuskoi,Alpine Water Skink,Reptiles,Reptiles,Victoria,Endangered,Eulamprus kosciuskoi
+14,6,10675,Dry Cropping Zone,Struthidea cinerea,Apostlebird,Birds,Passerine birds,Victoria,Vulnerable,Struthidea cinerea
+1,7,10197,Dry Temperate Forest,Botaurus poiciloptilus,Australasian Bittern,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Botaurus poiciloptilus
+1,7,10061,Dry Temperate Forest,Tachybaptus novaehollandiae,Australasian Grebe,Birds,Other Non-passerine birds,NotListed,NotListed,Tachybaptus novaehollandiae
+1,8,10647,Dry Temperate Forest,Anthus novaeseelandiae,Australasian Pipit,Birds,Passerine birds,NotListed,NotListed,Anthus novaeseelandiae
+1,8,10212,Dry Temperate Forest,Spatula rhynchotis,Australasian Shoveler,Birds,Other Non-passerine birds,Victoria,Vulnerable,Spatula rhynchotis
+1,6,10176,Dry Temperate Forest,Ardeotis australis,Australian Bustard,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Ardeotis australis
+1,8,10235,Dry Temperate Forest,Falco longipennis,Australian Hobby,Birds,Other Non-passerine birds,NotListed,NotListed,Falco longipennis
+4,5,10281,Wet Temperate Forest,Alisterus scapularis,Australian King-Parrot,Birds,Other Non-passerine birds,NotListed,NotListed,Alisterus scapularis
+1,8,10705,Dry Temperate Forest,Cracticus tibicen,Australian Magpie,Birds,Passerine birds,NotListed,NotListed,Gymnorhina tibicen
+1,8,10317,Dry Temperate Forest,Aegotheles cristatus,Australian Owlet-nightjar,Birds,Other Non-passerine birds,NotListed,NotListed,Aegotheles cristatus
+3,5,10170,Temperate Cropping Zone,Rostratula australis,Australian Painted Snipe,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Rostratula australis
+3,8,10106,Temperate Cropping Zone,Pelecanus conspicillatus,Australian Pelican,Birds,Other Non-passerine birds,NotListed,NotListed,Pelecanus conspicillatus
+14,7,10173,Dry Cropping Zone,Stiltia isabella,Australian Pratincole,Birds,Other Non-passerine birds,NotListed,NotListed,Stiltia isabella
+1,8,10930,Dry Temperate Forest,Corvus coronoides,Australian Raven,Birds,Passerine birds,NotListed,NotListed,Corvus coronoides
+3,8,10207,Temperate Cropping Zone,Tadorna tadornoides,Australian Shelduck,Birds,Other Non-passerine birds,NotListed,NotListed,Tadorna tadornoides
+3,8,10049,Temperate Cropping Zone,Porzana fluminea,Australian Spotted Crake,Birds,Other Non-passerine birds,NotListed,NotListed,Porzana fluminea
+1,8,10179,Dry Temperate Forest,Threskiornis molucca,Australian White Ibis,Birds,Other Non-passerine birds,NotListed,NotListed,Threskiornis moluccus
+1,8,10202,Dry Temperate Forest,Chenonetta jubata,Australian Wood Duck,Birds,Other Non-passerine birds,NotListed,NotListed,Chenonetta jubata
+1,5,10319,Dry Temperate Forest,Alcedo azurea,Azure Kingfisher,Birds,Other Non-passerine birds,NotListed,NotListed,Ceyx azureus
+3,8,10050,Temperate Cropping Zone,Porzana pusilla palustris,Baillon's Crake,Birds,Other Non-passerine birds,NotListed,NotListed,Zapornia pusilla
+3,8,10135,Temperate Cropping Zone,Vanellus tricolor,Banded Lapwing,Birds,Waders,NotListed,NotListed,Vanellus tricolor
+14,7,10147,Dry Cropping Zone,Cladorhynchus leucocephalus,Banded Stilt,Birds,Waders,NotListed,NotListed,Cladorhynchus leucocephalus
+14,7,12734,Dry Cropping Zone,Vermicella annulata,Bandy Bandy,Reptiles,Reptiles,Victoria,Endangered,Vermicella annulata
+3,3,10032,Temperate Cropping Zone,Geopelia humeralis,Bar-shouldered Dove,Birds,Other Non-passerine birds,NotListed,NotListed,Geopelia humeralis
+1,7,10153,Dry Temperate Forest,Limosa lapponica,Bar-tailed Godwit,Birds,Waders,Australia,Vulnerable,Limosa lapponica
+1,5,12667,Dry Temperate Forest,Echiopsis curta,Bardick,Reptiles,Reptiles,Victoria,Endangered,Echiopsis curta
+3,7,10246,Temperate Cropping Zone,Ninox connivens,Barking Owl,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Ninox connivens
+4,4,10779,Wet Temperate Forest,Zoothera lunulata,Bassian Thrush,Birds,Passerine birds,NotListed,NotListed,Zoothera lunulata
+4,2,13106,Wet Temperate Forest,Philoria frosti,Baw Baw Frog,Amphibians,Amphibians,Australia,Critically Endangered,Philoria frosti
+14,5,12109,Dry Cropping Zone,Diplodactylus damaeus,Beaded Gecko,Reptiles,Reptiles,NotListed,NotListed,Lucasium damaeum
+14,4,12137,Dry Cropping Zone,Rhynchoedura ornata,Beaked Gecko,Reptiles,Reptiles,Victoria,Endangered,Rhynchoedura ornata
+3,8,12177,Temperate Cropping Zone,Pogona barbata,Bearded Dragon,Reptiles,Reptiles,Victoria,Vulnerable,Pogona barbata
+1,4,10650,Dry Temperate Forest,Stagonopleura bella,Beautiful Firetail,Birds,Passerine birds,NotListed,NotListed,Stagonopleura bella
+4,7,10633,Wet Temperate Forest,Manorina melanophrys,Bell Miner,Birds,Passerine birds,NotListed,NotListed,Manorina melanophrys
+4,3,60196,Wet Temperate Forest,Dupetor flavicollis,Black Bittern,Birds,Other Non-passerine birds,Victoria,Endangered,Ixobrychus flavicollis
+1,8,10238,Dry Temperate Forest,Falco subniger,Black Falcon,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Falco subniger
+3,8,10589,Temperate Cropping Zone,Sugamel niger,Black Honeyeater,Birds,Passerine birds,NotListed,NotListed,Sugomel nigrum
+3,8,10229,Temperate Cropping Zone,Milvus migrans,Black Kite,Birds,Other Non-passerine birds,NotListed,NotListed,Milvus migrans
+4,5,62938,Wet Temperate Forest,Egernia saxatilis intermedia,Black Rock Skink,Reptiles,Reptiles,NotListed,NotListed,Egernia saxatilis
+1,8,10203,Dry Temperate Forest,Cygnus atratus,Black Swan,Birds,Other Non-passerine birds,NotListed,NotListed,Cygnus atratus
+4,8,11242,Wet Temperate Forest,Wallabia bicolor,Black Wallaby,Mammals,Mammals,NotListed,NotListed,Wallabia bicolor
+3,6,10580,Temperate Cropping Zone,Melithreptus gularis,Black-chinned Honeyeater,Birds,Passerine birds,NotListed,NotListed,Melithreptus gularis
+1,8,10341,Dry Temperate Forest,Chrysococcyx osculans,Black-eared Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Chalcites osculans
+14,4,10967,Dry Cropping Zone,Manorina melanotis,Black-eared Miner,Birds,Passerine birds,Victoria,Critically Endangered,Manorina melanotis
+1,3,10098,Dry Temperate Forest,Phalacrocorax fuscescens,Black-faced Cormorant,Birds,Other Non-passerine birds,NotListed,NotListed,Phalacrocorax fuscescens
+1,8,10424,Dry Temperate Forest,Coracina novaehollandiae,Black-faced Cuckoo-shrike,Birds,Passerine birds,NotListed,NotListed,Coracina novaehollandiae
+4,4,10373,Wet Temperate Forest,Monarcha melanopsis,Black-faced Monarch,Birds,Passerine birds,NotListed,NotListed,Monarcha melanopsis
+3,8,10546,Temperate Cropping Zone,Artamus cinereus,Black-faced Woodswallow,Birds,Passerine birds,NotListed,NotListed,Artamus cinereus
+1,8,10144,Dry Temperate Forest,Elseyornis melanops,Black-fronted Dotterel,Birds,Waders,NotListed,NotListed,Elseyornis melanops
+1,8,10232,Dry Temperate Forest,Elanus axillaris,Black-shouldered Kite,Birds,Other Non-passerine birds,NotListed,NotListed,Elanus axillaris
+3,8,10055,Temperate Cropping Zone,Tribonyx ventralis,Black-tailed Native-hen,Birds,Other Non-passerine birds,NotListed,NotListed,Tribonyx ventralis
+1,5,12578,Dry Temperate Forest,Tiliqua nigrolutea,Blotched Blue-tongued Lizard,Reptiles,Reptiles,NotListed,NotListed,Tiliqua nigrolutea
+14,7,10297,Dry Cropping Zone,Northiella haematogaster,Blue Bonnet,Birds,Other Non-passerine birds,NotListed,NotListed,Northiella haematogaster
+4,3,13175,Wet Temperate Forest,Litoria citropa,Blue Mountains Tree Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria citropa
+1,7,10216,Dry Temperate Forest,Oxyura australis,Blue-billed Duck,Birds,Other Non-passerine birds,Victoria,Vulnerable,Oxyura australis
+3,8,10641,Temperate Cropping Zone,Entomyzon cyanotis,Blue-faced Honeyeater,Birds,Passerine birds,NotListed,NotListed,Entomyzon cyanotis
+1,8,10306,Dry Temperate Forest,Neophema chrysostoma,Blue-winged Parrot,Birds,Other Non-passerine birds,NotListed,NotListed,Neophema chrysostoma
+1,3,13168,Dry Temperate Forest,Litoria booroolongensis,Booroolong Tree Frog,Amphibians,Amphibians,Australia,Endangered,Litoria booroolongensis
+1,8,12475,Dry Temperate Forest,Lerista bougainvillii,Bougainville's Skink,Reptiles,Reptiles,NotListed,NotListed,Lerista bougainvillii
+3,8,12526,Temperate Cropping Zone,Morethia boulengeri,Boulenger's Skink,Reptiles,Reptiles,NotListed,NotListed,Morethia boulengeri
+3,7,5133,Temperate Cropping Zone,Chelodina expansa,Broad-shelled Turtle,Reptiles,Reptiles,Victoria,Endangered,Chelodina expansa
+4,4,11438,Wet Temperate Forest,Mastacomys fuscus mordicus,Broad-toothed Rat,Mammals,Mammals,Australia,Vulnerable,Mastacomys fuscus
+3,7,10177,Temperate Cropping Zone,Antigone rubicunda,Brolga,Birds,Other Non-passerine birds,Victoria,Endangered,Antigone rubicunda
+1,4,62933,Dry Temperate Forest,Ctenotus taeniatus,Brooks's Striped Skink,Reptiles,Reptiles,NotListed,NotListed,Ctenotus taeniatus
+4,2,10029,Wet Temperate Forest,Macropygia amboinensis,Brown Cuckoo-Dove,Birds,Other Non-passerine birds,NotListed,NotListed,Macropygia amboinensis
+1,8,10239,Dry Temperate Forest,Falco berigora,Brown Falcon,Birds,Other Non-passerine birds,NotListed,NotListed,Falco berigora
+4,3,10454,Wet Temperate Forest,Gerygone mouki,Brown Gerygone,Birds,Passerine birds,NotListed,NotListed,Gerygone mouki
+1,8,10221,Dry Temperate Forest,Accipiter fasciatus,Brown Goshawk,Birds,Other Non-passerine birds,NotListed,NotListed,Accipiter fasciatus
+1,8,10010,Dry Temperate Forest,Coturnix ypsilophora australis,Brown Quail,Birds,Other Non-passerine birds,NotListed,NotListed,Synoicus ypsilophorus
+3,8,10508,Temperate Cropping Zone,Cincloramphus cruralis,Brown Songlark,Birds,Passerine birds,NotListed,NotListed,Cincloramphus cruralis
+1,8,10475,Dry Temperate Forest,Acanthiza pusilla,Brown Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza pusilla
+1,5,13117,Dry Temperate Forest,Pseudophryne bibronii,Brown Toadlet,Amphibians,Amphibians,Victoria,Endangered,Pseudophryne bibronii
+1,8,60555,Dry Temperate Forest,Climacteris picumnus victoriae,Brown Treecreeper (south-eastern ssp.),Birds,Passerine birds,NotListed,NotListed,Climacteris picumnus
+1,8,10583,Dry Temperate Forest,Melithreptus brevirostris,Brown-headed Honeyeater,Birds,Passerine birds,NotListed,NotListed,Melithreptus brevirostris
+1,8,10035,Dry Temperate Forest,Phaps elegans,Brush Bronzewing,Birds,Other Non-passerine birds,NotListed,NotListed,Phaps elegans
+4,7,10339,Wet Temperate Forest,Cacomantis variolosus,Brush Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Cacomantis variolosus
+1,5,11017,Dry Temperate Forest,Phascogale tapoatafa,Brush-tailed Phascogale,Mammals,Mammals,Victoria,Vulnerable,Phascogale tapoatafa
+3,4,11215,Temperate Cropping Zone,Petrogale penicillata,Brush-tailed Rock-wallaby,Mammals,Mammals,Victoria,Critically Endangered,Petrogale penicillata
+14,8,10310,Dry Cropping Zone,Melopsittacus undulatus,Budgerigar,Birds,Other Non-passerine birds,NotListed,NotListed,Melopsittacus undulatus
+1,7,10046,Dry Temperate Forest,Gallirallus philippensis,Buff-banded Rail,Birds,Other Non-passerine birds,NotListed,NotListed,Hypotaenidia philippensis
+1,8,10484,Dry Temperate Forest,Acanthiza reguloides,Buff-rumped Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza reguloides
+1,7,12170,Dry Temperate Forest,Lialis burtonis,Burton's Snake-Lizard,Reptiles,Reptiles,NotListed,NotListed,Lialis burtonis
+4,4,11395,Wet Temperate Forest,Rattus fuscipes,Bush Rat,Mammals,Mammals,NotListed,NotListed,Rattus fuscipes
+3,7,10174,Temperate Cropping Zone,Burhinus grallarius,Bush Stone-curlew,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Burhinus grallarius
+14,5,12167,Dry Cropping Zone,Delma butleri,Butler's Legless Lizard,Reptiles,Reptiles,NotListed,NotListed,Delma butleri
+14,4,12105,Dry Cropping Zone,Heteronotia binoei,Bynoe's Gecko,Reptiles,Reptiles,NotListed,NotListed,Heteronotia binoei
+1,7,10198,Dry Temperate Forest,Cereopsis novaehollandiae,Cape Barren Goose,Birds,Other Non-passerine birds,NotListed,NotListed,Cereopsis novaehollandiae
+3,8,12326,Temperate Cropping Zone,Cryptoblepharus pannosus,Carnaby's Wall Skink,Reptiles,Reptiles,NotListed,NotListed,Cryptoblepharus pannosus
+14,7,62969,Dry Cropping Zone,Morelia spilota metcalfei,Carpet Python,Reptiles,Reptiles,Victoria,Endangered,Morelia spilota
+1,8,10112,Dry Temperate Forest,Hydroprogne caspia,Caspian Tern,Birds,Waders,Victoria,Vulnerable,Hydroprogne caspia
+1,8,10977,Dry Temperate Forest,Ardea ibis,Cattle Egret,Birds,Other Non-passerine birds,NotListed,NotListed,Bubulcus ibis
+14,6,12204,Dry Cropping Zone,Pogona vitticeps,Central Bearded Dragon,Reptiles,Reptiles,NotListed,NotListed,Pogona vitticeps
+4,4,10348,Wet Temperate Forest,Scythrops novaehollandiae,Channel-billed Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Scythrops novaehollandiae
+14,4,10437,Dry Cropping Zone,Cinclosoma castanotus,Chestnut Quail-thrush,Birds,Passerine birds,NotListed,NotListed,Cinclosoma castanotum
+1,8,10210,Dry Temperate Forest,Anas castanea,Chestnut Teal,Birds,Other Non-passerine birds,NotListed,NotListed,Anas castanea
+14,5,10446,Dry Cropping Zone,Pomatostomus ruficeps,Chestnut-crowned Babbler,Birds,Passerine birds,NotListed,NotListed,Pomatostomus ruficeps
+1,5,10498,Dry Temperate Forest,Calamanthus pyrrhopygius,Chestnut-rumped Heathwren,Birds,Passerine birds,Victoria,Vulnerable,Calamanthus pyrrhopygius
+3,8,10481,Temperate Cropping Zone,Acanthiza uropygialis,Chestnut-rumped Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza uropygialis
+1,8,11351,Dry Temperate Forest,Chalinolobus morio,Chocolate Wattled Bat,Mammals,Bats,NotListed,NotListed,Chalinolobus morio
+1,8,10524,Dry Temperate Forest,Acrocephalus stentoreus,Clamorous Reed Warbler,Birds,Passerine birds,NotListed,NotListed,Acrocephalus stentoreus
+3,8,10274,Temperate Cropping Zone,Nymphicus hollandicus,Cockatiel,Birds,Other Non-passerine birds,NotListed,NotListed,Nymphicus hollandicus
+1,8,10222,Dry Temperate Forest,Accipiter cirrhocephalus,Collared Sparrowhawk,Birds,Other Non-passerine birds,NotListed,NotListed,Accipiter cirrocephalus
+4,5,61342,Wet Temperate Forest,Miniopterus orianae oceanensis,Common Bent-wing Bat (eastern ssp.),Mammals,Bats,Victoria,Critically Endangered,Miniopterus schreibersii
+1,3,61343,Dry Temperate Forest,Miniopterus orianae bassanii,Common Bent-wing Bat (southern ssp.),Mammals,Bats,Victoria,Critically Endangered,Miniopterus schreibersii
+1,8,12580,Dry Temperate Forest,Tiliqua scincoides,Common Blue-tongued Lizard,Reptiles,Reptiles,NotListed,NotListed,Tiliqua scincoides
+1,8,10034,Dry Temperate Forest,Phaps chalcoptera,Common Bronzewing,Birds,Other Non-passerine birds,NotListed,NotListed,Phaps chalcoptera
+1,8,11113,Dry Temperate Forest,Trichosurus vulpecula,Common Brushtail Possum,Mammals,Mammals,NotListed,NotListed,Trichosurus vulpecula
+4,4,10429,Wet Temperate Forest,Coracina tenuirostris,Common Cicadabird,Birds,Passerine birds,NotListed,NotListed,Edolisoma tenuirostre
+14,8,11061,Dry Cropping Zone,Sminthopsis murina murina,Common Dunnart,Mammals,Mammals,Victoria,Vulnerable,Sminthopsis murina
+1,8,13134,Dry Temperate Forest,Crinia signifera,Common Froglet,Amphibians,Amphibians,NotListed,NotListed,Crinia signifera
+1,7,10158,Dry Temperate Forest,Tringa nebularia,Common Greenshank,Birds,Waders,Victoria,Endangered,Tringa nebularia
+1,5,11129,Dry Temperate Forest,Pseudocheirus peregrinus,Common Ringtail Possum,Mammals,Mammals,NotListed,NotListed,Pseudocheirus peregrinus
+1,7,10157,Dry Temperate Forest,Actitis hypoleucos,Common Sandpiper,Birds,Waders,Victoria,Vulnerable,Actitis hypoleucos
+1,8,12174,Dry Temperate Forest,Pygopus lepidopodus,Common Scaly-foot,Reptiles,Reptiles,NotListed,NotListed,Pygopus lepidopodus
+4,4,11165,Wet Temperate Forest,Vombatus ursinus,Common Wombat,Mammals,Mammals,NotListed,NotListed,Vombatus ursinus
+4,3,12386,Wet Temperate Forest,Ctenotus taeniolatus,Copper-tailed Skink,Reptiles,Reptiles,NotListed,NotListed,Ctenotus taeniolatus
+3,4,62958,Temperate Cropping Zone,Eulamprus tympanum marnieae,Corangamite Water Skink,Reptiles,Reptiles,Victoria,Endangered,Eulamprus tympanum
+4,4,12458,Wet Temperate Forest,Niveoscincus coventryi,Coventry's Skink,Reptiles,Reptiles,NotListed,NotListed,Carinascincus coventryi
+4,4,10630,Wet Temperate Forest,Phylidonyris pyrrhoptera,Crescent Honeyeater,Birds,Passerine birds,NotListed,NotListed,Phylidonyris pyrrhopterus
+14,8,10419,Dry Cropping Zone,Oreoica gutturalis,Crested Bellbird,Birds,Passerine birds,Victoria,Endangered,Oreoica gutturalis
+3,8,10043,Temperate Cropping Zone,Ocyphaps lophotes,Crested Pigeon,Birds,Other Non-passerine birds,NotListed,NotListed,Ocyphaps lophotes
+1,7,10416,Dry Temperate Forest,Falcunculus frontatus,Crested Shrike-tit,Birds,Passerine birds,NotListed,NotListed,Falcunculus frontatus
+1,4,10115,Dry Temperate Forest,Thalasseus bergii,Crested Tern,Birds,Waders,NotListed,NotListed,Thalasseus bergii
+14,7,10449,Dry Cropping Zone,Epthianura tricolor,Crimson Chat,Birds,Passerine birds,NotListed,NotListed,Epthianura tricolor
+1,8,10282,Dry Temperate Forest,Platycercus elegans,Crimson Rosella,Birds,Other Non-passerine birds,NotListed,NotListed,Platycercus elegans
+1,5,12408,Dry Temperate Forest,Egernia cunninghami,Cunningham's Skink,Reptiles,Reptiles,NotListed,NotListed,Egernia cunninghami
+14,7,12722,Dry Cropping Zone,Suta suta,Curl Snake,Reptiles,Reptiles,NotListed,NotListed,Suta suta
+1,7,10161,Dry Temperate Forest,Calidris ferruginea,Curlew Sandpiper,Birds,Waders,Australia,Critically Endangered,Calidris ferruginea
+1,8,10101,Dry Temperate Forest,Anhinga novaehollandiae,Darter,Birds,Other Non-passerine birds,NotListed,NotListed,Anhinga novaehollandiae
+4,5,12450,Wet Temperate Forest,Lampropholis delicata,Delicate Skink,Reptiles,Reptiles,NotListed,NotListed,Lampropholis delicata
+4,3,13120,Wet Temperate Forest,Pseudophryne dendyi,Dendy's Toadlet,Amphibians,Amphibians,NotListed,NotListed,Pseudophryne dendyi
+1,5,12413,Dry Temperate Forest,Liopholis inornata,Desert Skink,Reptiles,Reptiles,NotListed,NotListed,Liopholis inornata
+3,8,10031,Temperate Cropping Zone,Geopelia cuneata,Diamond Dove,Birds,Other Non-passerine birds,Victoria,Vulnerable,Geopelia cuneata
+3,8,10652,Temperate Cropping Zone,Stagonopleura guttata,Diamond Firetail,Birds,Passerine birds,Victoria,Vulnerable,Stagonopleura guttata
+4,2,62968,Wet Temperate Forest,Morelia spilota spilota,Diamond Python,Reptiles,Reptiles,Victoria,Critically Endangered,Morelia spilota
+3,7,10318,Temperate Cropping Zone,Eurystomus orientalis,Dollarbird,Birds,Other Non-passerine birds,NotListed,NotListed,Eurystomus orientalis
+1,7,10140,Dry Temperate Forest,Charadrius bicinctus,Double-banded Plover,Birds,Waders,NotListed,NotListed,Charadrius bicinctus
+1,4,10655,Dry Temperate Forest,Taeniopygia bichenovii,Double-barred Finch,Birds,Passerine birds,NotListed,NotListed,Taeniopygia bichenovii
+4,4,11033,Wet Temperate Forest,Antechinus swainsonii,Dusky Antechinus,Mammals,Mammals,NotListed,NotListed,Antechinus swainsonii
+1,8,10056,Dry Temperate Forest,Gallinula tenebrosa,Dusky Moorhen,Birds,Other Non-passerine birds,NotListed,NotListed,Gallinula tenebrosa
+1,8,10547,Dry Temperate Forest,Artamus cyanopterus,Dusky Woodswallow,Birds,Passerine birds,NotListed,NotListed,Artamus cyanopterus
+13,5,12492,Arid Chenopod Shrubland Transition,Lerista timida,Dwarf Burrowing Skink,Reptiles,Reptiles,Victoria,Endangered,Lerista timida
+1,3,12726,Dry Temperate Forest,Parasuta dwyeri,Dwyer's Snake,Reptiles,Reptiles,NotListed,NotListed,Suta dwyeri
+4,3,10519,Wet Temperate Forest,Dasyornis brachypterus,Eastern Bristlebird,Birds,Passerine birds,Victoria,Critically Endangered,Dasyornis brachypterus
+4,4,11811,Wet Temperate Forest,Scotorepens orion,Eastern Broad-nosed Bat,Mammals,Bats,NotListed,NotListed,Scotorepens orion
+1,8,12699,Dry Temperate Forest,Pseudonaja textilis,Eastern Brown Snake,Reptiles,Reptiles,NotListed,NotListed,Pseudonaja textilis
+1,6,10149,Dry Temperate Forest,Numenius madagascariensis,Eastern Curlew,Birds,Waders,Australia,Critically Endangered,Numenius madagascariensis
+4,4,11372,Wet Temperate Forest,Falsistrellus tasmaniensis,Eastern False Pipistrelle,Mammals,Bats,NotListed,NotListed,Falsistrellus tasmaniensis
+1,8,11839,Dry Temperate Forest,Mormopterus sp. 2,Eastern Freetail Bat,Mammals,Bats,NotListed,NotListed,Mormopterus norfolkensis
+3,7,10187,Temperate Cropping Zone,Ardea alba modesta,Eastern Great Egret,Birds,Other Non-passerine birds,Victoria,Vulnerable,Ardea alba
+1,8,11265,Dry Temperate Forest,Macropus giganteus,Eastern Grey Kangaroo,Mammals,Mammals,NotListed,NotListed,Macropus giganteus
+4,4,11303,Wet Temperate Forest,Rhinolophus megaphyllus megaphyllus,Eastern Horseshoe Bat,Mammals,Bats,Victoria,Endangered,Rhinolophus megaphyllus
+1,4,10347,Dry Temperate Forest,Eudynamys orientalis,Eastern Koel,Birds,Other Non-passerine birds,NotListed,NotListed,Eudynamys orientalis
+4,4,11150,Wet Temperate Forest,Cercartetus nanus,Eastern Pygmy-possum,Mammals,Mammals,NotListed,NotListed,Cercartetus nanus
+4,2,10191,Wet Temperate Forest,Egretta sacra,Eastern Reef Egret,Birds,Other Non-passerine birds,NotListed,NotListed,Egretta sacra
+1,8,10288,Dry Temperate Forest,Platycercus eximius,Eastern Rosella,Birds,Other Non-passerine birds,NotListed,NotListed,Platycercus eximius
+4,4,12650,Wet Temperate Forest,Rhinoplocephalus nigrescens,Eastern Small-eyed Snake,Reptiles,Reptiles,NotListed,NotListed,Cryptophis nigrescens
+1,7,5134,Dry Temperate Forest,Chelodina longicollis,Eastern Snake-necked Turtle,Reptiles,Reptiles,NotListed,NotListed,Chelodina longicollis
+4,7,10591,Wet Temperate Forest,Acanthorhynchus tenuirostris,Eastern Spinebill,Birds,Passerine birds,NotListed,NotListed,Acanthorhynchus tenuirostris
+1,6,12936,Dry Temperate Forest,Ctenotus orientalis,Eastern Striped Skink,Reptiles,Reptiles,NotListed,NotListed,Ctenotus orientalis
+1,5,12682,Dry Temperate Forest,Acritoscincus duperreyi,Eastern Three-lined Skink,Reptiles,Reptiles,NotListed,NotListed,Acritoscincus duperreyi
+4,7,61266,Wet Temperate Forest,Osphranter robustus robustus,Eastern Wallaroo,Mammals,Mammals,Victoria,Endangered,Macropus robustus
+13,6,12557,Arid Chenopod Shrubland Transition,Eulamprus quoyii,Eastern Water Skink,Reptiles,Reptiles,NotListed,NotListed,Eulamprus quoyii
+4,4,10421,Wet Temperate Forest,Psophodes olivaceus,Eastern Whipbird,Birds,Passerine birds,NotListed,NotListed,Psophodes olivaceus
+4,8,10392,Wet Temperate Forest,Eopsaltria australis,Eastern Yellow Robin,Birds,Passerine birds,NotListed,NotListed,Eopsaltria australis
+14,8,10307,Dry Cropping Zone,Neophema elegans,Elegant Parrot,Birds,Other Non-passerine birds,Victoria,Vulnerable,Neophema elegans
+1,8,10001,Dry Temperate Forest,Dromaius novaehollandiae,Emu,Birds,Other Non-passerine birds,NotListed,NotListed,Dromaius novaehollandiae
+1,8,10059,Dry Temperate Forest,Fulica atra,Eurasian Coot,Birds,Other Non-passerine birds,NotListed,NotListed,Fulica atra
+1,8,10360,Dry Temperate Forest,Petrochelidon ariel,Fairy Martin,Birds,Passerine birds,NotListed,NotListed,Petrochelidon ariel
+1,8,10338,Dry Temperate Forest,Cacomantis flabelliformis,Fan-tailed Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Cacomantis flabelliformis
+3,7,11072,Temperate Cropping Zone,Sminthopsis crassicaudata,Fat-tailed Dunnart,Mammals,Mammals,Victoria,Vulnerable,Sminthopsis crassicaudata
+4,7,11147,Wet Temperate Forest,Acrobates pygmaeus,Feathertail Glider,Mammals,Mammals,NotListed,NotListed,Acrobates pygmaeus
+1,7,10382,Dry Temperate Forest,Petroica phoenicea,Flame Robin,Birds,Passerine birds,NotListed,NotListed,Petroica phoenicea
+1,5,10868,Dry Temperate Forest,Corvus tasmanicus,Forest Raven,Birds,Passerine birds,NotListed,NotListed,Corvus tasmanicus
+1,8,10335,Dry Temperate Forest,Apus pacificus,Fork-tailed Swift,Birds,Other Non-passerine birds,NotListed,NotListed,Apus pacificus
+1,5,12446,Dry Temperate Forest,Hemiergis peronii,Four-toed Skink,Reptiles,Reptiles,NotListed,NotListed,Hemiergis peronii
+1,7,10214,Dry Temperate Forest,Stictonetta naevosa,Freckled Duck,Birds,Other Non-passerine birds,Victoria,Endangered,Stictonetta naevosa
+1,8,10613,Dry Temperate Forest,Lichenostomus fuscus,Fuscous Honeyeater,Birds,Passerine birds,NotListed,NotListed,Ptilotula fusca
+1,8,10273,Dry Temperate Forest,Eolophus roseicapillus,Galah,Birds,Other Non-passerine birds,NotListed,NotListed,Eolophus roseicapilla
+4,5,10268,Wet Temperate Forest,Callocephalon fimbriatum,Gang-gang Cockatoo,Birds,Other Non-passerine birds,Australia,Endangered,Callocephalon fimbriatum
+4,8,12451,Wet Temperate Forest,Lampropholis guichenoti,Garden Skink,Reptiles,Reptiles,NotListed,NotListed,Lampropholis guichenoti
+3,6,13060,Temperate Cropping Zone,Limnodynastes interioris,Giant Bullfrog,Amphibians,Amphibians,Victoria,Endangered,Limnodynastes interioris
+4,3,13042,Wet Temperate Forest,Heleioporus australiacus,Giant Burrowing Frog,Amphibians,Amphibians,Victoria,Critically Endangered,Heleioporus australiacus
+1,8,10403,Dry Temperate Forest,Pachycephala inornata,Gilbert's Whistler,Birds,Passerine birds,NotListed,NotListed,Pachycephala inornata
+13,4,11050,Arid Chenopod Shrubland Transition,Planigale gilesi,Gile's Planigale,Mammals,Mammals,Victoria,Vulnerable,Planigale gilesi
+4,3,62919,Wet Temperate Forest,Intellagama lesueurii howittii,Gippsland Water Dragon,Reptiles,Reptiles,NotListed,NotListed,Intellagama lesueurii
+4,2,10265,Wet Temperate Forest,Calyptorhynchus lathami,Glossy Black-Cockatoo,Birds,Other Non-passerine birds,Australia,Vulnerable,Calyptorhynchus lathami
+1,4,12683,Dry Temperate Forest,Pseudemoia rawlinsoni,Glossy Grass Skink,Reptiles,Reptiles,Victoria,Endangered,Pseudemoia rawlinsoni
+3,7,10178,Temperate Cropping Zone,Plegadis falcinellus,Glossy Ibis,Birds,Other Non-passerine birds,NotListed,NotListed,Plegadis falcinellus
+1,8,10398,Dry Temperate Forest,Pachycephala pectoralis,Golden Whistler,Birds,Passerine birds,NotListed,NotListed,Pachycephala pectoralis
+1,7,10525,Dry Temperate Forest,Cisticola exilis,Golden-headed Cisticola,Birds,Passerine birds,NotListed,NotListed,Cisticola exilis
+4,7,11334,Wet Temperate Forest,Nyctophilus gouldi,Gould's Long-eared Bat,Mammals,Bats,NotListed,NotListed,Nyctophilus gouldi
+1,8,11349,Dry Temperate Forest,Chalinolobus gouldii,Gould's Wattled Bat,Mammals,Bats,NotListed,NotListed,Chalinolobus gouldii
+1,4,12948,Dry Temperate Forest,Pseudemoia form cryodoma/pagenstecheri,Grass skink FORM (P.pag/cry),Reptiles,Reptiles,NotListed,NotListed,Pseudemoia cryodoma
+1,2,12922,Dry Temperate Forest,Tympanocryptis pinguicolla,Grassland Earless Dragon,Reptiles,Reptiles,Australia,Critically Endangered,Tympanocryptis pinguicolla
+1,4,12599,Dry Temperate Forest,Ramphotyphlops nigrescens,Gray's Blind Snake,Reptiles,Reptiles,NotListed,NotListed,Anilios nigrescens
+1,8,10096,Dry Temperate Forest,Phalacrocorax carbo,Great Cormorant,Birds,Other Non-passerine birds,NotListed,NotListed,Phalacrocorax carbo
+1,7,10060,Dry Temperate Forest,Podiceps cristatus,Great Crested Grebe,Birds,Other Non-passerine birds,NotListed,NotListed,Podiceps cristatus
+1,6,10165,Dry Temperate Forest,Calidris tenuirostris,Great Knot,Birds,Waders,Australia,Critically Endangered,Calidris tenuirostris
+4,4,11133,Wet Temperate Forest,Petauroides volans,Greater Glider,Mammals,Mammals,Australia,Endangered,Petauroides volans
+1,7,10141,Dry Temperate Forest,Charadrius leschenaultii,Greater Sand Plover,Birds,Waders,Australia,Vulnerable,Charadrius leschenaultii
+4,3,13166,Wet Temperate Forest,Litoria aurea,Green and Golden Bell Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria aurea
+1,8,10702,Dry Temperate Forest,Cracticus torquatus,Grey Butcherbird,Birds,Passerine birds,NotListed,NotListed,Cracticus torquatus
+1,8,10697,Dry Temperate Forest,Strepera versicolor,Grey Currawong,Birds,Passerine birds,NotListed,NotListed,Strepera versicolor
+3,7,10236,Temperate Cropping Zone,Falco hypoleucos,Grey Falcon,Birds,Other Non-passerine birds,Australia,Vulnerable,Falco hypoleucos
+1,8,10361,Dry Temperate Forest,Rhipidura albiscapa,Grey Fantail,Birds,Passerine birds,NotListed,NotListed,Rhipidura albiscapa
+1,7,10220,Dry Temperate Forest,Accipiter novaehollandiae,Grey Goshawk,Birds,Other Non-passerine birds,Victoria,Endangered,Accipiter novaehollandiae
+1,4,10136,Dry Temperate Forest,Pluvialis squatarola,Grey Plover,Birds,Waders,Victoria,Vulnerable,Pluvialis squatarola
+1,8,10408,Dry Temperate Forest,Colluricincla harmonica,Grey Shrike-thrush,Birds,Passerine birds,NotListed,NotListed,Colluricincla harmonica
+1,8,10211,Dry Temperate Forest,Anas gracilis,Grey Teal,Birds,Other Non-passerine birds,NotListed,NotListed,Anas gracilis
+3,7,10443,Temperate Cropping Zone,Pomatostomus temporalis,Grey-crowned Babbler,Birds,Passerine birds,Victoria,Vulnerable,Pomatostomus temporalis
+1,7,11280,Dry Temperate Forest,Pteropus poliocephalus,Grey-headed Flying-fox,Mammals,Bats,Victoria,Vulnerable,Pteropus poliocephalus
+1,3,10155,Dry Temperate Forest,Tringa brevipes,Grey-tailed Tattler,Birds,Waders,Victoria,Critically Endangered,Tringa brevipes
+3,8,12519,Temperate Cropping Zone,Menetia greyii,Grey's Skink,Reptiles,Reptiles,NotListed,NotListed,Menetia greyii
+13,5,10423,Arid Chenopod Shrubland Transition,Coracina maxima,Ground Cuckoo-shrike,Birds,Passerine birds,Victoria,Endangered,Coracina maxima
+4,3,10311,Wet Temperate Forest,Pezoporus wallicus,Ground Parrot,Birds,Other Non-passerine birds,Victoria,Endangered,Pezoporus wallicus
+1,8,13207,Dry Temperate Forest,Litoria raniformis,Growling Grass Frog,Amphibians,Amphibians,Victoria,Vulnerable,Litoria raniformis
+3,8,10111,Temperate Cropping Zone,Gelochelidon nilotica macrotarsa,Gull-billed Tern,Birds,Waders,Victoria,Endangered,Gelochelidon nilotica
+4,1,12432,Wet Temperate Forest,Liopholis guthega,Guthega Skink,Reptiles,Reptiles,Victoria,Critically Endangered,Liopholis guthega
+3,8,10215,Temperate Cropping Zone,Aythya australis,Hardhead,Birds,Other Non-passerine birds,NotListed,NotListed,Aythya australis
+4,3,13103,Wet Temperate Forest,Paracrinia haswelli,Haswell's Froglet,Amphibians,Amphibians,NotListed,NotListed,Paracrinia haswelli
+1,3,11468,Dry Temperate Forest,Pseudomys shortridgei,Heath Mouse,Mammals,Mammals,Australia,Endangered,Pseudomys shortridgei
+1,1,60618,Dry Temperate Forest,Lichenostomus melanops cassidix,Helmeted Honeyeater,Birds,Passerine birds,Australia,Critically Endangered,Lichenostomus melanops
+4,4,12972,Wet Temperate Forest,Austrelaps ramsayi,Highland Copperhead,Reptiles,Reptiles,NotListed,NotListed,Austrelaps ramsayi
+3,8,10062,Temperate Cropping Zone,Poliocephalus poliocephalus,Hoary-headed Grebe,Birds,Other Non-passerine birds,NotListed,NotListed,Poliocephalus poliocephalus
+1,3,10138,Dry Temperate Forest,Thinornis cucullatus,Hooded Plover,Birds,Waders,Australia,Vulnerable,Thinornis cucullatus
+1,8,10385,Dry Temperate Forest,Melanodryas cucullata,Hooded Robin,Birds,Passerine birds,Victoria,Vulnerable,Melanodryas cucullata
+14,5,12176,Dry Cropping Zone,Pygopus schraderi,Hooded Scaly-foot,Reptiles,Reptiles,Victoria,Critically Endangered,Pygopus schraderi
+1,8,10342,Dry Temperate Forest,Chrysococcyx basalis,Horsfield's Bronze-Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Chalcites basalis
+3,8,10648,Temperate Cropping Zone,Mirafra javanica,Horsfield's Bushlark,Birds,Passerine birds,NotListed,NotListed,Mirafra javanica
+3,8,11364,Temperate Cropping Zone,Scotorepens balstoni,Inland Broad-nosed Bat,Mammals,Bats,NotListed,NotListed,Scotorepens balstoni
+3,6,10145,Temperate Cropping Zone,Peltohyas australis,Inland Dotterel,Birds,Other Non-passerine birds,Victoria,Vulnerable,Peltohyas australis
+14,4,11819,Dry Cropping Zone,Vespadelus baverstocki,Inland Forest Bat,Mammals,Bats,NotListed,NotListed,Vespadelus baverstocki
+14,8,11809,Dry Cropping Zone,Mormopterus sp. 3,Inland Freetail Bat,Mammals,Bats,NotListed,NotListed,Ozimops petersi
+14,8,10476,Dry Cropping Zone,Acanthiza apicalis,Inland Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza apicalis
+3,7,10186,Temperate Cropping Zone,Ardea intermedia plumifera,Intermediate Egret,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Ardea intermedia
+1,8,10377,Dry Temperate Forest,Microeca fascinans,Jacky Winter,Birds,Passerine birds,NotListed,NotListed,Microeca fascinans
+1,8,10981,Dry Temperate Forest,Larus dominicanus,Kelp Gull,Birds,Waders,NotListed,NotListed,Larus dominicanus
+1,3,10012,Dry Temperate Forest,Synoicus chinensis,King Quail,Birds,Other Non-passerine birds,Victoria,Endangered,Synoicus chinensis
+1,7,11162,Dry Temperate Forest,Phascolarctos cinereus,Koala,Mammals,Mammals,NotListed,NotListed,Phascolarctos cinereus
+1,7,12283,Dry Temperate Forest,Varanus varius,Lace Monitor,Reptiles,Reptiles,Victoria,Endangered,Varanus varius
+4,2,13936,Wet Temperate Forest,Litoria watsoni,Large Brown Tree Frog,Amphibians,Amphibians,Australia,Endangered,Litoria littlejohni
+4,8,11381,Wet Temperate Forest,Vespadelus darlingtoni,Large Forest Bat,Mammals,Bats,NotListed,NotListed,Vespadelus darlingtoni
+1,8,12375,Dry Temperate Forest,Ctenotus robustus,Large Striped Skink,Reptiles,Reptiles,NotListed,NotListed,Ctenotus robustus
+4,4,10494,Wet Temperate Forest,Sericornis magnirostris,Large-billed Scrubwren,Birds,Passerine birds,NotListed,NotListed,Sericornis magnirostra
+3,7,10168,Temperate Cropping Zone,Gallinago hardwickii,Latham's Snipe,Birds,Other Non-passerine birds,NotListed,NotListed,Gallinago hardwickii
+1,8,10322,Dry Temperate Forest,Dacelo novaeguineae,Laughing Kookaburra,Birds,Other Non-passerine birds,NotListed,NotListed,Dacelo novaeguineae
+1,2,11141,Dry Temperate Forest,Gymnobelideus leadbeateri,Leadbeater's Possum,Mammals,Mammals,Australia,Critically Endangered,Gymnobelideus leadbeateri
+4,5,10365,Wet Temperate Forest,Myiagra rubecula,Leaden Flycatcher,Birds,Passerine birds,NotListed,NotListed,Myiagra rubecula
+1,8,11335,Dry Temperate Forest,Nyctophilus geoffroyi,Lesser Long-eared Bat,Mammals,Bats,NotListed,NotListed,Nyctophilus geoffroyi
+1,5,10139,Dry Temperate Forest,Charadrius mongolus,Lesser Sand Plover,Birds,Waders,Australia,Endangered,Charadrius mongolus
+4,4,13192,Wet Temperate Forest,Litoria lesueuri,Lesueur's Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria lesueurii
+4,4,10605,Wet Temperate Forest,Meliphaga lewinii,Lewin's Honeyeater,Birds,Passerine birds,NotListed,NotListed,Meliphaga lewinii
+1,5,10045,Dry Temperate Forest,Lewinia pectoralis,Lewin's Rail,Birds,Other Non-passerine birds,Victoria,Vulnerable,Lewinia pectoralis
+14,4,62921,Dry Cropping Zone,Tympanocryptis petersi,Lined Earless Dragon,Reptiles,Reptiles,Victoria,Endangered,Tympanocryptis petersi
+1,8,10097,Dry Temperate Forest,Phalacrocorax sulcirostris,Little Black Cormorant,Birds,Other Non-passerine birds,NotListed,NotListed,Phalacrocorax sulcirostris
+14,6,11362,Dry Cropping Zone,Scotorepens greyii,Little Broad-nosed Bat,Mammals,Bats,NotListed,NotListed,Scotorepens greyii
+3,8,10018,Temperate Cropping Zone,Turnix velox,Little Button-quail,Birds,Other Non-passerine birds,NotListed,NotListed,Turnix velox
+1,8,10271,Dry Temperate Forest,Cacatua sanguinea,Little Corella,Birds,Other Non-passerine birds,NotListed,NotListed,Cacatua sanguinea
+14,6,10691,Dry Cropping Zone,Corvus bennetti,Little Crow,Birds,Passerine birds,NotListed,NotListed,Corvus bennetti
+1,8,10225,Dry Temperate Forest,Hieraaetus morphnoides,Little Eagle,Birds,Other Non-passerine birds,Victoria,Vulnerable,Hieraaetus morphnoides
+1,7,10185,Dry Temperate Forest,Egretta garzetta nigripes,Little Egret,Birds,Other Non-passerine birds,Victoria,Endangered,Egretta garzetta
+1,8,11379,Dry Temperate Forest,Vespadelus vulturnus,Little Forest Bat,Mammals,Bats,NotListed,NotListed,Vespadelus vulturnus
+3,8,10646,Temperate Cropping Zone,Philemon citreogularis,Little Friarbird,Birds,Passerine birds,NotListed,NotListed,Philemon citreogularis
+1,8,10522,Dry Temperate Forest,Megalurus gramineus,Little Grassbird,Birds,Passerine birds,NotListed,NotListed,Poodytes gramineus
+1,7,10260,Dry Temperate Forest,Glossopsitta pusilla,Little Lorikeet,Birds,Other Non-passerine birds,NotListed,NotListed,Glossopsitta pusilla
+1,8,10100,Dry Temperate Forest,Microcarbo melanoleucos,Little Pied Cormorant,Birds,Other Non-passerine birds,NotListed,NotListed,Microcarbo melanoleucos
+1,7,11152,Dry Temperate Forest,Cercartetus lepidus,Little Pygmy-possum,Mammals,Mammals,NotListed,NotListed,Cercartetus lepidus
+1,8,10954,Dry Temperate Forest,Corvus mellori,Little Raven,Birds,Passerine birds,NotListed,NotListed,Corvus mellori
+1,5,10117,Dry Temperate Forest,Sternula albifrons,Little Tern,Birds,Waders,Victoria,Critically Endangered,Sternula albifrons
+1,8,10637,Dry Temperate Forest,Anthochaera chrysoptera,Little Wattlebird,Birds,Passerine birds,NotListed,NotListed,Anthochaera chrysoptera
+1,5,12727,Dry Temperate Forest,Parasuta flagellum,Little Whip Snake,Reptiles,Reptiles,NotListed,NotListed,Suta flagellum
+1,8,10272,Dry Temperate Forest,Cacatua tenuirostris,Long-billed Corella,Birds,Other Non-passerine birds,NotListed,NotListed,Cacatua tenuirostris
+4,3,11179,Wet Temperate Forest,Potorous longipes,Long-footed Potoroo,Mammals,Mammals,Australia,Endangered,Potorous longipes
+4,5,11097,Wet Temperate Forest,Perameles nasuta,Long-nosed Bandicoot,Mammals,Mammals,NotListed,NotListed,Perameles nasuta
+4,4,11175,Wet Temperate Forest,Potorous tridactylus trisulcatus,Long-nosed Potoroo,Mammals,Mammals,Australia,Vulnerable,Potorous tridactylus
+1,6,10965,Dry Temperate Forest,Calidris subminuta,Long-toed Stint,Birds,Waders,NotListed,NotListed,Calidris subminuta
+1,4,12973,Dry Temperate Forest,Austrelaps superbus,Lowland Copperhead,Reptiles,Reptiles,NotListed,NotListed,Austrelaps superbus
+1,8,10199,Dry Temperate Forest,Anseranas semipalmata,Magpie Goose,Birds,Other Non-passerine birds,Victoria,Vulnerable,Anseranas semipalmata
+1,8,10415,Dry Temperate Forest,Grallina cyanoleuca,Magpie-lark,Birds,Passerine birds,NotListed,NotListed,Grallina cyanoleuca
+14,5,10270,Dry Cropping Zone,Lophocroa leadbeateri,Major Mitchell's Cockatoo,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Cacatua leadbeateri
+1,6,12185,Dry Temperate Forest,Ctenophorus fordi,Mallee Dragon,Reptiles,Reptiles,NotListed,NotListed,Ctenophorus fordi
+14,3,10527,Dry Cropping Zone,Stipiturus mallee,Mallee Emu-wren,Birds,Passerine birds,Victoria,Endangered,Stipiturus mallee
+14,3,11055,Dry Cropping Zone,Ningaui yvonneae,Mallee Ningaui,Mammals,Mammals,NotListed,NotListed,Ningaui yvonneae
+1,3,12141,Dry Temperate Forest,Aprasia aurita,Mallee Worm-Lizard,Reptiles,Reptiles,Victoria,Endangered,Aprasia aurita
+1,6,10007,Dry Temperate Forest,Leipoa ocellata,Malleefowl,Birds,Other Non-passerine birds,Victoria,Vulnerable,Leipoa ocellata
+1,8,12126,Dry Temperate Forest,Christinus marmoratus,Marbled Gecko,Reptiles,Reptiles,NotListed,NotListed,Christinus marmoratus
+1,8,10159,Dry Temperate Forest,Tringa stagnatilis,Marsh Sandpiper,Birds,Waders,Victoria,Endangered,Tringa stagnatilis
+4,3,13930,Wet Temperate Forest,Uperoleia martini,Martin's Toadlet,Amphibians,Amphibians,Victoria,Critically Endangered,Uperoleia martini
+1,8,10133,Dry Temperate Forest,Vanellus miles,Masked Lapwing,Birds,Waders,NotListed,NotListed,Vanellus miles
+4,5,10250,Wet Temperate Forest,Tyto novaehollandiae,Masked Owl,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Tyto novaehollandiae
+1,8,10544,Dry Temperate Forest,Artamus personatus,Masked Woodswallow,Birds,Passerine birds,NotListed,NotListed,Artamus personatus
+1,4,12666,Dry Temperate Forest,Drysdalia mastersii,Masters' Snake,Reptiles,Reptiles,Victoria,Critically Endangered,Drysdalia mastersii
+4,4,12444,Wet Temperate Forest,Anepischtos maccoyi,McCoy's Skink,Reptiles,Reptiles,NotListed,NotListed,Anepischetosia maccoyi
+1,4,12462,Dry Temperate Forest,Niveoscincus metallicus,Metallic Skink,Reptiles,Reptiles,NotListed,NotListed,Carinascincus metallicus
+1,8,10564,Dry Temperate Forest,Dicaeum hirundinaceum,Mistletoebird,Birds,Passerine birds,NotListed,NotListed,Dicaeum hirundinaceum
+1,6,11480,Dry Temperate Forest,Notomys mitchelli,Mitchell's Hopping-mouse,Mammals,Mammals,NotListed,NotListed,Notomys mitchellii
+14,7,12724,Dry Cropping Zone,Parasuta nigriceps,Mitchell's Short-tailed Snake,Reptiles,Reptiles,NotListed,NotListed,Suta nigriceps
+4,4,11115,Wet Temperate Forest,Trichosurus cunninghami,Mountain Brushtail Possum,Mammals,Mammals,NotListed,NotListed,Trichosurus cunninghami
+1,2,63940,Dry Temperate Forest,Rankinia diemensis (Anglesea),Mountain Dragon Angelsea form,Reptiles,Reptiles,NotListed,NotListed,Rankinia diemensis
+3,2,63941,Temperate Cropping Zone,Rankinia diemensis (Grampians),Mountain Dragon Grampians form,Reptiles,Reptiles,Victoria,Critically Endangered,Rankinia diemensis
+4,4,12182,Wet Temperate Forest,Rankinia diemensis,Mountain Dragon,Reptiles,Reptiles,NotListed,NotListed,Rankinia diemensis
+4,1,11156,Wet Temperate Forest,Burramys parvus,Mountain Pygmy-possum,Mammals,Mammals,Australia,Endangered,Burramys parvus
+4,1,12433,Wet Temperate Forest,Liopholis montana,Mountain Skink,Reptiles,Reptiles,Australia,Endangered,Liopholis montana
+14,6,10296,Dry Cropping Zone,Psephotus varius,Mulga Parrot,Birds,Other Non-passerine birds,NotListed,NotListed,Psephotellus varius
+1,8,5135,Dry Temperate Forest,Emydura macquarii,Murray River Turtle,Reptiles,Reptiles,Victoria,Critically Endangered,Emydura macquarii
+14,4,12342,Dry Cropping Zone,Ctenotus brachyonyx,Murray Striped Skink,Reptiles,Reptiles,NotListed,NotListed,Ctenotus brachyonyx
+1,7,10217,Dry Temperate Forest,Biziura lobata,Musk Duck,Birds,Other Non-passerine birds,Victoria,Vulnerable,Biziura lobata
+1,8,10258,Dry Temperate Forest,Glossopsitta concinna,Musk Lorikeet,Birds,Other Non-passerine birds,NotListed,NotListed,Glossopsitta concinna
+1,8,10240,Dry Temperate Forest,Falco cenchroides,Nankeen Kestrel,Birds,Other Non-passerine birds,NotListed,NotListed,Falco cenchroides
+1,7,10192,Dry Temperate Forest,Nycticorax caledonicus hillii,Nankeen Night Heron,Birds,Other Non-passerine birds,NotListed,NotListed,Nycticorax caledonicus
+1,8,10631,Dry Temperate Forest,Phylidonyris novaehollandiae,New Holland Honeyeater,Birds,Passerine birds,NotListed,NotListed,Phylidonyris novaehollandiae
+1,3,11455,Dry Temperate Forest,Pseudomys novaehollandiae,New Holland Mouse,Mammals,Mammals,Victoria,Endangered,Pseudomys novaehollandiae
+1,5,19000,Dry Temperate Forest,Amphibolurus nobbi,Nobbi Dragon,Reptiles,Reptiles,NotListed,NotListed,Diporiphora nobbi
+4,8,10645,Wet Temperate Forest,Philemon corniculatus,Noisy Friarbird,Birds,Passerine birds,NotListed,NotListed,Philemon corniculatus
+1,8,10634,Dry Temperate Forest,Manorina melanocephala,Noisy Miner,Birds,Passerine birds,NotListed,NotListed,Manorina melanocephala
+1,7,12209,Dry Temperate Forest,Amphibolurus norrisi,Norris's Dragon,Reptiles,Reptiles,NotListed,NotListed,Amphibolurus norrisi
+1,6,12529,Dry Temperate Forest,Morethia obscura,Obscure Skink,Reptiles,Reptiles,NotListed,NotListed,Morethia obscura
+3,7,12160,Temperate Cropping Zone,Delma inornata,Olive Legless Lizard,Reptiles,Reptiles,NotListed,NotListed,Delma inornata
+4,4,10405,Wet Temperate Forest,Pachycephala olivacea,Olive Whistler,Birds,Passerine birds,NotListed,NotListed,Pachycephala olivacea
+4,7,10671,Wet Temperate Forest,Oriolus sagittatus,Olive-backed Oriole,Birds,Passerine birds,NotListed,NotListed,Oriolus sagittatus
+14,7,10450,Dry Cropping Zone,Epthianura aurifrons,Orange Chat,Birds,Passerine birds,NotListed,NotListed,Epthianura aurifrons
+1,2,10305,Dry Temperate Forest,Neophema chrysogaster,Orange-bellied Parrot,Birds,Other Non-passerine birds,Victoria,Critically Endangered,Neophema chrysogaster
+1,3,10241,Dry Temperate Forest,Pandion cristatus,Osprey,Birds,Other Non-passerine birds,NotListed,NotListed,Pandion haliaetus
+1,8,10249,Dry Temperate Forest,Tyto javanica,Pacific Barn Owl,Birds,Other Non-passerine birds,NotListed,NotListed,Tyto alba
+1,8,10208,Dry Temperate Forest,Anas superciliosa,Pacific Black Duck,Birds,Other Non-passerine birds,NotListed,NotListed,Anas superciliosa
+1,6,10137,Dry Temperate Forest,Pluvialis fulva,Pacific Golden Plover,Birds,Waders,Victoria,Vulnerable,Pluvialis fulva
+1,4,60126,Dry Temperate Forest,Larus pacificus pacificus,Pacific Gull,Birds,Waders,NotListed,NotListed,Larus pacificus
+1,8,10014,Dry Temperate Forest,Turnix varia,Painted Button-quail,Birds,Other Non-passerine birds,NotListed,NotListed,Turnix varius
+1,7,12199,Dry Temperate Forest,Ctenophorus pictus,Painted Dragon,Reptiles,Reptiles,NotListed,NotListed,Ctenophorus pictus
+3,6,10598,Temperate Cropping Zone,Grantiella picta,Painted Honeyeater,Birds,Passerine birds,Australia,Vulnerable,Grantiella picta
+1,8,10337,Dry Temperate Forest,Cacomantis pallidus,Pallid Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Heteroscenes pallidus
+14,7,12698,Dry Cropping Zone,Pseudonaja aspidorhyncha,Patch-nosed Brown Snake,Reptiles,Reptiles,NotListed,NotListed,Pseudonaja aspidorhyncha
+3,8,10030,Temperate Cropping Zone,Geopelia striata,Peaceful Dove,Birds,Other Non-passerine birds,NotListed,NotListed,Geopelia striata
+1,5,10978,Dry Temperate Forest,Calidris melanotos,Pectoral Sandpiper,Birds,Waders,NotListed,NotListed,Calidris melanotos
+1,8,10237,Dry Temperate Forest,Falco peregrinus,Peregrine Falcon,Birds,Other Non-passerine birds,NotListed,NotListed,Falco peregrinus
+1,7,13204,Dry Temperate Forest,Litoria peronii,Peron's Tree Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria peronii
+14,7,12588,Dry Cropping Zone,Ramphotyphlops bituberculatus,Peters's Blind Snake,Reptiles,Reptiles,NotListed,NotListed,Anilios bituberculatus
+3,8,10700,Temperate Cropping Zone,Cracticus nigrogularis,Pied Butcherbird,Birds,Passerine birds,NotListed,NotListed,Cracticus nigrogularis
+1,7,10099,Dry Temperate Forest,Phalacrocorax varius,Pied Cormorant,Birds,Other Non-passerine birds,NotListed,NotListed,Phalacrocorax varius
+4,7,10694,Wet Temperate Forest,Strepera graculina,Pied Currawong,Birds,Passerine birds,NotListed,NotListed,Strepera graculina
+1,4,10130,Dry Temperate Forest,Haematopus longirostris,Pied Oystercatcher,Birds,Waders,NotListed,NotListed,Haematopus longirostris
+4,4,10506,Wet Temperate Forest,Pycnoptilus floccosus,Pilotbird,Birds,Passerine birds,Australia,Vulnerable,Pycnoptilus floccosus
+4,5,10383,Wet Temperate Forest,Petroica rodinogaster,Pink Robin,Birds,Passerine birds,NotListed,NotListed,Petroica rodinogaster
+3,8,10213,Temperate Cropping Zone,Malacorhynchus membranaceus,Pink-eared Duck,Birds,Other Non-passerine birds,NotListed,NotListed,Malacorhynchus membranaceus
+1,5,12143,Dry Temperate Forest,Aprasia inaurita,Pink-nosed Worm-Lizard,Reptiles,Reptiles,NotListed,NotListed,Aprasia inaurita
+3,2,12144,Temperate Cropping Zone,Aprasia parapulchella,Pink-tailed Worm-Lizard,Reptiles,Reptiles,Victoria,Endangered,Aprasia parapulchella
+4,4,13203,Wet Temperate Forest,Litoria paraewingi,Plains Brown Tree Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria paraewingi
+3,7,13131,Temperate Cropping Zone,Crinia parinsignifera,Plains Froglet,Amphibians,Amphibians,NotListed,NotListed,Crinia parinsignifera
+14,4,10020,Dry Cropping Zone,Pedionomus torquatus,Plains-wanderer,Birds,Other Non-passerine birds,Australia,Critically Endangered,Pedionomus torquatus
+1,8,5136,Dry Temperate Forest,Ornithorhynchus anatinus,Platypus,Mammals,Mammals,Victoria,Vulnerable,Ornithorhynchus anatinus
+3,8,10205,Temperate Cropping Zone,Dendrocygna eytoni,Plumed Whistling-Duck,Birds,Other Non-passerine birds,NotListed,NotListed,Dendrocygna eytoni
+1,7,63913,Dry Temperate Forest,Limnodynastes dumerilii dumerilii,Pobblebonk Frog,Amphibians,Amphibians,NotListed,NotListed,Limnodynastes dumerilii
+1,4,63914,Dry Temperate Forest,Limnodynastes dumerilii insularis,Pobblebonk Frog,Amphibians,Amphibians,NotListed,NotListed,Limnodynastes dumerilii
+1,4,63915,Dry Temperate Forest,Limnodynastes dumerilii variegatus,Pobblebonk Frog,Amphibians,Amphibians,NotListed,NotListed,Limnodynastes dumerilii
+1,6,12813,Dry Temperate Forest,Parasuta spectabilis,Port Lincoln Snake,Reptiles,Reptiles,Victoria,Endangered,Suta spectabilis
+1,5,10248,Dry Temperate Forest,Ninox strenua,Powerful Owl,Birds,Other Non-passerine birds,Victoria,Vulnerable,Ninox strenua
+1,8,10058,Dry Temperate Forest,Porphyrio porphyrio,Purple Swamphen,Birds,Other Non-passerine birds,NotListed,NotListed,Porphyrio porphyrio
+1,8,10259,Dry Temperate Forest,Glossopsitta porphyrocephala,Purple-crowned Lorikeet,Birds,Other Non-passerine birds,NotListed,NotListed,Glossopsitta porphyrocephala
+14,6,10620,Dry Cropping Zone,Lichenostomus cratitius,Purple-gaped Honeyeater,Birds,Passerine birds,Victoria,Vulnerable,Lichenostomus cratitius
+1,8,10329,Dry Temperate Forest,Merops ornatus,Rainbow Bee-eater,Birds,Other Non-passerine birds,NotListed,NotListed,Merops ornatus
+1,8,10254,Dry Temperate Forest,Trichoglossus haematodus,Rainbow Lorikeet,Birds,Other Non-passerine birds,NotListed,NotListed,Trichoglossus haematodus
+14,5,11275,Dry Cropping Zone,Macropus rufus,Red Kangaroo,Mammals,Mammals,NotListed,NotListed,Macropus rufus
+1,7,10164,Dry Temperate Forest,Calidris canutus,Red Knot,Birds,Waders,Australia,Endangered,Calidris canutus
+1,8,10638,Dry Temperate Forest,Anthochaera carunculata,Red Wattlebird,Birds,Passerine birds,NotListed,NotListed,Anthochaera carunculata
+14,7,10325,Dry Cropping Zone,Todiramphus pyrropygia pyrropygia,Red-backed Kingfisher,Birds,Other Non-passerine birds,NotListed,NotListed,Todiramphus pyrrhopygius
+4,7,12693,Wet Temperate Forest,Pseudechis porphyriacus,Red-bellied Black Snake,Reptiles,Reptiles,NotListed,NotListed,Pseudechis porphyriacus
+1,7,10662,Dry Temperate Forest,Neochmia temporalis,Red-browed Finch,Birds,Passerine birds,NotListed,NotListed,Neochmia temporalis
+4,4,10560,Wet Temperate Forest,Climacteris erythrops,Red-browed Treecreeper,Birds,Passerine birds,NotListed,NotListed,Climacteris erythrops
+1,7,10143,Dry Temperate Forest,Charadrius ruficapillus,Red-capped Plover,Birds,Waders,NotListed,NotListed,Charadrius ruficapillus
+1,8,10381,Dry Temperate Forest,Petroica goodenovii,Red-capped Robin,Birds,Passerine birds,NotListed,NotListed,Petroica goodenovii
+14,6,10019,Dry Cropping Zone,Turnix pyrrhothorax,Red-chested Button-quail,Birds,Other Non-passerine birds,Victoria,Endangered,Turnix pyrrhothorax
+1,7,10132,Dry Temperate Forest,Erythrogonys cinctus,Red-kneed Dotterel,Birds,Waders,NotListed,NotListed,Erythrogonys cinctus
+14,5,10402,Dry Cropping Zone,Pachycephala rufogularis,Red-lored Whistler,Birds,Passerine birds,Victoria,Vulnerable,Pachycephala rufogularis
+13,3,12669,Arid Chenopod Shrubland Transition,Furina diadema,Red-naped Snake,Reptiles,Reptiles,Victoria,Endangered,Furina diadema
+14,8,10148,Dry Cropping Zone,Recurvirostra novaehollandiae,Red-necked Avocet,Birds,Waders,NotListed,NotListed,Recurvirostra novaehollandiae
+1,7,10162,Dry Temperate Forest,Calidris ruficollis,Red-necked Stint,Birds,Waders,NotListed,NotListed,Calidris ruficollis
+4,5,11261,Wet Temperate Forest,Macropus rufogriseus,Red-necked Wallaby,Mammals,Mammals,NotListed,NotListed,Macropus rufogriseus
+1,8,10295,Dry Temperate Forest,Psephotus haematonotus,Red-rumped Parrot,Birds,Other Non-passerine birds,NotListed,NotListed,Psephotus haematonotus
+1,4,10264,Dry Temperate Forest,Calyptorhynchus banksii graptogyne,Red-tailed Black-Cockatoo,Birds,Other Non-passerine birds,Victoria,Endangered,Calyptorhynchus banksii
+4,3,12464,Wet Temperate Forest,Acritoscincus platynotus,Red-throated Skink,Reptiles,Reptiles,NotListed,NotListed,Acritoscincus platynotus
+13,4,10497,Arid Chenopod Shrubland Transition,Pyrrholaemus brunneus,Redthroat,Birds,Passerine birds,Victoria,Endangered,Pyrrholaemus brunneus
+14,4,12374,Dry Cropping Zone,Ctenotus regius,Regal Striped Skink,Reptiles,Reptiles,NotListed,NotListed,Ctenotus regius
+1,4,10603,Dry Temperate Forest,Anthochaera phrygia,Regent Honeyeater,Birds,Passerine birds,Australia,Critically Endangered,Anthochaera phrygia
+14,4,10278,Dry Cropping Zone,Polytelis anthopeplus monarchoides,Regent Parrot,Birds,Other Non-passerine birds,Victoria,Vulnerable,Polytelis anthopeplus
+1,8,10369,Dry Temperate Forest,Myiagra inquieta,Restless Flycatcher,Birds,Passerine birds,NotListed,NotListed,Myiagra inquieta
+4,5,10384,Wet Temperate Forest,Petroica rosea,Rose Robin,Birds,Passerine birds,NotListed,NotListed,Petroica rosea
+1,4,12287,Dry Temperate Forest,Varanus rosenbergi,Rosenberg's Goanna,Reptiles,Reptiles,Victoria,Critically Endangered,Varanus rosenbergi
+1,7,10181,Dry Temperate Forest,Platalea regia,Royal Spoonbill,Birds,Other Non-passerine birds,NotListed,NotListed,Platalea regia
+1,5,10129,Dry Temperate Forest,Arenaria interpres,Ruddy Turnstone,Birds,Waders,Victoria,Endangered,Arenaria interpres
+1,8,10934,Dry Temperate Forest,Philomachus pugnax,Ruff,Birds,Waders,NotListed,NotListed,Calidris pugnax
+1,2,10521,Dry Temperate Forest,Dasyornis broadbenti,Rufous Bristlebird,Birds,Passerine birds,NotListed,NotListed,Dasyornis broadbenti
+4,5,10362,Wet Temperate Forest,Rhipidura rufifrons,Rufous Fantail,Birds,Passerine birds,NotListed,NotListed,Rhipidura rufifrons
+1,7,10502,Dry Temperate Forest,Calamanthus campestris,Rufous Fieldwren,Birds,Passerine birds,NotListed,NotListed,Calamanthus campestris
+1,8,10509,Dry Temperate Forest,Cincloramphus mathewsi,Rufous Songlark,Birds,Passerine birds,NotListed,NotListed,Cincloramphus mathewsi
+1,8,10401,Dry Temperate Forest,Pachycephala rufiventris,Rufous Whistler,Birds,Passerine birds,NotListed,NotListed,Pachycephala rufiventris
+3,3,13151,Temperate Cropping Zone,Uperoleia rugosa,Rugose Toadlet,Amphibians,Amphibians,Victoria,Endangered,Uperoleia rugosa
+1,8,10326,Dry Temperate Forest,Todiramphus sanctus,Sacred Kingfisher,Birds,Other Non-passerine birds,NotListed,NotListed,Todiramphus sanctus
+13,4,19008,Arid Chenopod Shrubland Transition,Ctenotus olympicus,Saltbush Striped Skink,Reptiles,Reptiles,Victoria,Critically Endangered,Ctenotus olympicus
+13,6,12525,Arid Chenopod Shrubland Transition,Morethia adelaidensis,Samphire Skink,Reptiles,Reptiles,Victoria,Endangered,Morethia adelaidensis
+1,7,12271,Dry Temperate Forest,Varanus gouldii,Sand Goanna,Reptiles,Reptiles,NotListed,NotListed,Varanus gouldii
+1,3,10166,Dry Temperate Forest,Calidris alba,Sanderling,Birds,Waders,NotListed,NotListed,Calidris alba
+4,4,10679,Wet Temperate Forest,Ptilonorhynchus violaceus,Satin Bowerbird,Birds,Passerine birds,NotListed,NotListed,Ptilonorhynchus violaceus
+4,5,10366,Wet Temperate Forest,Myiagra cyanoleuca,Satin Flycatcher,Birds,Passerine birds,NotListed,NotListed,Myiagra cyanoleuca
+1,3,10256,Dry Temperate Forest,Trichoglossus chlorolepidotus,Scaly-breasted Lorikeet,Birds,Other Non-passerine birds,NotListed,NotListed,Trichoglossus chlorolepidotus
+1,7,10586,Dry Temperate Forest,Myzomela sanguinolenta,Scarlet Honeyeater,Birds,Passerine birds,NotListed,NotListed,Myzomela sanguinolenta
+1,7,10380,Dry Temperate Forest,Petroica boodang,Scarlet Robin,Birds,Passerine birds,NotListed,NotListed,Petroica boodang
+14,3,10303,Dry Cropping Zone,Neophema splendida,Scarlet-chested Parrot,Birds,Other Non-passerine birds,Victoria,Endangered,Neophema splendida
+3,8,10163,Temperate Cropping Zone,Calidris acuminata,Sharp-tailed Sandpiper,Birds,Waders,NotListed,NotListed,Calidris acuminata
+1,8,10344,Dry Temperate Forest,Chrysococcyx lucidus,Shining Bronze-Cuckoo,Birds,Other Non-passerine birds,NotListed,NotListed,Chalcites lucidus
+1,8,11003,Dry Temperate Forest,Tachyglossus aculeatus,Short-beaked Echidna,Mammals,Mammals,NotListed,NotListed,Tachyglossus aculeatus
+1,6,10499,Dry Temperate Forest,Calamanthus cautus,Shy Heathwren,Birds,Passerine birds,NotListed,NotListed,Calamanthus cautus
+1,5,11457,Dry Temperate Forest,Pseudomys apodemoides,Silky Mouse,Mammals,Mammals,NotListed,NotListed,Pseudomys apodemoides
+1,8,10125,Dry Temperate Forest,Chroicocephalus novaehollandiae,Silver Gull,Birds,Waders,NotListed,NotListed,Larus novaehollandiae
+1,8,10574,Dry Temperate Forest,Zosterops lateralis,Silvereye,Birds,Passerine birds,NotListed,NotListed,Zosterops lateralis
+1,8,10608,Dry Temperate Forest,Lichenostomus virescens,Singing Honeyeater,Birds,Passerine birds,NotListed,NotListed,Gavicalis virescens
+1,6,10482,Dry Temperate Forest,Acanthiza iredalei hedleyi,Slender-billed Thornbill,Birds,Passerine birds,Victoria,Endangered,Acanthiza iredalei
+3,4,13135,Temperate Cropping Zone,Crinia sloanei,Sloane's Froglet,Amphibians,Amphibians,Australia,Endangered,Crinia sloanei
+4,4,11458,Wet Temperate Forest,Pseudomys fumeus,Smoky Mouse,Mammals,Mammals,Victoria,Endangered,Pseudomys fumeus
+4,4,13158,Wet Temperate Forest,Uperoleia laevigata,Smooth Toadlet,Amphibians,Amphibians,NotListed,NotListed,Uperoleia laevigata
+4,4,10253,Wet Temperate Forest,Tyto tenebricosa,Sooty Owl,Birds,Other Non-passerine birds,Victoria,Endangered,Tyto tenebricosa
+1,3,10131,Dry Temperate Forest,Haematopus fuliginosus,Sooty Oystercatcher,Birds,Waders,NotListed,NotListed,Haematopus fuliginosus
+14,5,61332,Dry Cropping Zone,Nyctophilus corbeni,South-eastern Long-eared Bat,Mammals,Bats,Victoria,Endangered,Nyctophilus corbeni
+1,8,10242,Dry Temperate Forest,Ninox novaeseelandiae,Southern Boobook,Birds,Other Non-passerine birds,NotListed,NotListed,Ninox novaeseelandiae
+1,4,61092,Dry Temperate Forest,Isoodon obesulus obesulus,Southern Brown Bandicoot,Mammals,Mammals,Australia,Endangered,Isoodon obesulus
+1,5,13182,Dry Temperate Forest,Litoria ewingii,Southern Brown Tree Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria ewingii
+1,8,13058,Dry Temperate Forest,Limnodynastes dumerilii,Southern Bullfrog (ssp. unknown),Amphibians,Amphibians,NotListed,NotListed,Limnodynastes dumerilii
+1,5,10526,Dry Temperate Forest,Stipiturus malachurus,Southern Emu-wren,Birds,Passerine birds,NotListed,NotListed,Stipiturus malachurus
+4,8,11378,Wet Temperate Forest,Vespadelus regulus,Southern Forest Bat,Mammals,Bats,NotListed,NotListed,Vespadelus regulus
+3,8,11808,Temperate Cropping Zone,Mormopterus sp. 4,Southern Freetail Bat,Mammals,Bats,NotListed,NotListed,Mormopterus planiceps
+4,4,12994,Wet Temperate Forest,Pseudemoia entrecasteauxii,Southern Grass Skink,Reptiles,Reptiles,NotListed,NotListed,Pseudemoia entrecasteauxii
+1,6,12154,Dry Temperate Forest,Delma australis,Southern Legless Lizard,Reptiles,Reptiles,NotListed,NotListed,Delma australis
+1,8,11357,Dry Temperate Forest,Myotis macropus,Southern Myotis,Mammals,Bats,NotListed,NotListed,Myotis macropus
+3,4,12318,Temperate Cropping Zone,Carlia tetradactyla,Southern Rainbow Skink,Reptiles,Reptiles,NotListed,NotListed,Carlia tetradactyla
+1,6,10441,Dry Temperate Forest,Drymodes brunneopygia,Southern Scrub-robin,Birds,Passerine birds,NotListed,NotListed,Drymodes brunneopygia
+1,3,13029,Dry Temperate Forest,Geocrinia laevis,Southern Smooth Froglet,Amphibians,Amphibians,NotListed,NotListed,Geocrinia laevis
+1,6,12059,Dry Temperate Forest,Strophurus intermedius,Southern Spiny-tailed Gecko,Reptiles,Reptiles,NotListed,NotListed,Strophurus intermedius
+1,4,13125,Dry Temperate Forest,Pseudophryne semimarmorata,Southern Toadlet,Amphibians,Amphibians,Victoria,Endangered,Pseudophryne semimarmorata
+4,5,62956,Wet Temperate Forest,Eulamprus tympanum tympanum,Southern Water Skink,Reptiles,Reptiles,NotListed,NotListed,Eulamprus tympanum
+3,8,10466,Temperate Cropping Zone,Aphelocephala leucopsis,Southern Whiteface,Birds,Passerine birds,NotListed,NotListed,Aphelocephala leucopsis
+1,3,10673,Dry Temperate Forest,Dicrurus bracteatus,Spangled Drongo,Birds,Passerine birds,NotListed,NotListed,Dicrurus bracteatus
+3,4,10504,Temperate Cropping Zone,Pyrrholaemus sagittatus,Speckled Warbler,Birds,Passerine birds,Victoria,Endangered,Pyrrholaemus sagittatus
+4,4,12541,Wet Temperate Forest,Pseudemoia spenceri,Spencer's Skink,Reptiles,Reptiles,NotListed,NotListed,Pseudemoia spenceri
+1,8,10640,Dry Temperate Forest,Acanthagenys rufogularis,Spiny-cheeked Honeyeater,Birds,Passerine birds,NotListed,NotListed,Acanthagenys rufogularis
+14,6,10532,Dry Cropping Zone,Malurus splendens,Splendid Fairy-wren,Birds,Passerine birds,NotListed,NotListed,Malurus splendens
+4,4,11008,Wet Temperate Forest,Dasyurus maculatus maculatus,Spot-tailed Quoll,Mammals,Mammals,Victoria,Endangered,Dasyurus maculatus
+1,7,10051,Dry Temperate Forest,Porzana tabuensis,Spotless Crake,Birds,Other Non-passerine birds,NotListed,NotListed,Zapornia tabuensis
+14,6,12499,Dry Cropping Zone,Lerista punctatovittata,Spotted Burrowing Skink,Reptiles,Reptiles,NotListed,NotListed,Lerista punctatovittata
+3,8,10218,Temperate Cropping Zone,Circus assimilis,Spotted Harrier,Birds,Other Non-passerine birds,NotListed,NotListed,Circus assimilis
+1,8,13063,Dry Temperate Forest,Limnodynastes tasmaniensis,Spotted Marsh Frog (race unknown),Amphibians,Amphibians,NotListed,NotListed,Limnodynastes tasmaniensis
+3,8,10331,Temperate Cropping Zone,Eurostopodus argus,Spotted Nightjar,Birds,Other Non-passerine birds,NotListed,NotListed,Eurostopodus argus
+1,8,10565,Dry Temperate Forest,Pardalotus punctatus punctatus,Spotted Pardalote,Birds,Passerine birds,NotListed,NotListed,Pardalotus punctatus
+4,5,10436,Wet Temperate Forest,Cinclosoma punctatum,Spotted Quail-thrush,Birds,Passerine birds,NotListed,NotListed,Cinclosoma punctatum
+4,3,13195,Wet Temperate Forest,Litoria spenceri,Spotted Tree Frog,Amphibians,Amphibians,Australia,Critically Endangered,Litoria spenceri
+1,8,10230,Dry Temperate Forest,Lophoictinia isura,Square-tailed Kite,Birds,Other Non-passerine birds,Victoria,Vulnerable,Lophoictinia isura
+3,4,11137,Temperate Cropping Zone,Petaurus norfolcensis,Squirrel Glider,Mammals,Mammals,Victoria,Vulnerable,Petaurus norfolcensis
+1,8,10180,Dry Temperate Forest,Threskiornis spinicollis,Straw-necked Ibis,Birds,Other Non-passerine birds,NotListed,NotListed,Threskiornis spinicollis
+1,5,10500,Dry Temperate Forest,Calamanthus fuliginosus,Striated Fieldwren,Birds,Passerine birds,NotListed,NotListed,Calamanthus fuliginosus
+14,4,10513,Dry Cropping Zone,Amytornis striatus striatus,Striated Grasswren,Birds,Passerine birds,NotListed,NotListed,Amytornis striatus
+4,2,10193,Wet Temperate Forest,Butorides striatus,Striated Heron,Birds,Other Non-passerine birds,NotListed,NotListed,Butorides striata
+1,8,10976,Dry Temperate Forest,Pardalotus striatus,Striated Pardalote,Birds,Passerine birds,NotListed,NotListed,Pardalotus striatus
+4,8,10470,Wet Temperate Forest,Acanthiza lineata,Striated Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza lineata
+14,6,10585,Dry Cropping Zone,Plectorhyncha lanceolata,Striped Honeyeater,Birds,Passerine birds,NotListed,NotListed,Plectorhyncha lanceolata
+1,5,12159,Dry Temperate Forest,Delma impar,Striped Legless Lizard,Reptiles,Reptiles,Victoria,Endangered,Delma impar
+1,5,13061,Dry Temperate Forest,Limnodynastes peronii,Striped Marsh Frog,Amphibians,Amphibians,NotListed,NotListed,Limnodynastes peronii
+3,4,12150,Temperate Cropping Zone,Aprasia striolata,Striped Worm-Lizard,Reptiles,Reptiles,Victoria,Endangered,Aprasia striolata
+1,8,10009,Dry Temperate Forest,Coturnix pectoralis,Stubble Quail,Birds,Other Non-passerine birds,NotListed,NotListed,Coturnix pectoralis
+1,8,12583,Dry Temperate Forest,Tiliqua rugosa,Stumpy-tailed Lizard,Reptiles,Reptiles,NotListed,NotListed,Tiliqua rugosa
+1,7,11138,Dry Temperate Forest,Petaurus breviceps,Sugar Glider,Mammals,Mammals,NotListed,NotListed,Petaurus breviceps
+1,8,10269,Dry Temperate Forest,Cacatua galerita,Sulphur-crested Cockatoo,Birds,Other Non-passerine birds,NotListed,NotListed,Cacatua galerita
+1,8,10529,Dry Temperate Forest,Malurus cyaneus,Superb Fairy-wren,Birds,Passerine birds,NotListed,NotListed,Malurus cyaneus
+4,4,10350,Wet Temperate Forest,Menura novaehollandiae,Superb Lyrebird,Birds,Passerine birds,NotListed,NotListed,Menura novaehollandiae
+3,5,10277,Temperate Cropping Zone,Polytelis swainsonii,Superb Parrot,Birds,Other Non-passerine birds,Victoria,Endangered,Polytelis swainsonii
+1,2,11034,Dry Temperate Forest,Antechinus minimus maritimus,Swamp Antechinus,Mammals,Mammals,Australia,Vulnerable,Antechinus minimus
+1,8,10219,Dry Temperate Forest,Circus approximans,Swamp Harrier,Birds,Other Non-passerine birds,NotListed,NotListed,Circus approximans
+1,4,11398,Dry Temperate Forest,Rattus lutreolus,Swamp Rat,Mammals,Mammals,NotListed,NotListed,Rattus lutreolus
+1,4,12407,Dry Temperate Forest,Lissolepis coventryi,Swamp Skink,Reptiles,Reptiles,Victoria,Endangered,Lissolepis coventryi
+3,5,10309,Temperate Cropping Zone,Lathamus discolor,Swift Parrot,Birds,Other Non-passerine birds,Australia,Critically Endangered,Lathamus discolor
+1,8,10313,Dry Temperate Forest,Podargus strigoides,Tawny Frogmouth,Birds,Other Non-passerine birds,NotListed,NotListed,Podargus strigoides
+1,8,10593,Dry Temperate Forest,Phylidonyris melanops,Tawny-crowned Honeyeater,Birds,Passerine birds,NotListed,NotListed,Gliciphila melanops
+1,4,10160,Dry Temperate Forest,Xenus cinereus,Terek Sandpiper,Birds,Waders,Victoria,Endangered,Xenus cinereus
+14,6,12076,Dry Cropping Zone,Diplodactylus tessellatus,Tessellated Gecko,Reptiles,Reptiles,NotListed,NotListed,Diplodactylus tessellatus
+1,7,12138,Dry Temperate Forest,Underwoodisaurus milii,Thick-tailed Barking Gecko,Reptiles,Reptiles,NotListed,NotListed,Underwoodisaurus milii
+4,4,12441,Wet Temperate Forest,Hemiergis decresiensis,Three-toed Skink,Reptiles,Reptiles,NotListed,NotListed,Hemiergis decresiensis
+1,7,12681,Dry Temperate Forest,Notechis scutatus,Tiger Snake,Reptiles,Reptiles,NotListed,NotListed,Notechis scutatus
+4,5,12194,Wet Temperate Forest,Amphibolurus muricatus,Tree Dragon,Reptiles,Reptiles,NotListed,NotListed,Amphibolurus muricatus
+14,5,12092,Dry Cropping Zone,Gehyra variegata,Tree Dtella,Reptiles,Reptiles,NotListed,NotListed,Gehyra variegata
+1,8,10359,Dry Temperate Forest,Petrochelidon nigricans,Tree Martin,Birds,Passerine birds,NotListed,NotListed,Petrochelidon nigricans
+3,7,12429,Temperate Cropping Zone,Egernia striolata,Tree Skink,Reptiles,Reptiles,NotListed,NotListed,Egernia striolata
+3,5,10302,Temperate Cropping Zone,Neophema pulchella,Turquoise Parrot,Birds,Other Non-passerine birds,Victoria,Vulnerable,Neophema pulchella
+1,5,12993,Dry Temperate Forest,Pseudemoia pagenstecheri (Volcanic Plains),Tussock Skink,Reptiles,Reptiles,Victoria,Endangered,Pseudemoia pagenstecheri
+4,3,13931,Wet Temperate Forest,Uperoleia tyleri,Tyler's Toadlet,Amphibians,Amphibians,NotListed,NotListed,Uperoleia tyleri
+1,8,10549,Dry Temperate Forest,Daphoenositta chrysoptera,Varied Sittella,Birds,Passerine birds,NotListed,NotListed,Daphoenositta chrysoptera
+14,8,10536,Dry Cropping Zone,Malurus lamberti,Variegated Fairy-wren,Birds,Passerine birds,NotListed,NotListed,Malurus lamberti
+1,4,63906,Dry Temperate Forest,Litoria verreauxii verreauxii,Verreaux's Tree Frog,Amphibians,Amphibians,NotListed,NotListed,Litoria verreauxii
+4,4,13033,Wet Temperate Forest,Geocrinia victoriana,Victorian Smooth Froglet,Amphibians,Amphibians,NotListed,NotListed,Geocrinia victoriana
+1,8,11415,Dry Temperate Forest,Hydromys chrysogaster,Water Rat,Mammals,Mammals,NotListed,NotListed,Hydromys chrysogaster
+4,4,12452,Wet Temperate Forest,Saproscincus mustelinus,Weasel Skink,Reptiles,Reptiles,NotListed,NotListed,Saproscincus mustelinus
+1,8,10224,Dry Temperate Forest,Aquila audax,Wedge-tailed Eagle,Birds,Other Non-passerine birds,NotListed,NotListed,Aquila audax
+1,8,10465,Dry Temperate Forest,Smicrornis brevirostris,Weebill,Birds,Passerine birds,NotListed,NotListed,Smicrornis brevirostris
+1,8,10357,Dry Temperate Forest,Hirundo neoxena,Welcome Swallow,Birds,Passerine birds,NotListed,NotListed,Hirundo neoxena
+1,6,12586,Dry Temperate Forest,Ramphotyphlops bicolor,West Australian Dark-spined Blind Snake,Reptiles,Reptiles,NotListed,NotListed,Anilios bicolor
+14,8,12579,Dry Cropping Zone,Tiliqua occipitalis,Western Blue-tongued Lizard,Reptiles,Reptiles,NotListed,NotListed,Tiliqua occipitalis
+1,8,10463,Dry Temperate Forest,Gerygone fusca,Western Gerygone,Birds,Passerine birds,NotListed,NotListed,Gerygone fusca
+1,7,11263,Dry Temperate Forest,Macropus fuliginosus,Western Grey Kangaroo,Mammals,Mammals,NotListed,NotListed,Macropus fuliginosus
+1,7,11151,Dry Temperate Forest,Cercartetus concinnus minor,Western Pygmy-possum,Mammals,Mammals,NotListed,NotListed,Cercartetus concinnus
+1,3,10150,Dry Temperate Forest,Numenius phaeopus,Whimbrel,Birds,Waders,Victoria,Endangered,Numenius phaeopus
+1,8,10110,Dry Temperate Forest,Chlidonias hybridus javanicus,Whiskered Tern,Birds,Waders,NotListed,NotListed,Chlidonias hybrida
+1,8,10228,Dry Temperate Forest,Haliastur sphenurus,Whistling Kite,Birds,Other Non-passerine birds,NotListed,NotListed,Haliastur sphenurus
+1,8,10358,Dry Temperate Forest,Cheramoeca leucosternus,White-backed Swallow,Birds,Passerine birds,NotListed,NotListed,Cheramoeca leucosterna
+1,8,10425,Dry Temperate Forest,Coracina papuensis,White-bellied Cuckoo-shrike,Birds,Passerine birds,NotListed,NotListed,Coracina papuensis
+1,7,10226,Dry Temperate Forest,Haliaeetus leucogaster,White-bellied Sea-Eagle,Birds,Other Non-passerine birds,Victoria,Endangered,Haliaeetus leucogaster
+3,8,10543,Temperate Cropping Zone,Artamus leucorynchus,White-breasted Woodswallow,Birds,Passerine birds,NotListed,NotListed,Artamus leucoryn
+1,8,10445,Dry Temperate Forest,Pomatostomus superciliosus,White-browed Babbler,Birds,Passerine birds,NotListed,NotListed,Pomatostomus superciliosus
+4,7,10488,Wet Temperate Forest,Sericornis frontalis,White-browed Scrubwren,Birds,Passerine birds,NotListed,NotListed,Sericornis frontalis
+14,6,10561,Dry Cropping Zone,Climacteris affinis,White-browed Treecreeper,Birds,Passerine birds,Victoria,Endangered,Climacteris affinis
+1,8,10545,Dry Temperate Forest,Artamus superciliosus,White-browed Woodswallow,Birds,Passerine birds,NotListed,NotListed,Artamus superciliosus
+1,8,10617,Dry Temperate Forest,Lichenostomus leucotis,White-eared Honeyeater,Birds,Passerine birds,NotListed,NotListed,Nesoptilotis leucotis
+1,8,10188,Dry Temperate Forest,Egretta novaehollandiae,White-faced Heron,Birds,Other Non-passerine birds,NotListed,NotListed,Egretta novaehollandiae
+4,4,11069,Wet Temperate Forest,Sminthopsis leucopus,White-footed Dunnart,Mammals,Mammals,Victoria,Vulnerable,Sminthopsis leucopus
+1,8,10448,Dry Temperate Forest,Epthianura albifrons,White-fronted Chat,Birds,Passerine birds,NotListed,NotListed,Epthianura albifrons
+1,8,10594,Dry Temperate Forest,Phylidonyris albifrons,White-fronted Honeyeater,Birds,Passerine birds,NotListed,NotListed,Purnella albifrons
+1,8,10114,Dry Temperate Forest,Sterna striata,White-fronted Tern,Birds,Waders,NotListed,NotListed,Sterna striata
+4,3,10028,Wet Temperate Forest,Columba leucomela,White-headed Pigeon,Birds,Other Non-passerine birds,NotListed,NotListed,Columba leucomela
+1,4,12665,Dry Temperate Forest,Drysdalia coronoides,White-lipped Snake,Reptiles,Reptiles,NotListed,NotListed,Drysdalia coronoides
+4,8,10578,Wet Temperate Forest,Melithreptus lunatus,White-naped Honeyeater,Birds,Passerine birds,NotListed,NotListed,Melithreptus lunatus
+1,8,10189,Dry Temperate Forest,Ardea pacifica,White-necked Heron,Birds,Other Non-passerine birds,NotListed,NotListed,Ardea pacifica
+1,8,10625,Dry Temperate Forest,Lichenostomus penicillatus,White-plumed Honeyeater,Birds,Passerine birds,NotListed,NotListed,Ptilotula penicillata
+1,8,11324,Dry Temperate Forest,Tadarida australis,White-striped Freetail Bat,Mammals,Bats,NotListed,NotListed,Austronomus australis
+1,7,10453,Dry Temperate Forest,Gerygone olivacea,White-throated Gerygone,Birds,Passerine birds,NotListed,NotListed,Gerygone olivacea
+4,7,10334,Wet Temperate Forest,Hirundapus caudacutus,White-throated Needletail,Birds,Other Non-passerine birds,Australia,Vulnerable,Hirundapus caudacutus
+4,5,10330,Wet Temperate Forest,Eurostopodus mystacalis,White-throated Nightjar,Birds,Other Non-passerine birds,NotListed,NotListed,Eurostopodus mystacalis
+1,7,10558,Dry Temperate Forest,Cormobates leucophaeus,White-throated Treecreeper,Birds,Passerine birds,NotListed,NotListed,Cormobates leucophaea
+1,8,10109,Dry Temperate Forest,Chlidonias leucopterus,White-winged Black Tern,Birds,Waders,NotListed,NotListed,Chlidonias leucopterus
+1,8,10693,Dry Temperate Forest,Corcorax melanorhamphos,White-winged Chough,Birds,Passerine birds,NotListed,NotListed,Corcorax melanorhamphos
+14,6,10535,Dry Cropping Zone,Malurus leucopterus,White-winged Fairy-wren,Birds,Passerine birds,NotListed,NotListed,Malurus leucopterus
+1,8,10430,Dry Temperate Forest,Lalage sueurii,White-winged Triller,Birds,Passerine birds,NotListed,NotListed,Lalage sueurii
+1,5,62430,Dry Temperate Forest,Liopholis whitii GROUP,White's Skink,Reptiles,Reptiles,NotListed,NotListed,Liopholis whitii
+1,8,10364,Dry Temperate Forest,Rhipidura leucophrys,Willie Wagtail,Birds,Passerine birds,NotListed,NotListed,Rhipidura leucophrys
+4,4,10044,Wet Temperate Forest,Leucosarcia melanoleuca,Wonga Pigeon,Birds,Other Non-passerine birds,NotListed,NotListed,Leucosarcia melanoleuca
+1,7,12077,Dry Temperate Forest,Diplodactylus vittatus,Wood Gecko,Reptiles,Reptiles,NotListed,NotListed,Diplodactylus vittatus
+3,4,12603,Temperate Cropping Zone,Ramphotyphlops proximus,Woodland Blind Snake,Reptiles,Reptiles,NotListed,NotListed,Anilios proximus
+1,8,10471,Dry Temperate Forest,Acanthiza nana,Yellow Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza nana
+4,4,11136,Wet Temperate Forest,Petaurus australis australis,Yellow-bellied Glider,Mammals,Mammals,Australia,Vulnerable,Petaurus australis
+1,8,11321,Dry Temperate Forest,Saccolaimus flaviventris,Yellow-bellied Sheathtail Bat,Mammals,Bats,Victoria,Vulnerable,Saccolaimus flaviventris
+4,5,12957,Wet Temperate Forest,Eulamprus heatwolei,Yellow-bellied Water Skink,Reptiles,Reptiles,NotListed,NotListed,Eulamprus heatwolei
+3,8,10182,Temperate Cropping Zone,Platalea flavipes,Yellow-billed Spoonbill,Birds,Other Non-passerine birds,NotListed,NotListed,Platalea flavipes
+4,7,10614,Wet Temperate Forest,Lichenostomus chrysops,Yellow-faced Honeyeater,Birds,Passerine birds,NotListed,NotListed,Caligavis chrysops
+14,6,12655,Dry Cropping Zone,Demansia psammophis,Yellow-faced Whip Snake,Reptiles,Reptiles,NotListed,NotListed,Demansia psammophis
+3,5,11027,Temperate Cropping Zone,Antechinus flavipes,Yellow-footed Antechinus,Mammals,Mammals,NotListed,NotListed,Antechinus flavipes
+1,8,10622,Dry Temperate Forest,Lichenostomus ornatus,Yellow-plumed Honeyeater,Birds,Passerine birds,NotListed,NotListed,Ptilotula ornata
+1,8,10486,Dry Temperate Forest,Acanthiza chrysorrhoa,Yellow-rumped Thornbill,Birds,Passerine birds,NotListed,NotListed,Acanthiza chrysorrhoa
+1,5,10267,Dry Temperate Forest,Calyptorhynchus funereus,Yellow-tailed Black-Cockatoo,Birds,Other Non-passerine birds,NotListed,NotListed,Zanda funerea
+14,7,10635,Dry Cropping Zone,Manorina flavigula,Yellow-throated Miner,Birds,Passerine birds,NotListed,NotListed,Manorina flavigula
+1,8,10619,Dry Temperate Forest,Lichenostomus melanops,Yellow-tufted Honeyeater,Birds,Passerine birds,NotListed,NotListed,Lichenostomus melanops
+3,8,10653,Temperate Cropping Zone,Taeniopygia guttata,Zebra Finch,Birds,Passerine birds,NotListed,NotListed,Taeniopygia guttata

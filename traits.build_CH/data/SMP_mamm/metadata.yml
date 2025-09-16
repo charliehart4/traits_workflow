@@ -1,0 +1,192 @@
+source:
+  primary:
+    key: SMP_amph_2020
+    bibtype: Article
+    year: 2020
+    author: "J. Thomson; T. J. Regan; T. Hollings; N. Amos; W. L. Geary; D. Parkes; C. E. Hauser; M. White"
+    title: "Spatial conservation action planning in heterogeneous landscapes"
+    journal: unknown
+    volume: unknown
+    number: unknown
+    pages: unknown
+    doi: unknown
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+    data %>%
+   mutate(
+    derived_mass_g = rowMeans(cbind(MaleMassMin, MaleMassMax, FemaleMassMin, FemaleMassMax), na.rm = TRUE),
+    diet = case_when(
+      Diet == "C" ~ "carnivore",
+      Diet == "H" ~ "herbivore",
+      Diet == "I" ~ "invertivore",
+      Diet == "INF" ~ "inflorescence",
+      Diet == "O" ~ "omnivore",
+      Diet == "S" ~ "granivore",
+      TRUE ~ NA_character_
+    ),
+    diet_carnivore = ifelse(is.na(Diet), NA, ifelse(Diet == "C", 1, 0)),
+    diet_herbivore = ifelse(is.na(Diet), NA, ifelse(Diet == "H", 1, 0)),
+    diet_invertivore = ifelse(is.na(Diet), NA, ifelse(Diet == "I", 1, 0)),
+    diet_inflorescence = ifelse(is.na(Diet), NA, ifelse(Diet == "INF", 1, 0)),
+    diet_omnivore = ifelse(is.na(Diet), NA, ifelse(Diet == "O", 1, 0)),
+    diet_granivore = ifelse(is.na(Diet), NA, ifelse(Diet == "S", 1, 0)),
+    nesting = case_when(
+      nesting.code == "G" ~ "ground",
+      nesting.code == "H" ~ "hollows",
+      nesting.code %in% c("N", "P", "V") ~ "branch",
+      nesting.code == "B" ~ "burrow",
+      nesting.code == "C" ~ "cave",
+      TRUE ~ NA_character_
+    ),
+    nest_burrow = ifelse(is.na(nesting), NA, ifelse(nesting == "burrow", 1, 0)),
+    nest_cave = ifelse(is.na(nesting), NA, ifelse(nesting == "cave", 1, 0)),
+    nest_ground = ifelse(is.na(nesting), NA, ifelse(nesting == "ground", 1, 0)),
+    nest_hollows = ifelse(is.na(nesting), NA, ifelse(nesting == "hollows", 1, 0)),
+    nest_branch = ifelse(is.na(nesting), NA, ifelse(nesting == "branch", 1, 0))
+   )
+   '
+  collection_date: ''
+  taxon_name: Scientific
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: derived_mass_g
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: population
+  value_type: mean
+  basis_of_value: unknown
+  replicates: unknown
+  methods: Mean of all available male and female mass min/max values
+- var_in: diet
+  unit_in: unknown
+  trait_name: diet
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: Derived from coded letters (C, H, I, INF, O, S)
+- var_in: diet_carnivore
+  unit_in: unknown
+  trait_name: diet_carnivore
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if Diet == "C", else 0
+- var_in: diet_herbivore
+  unit_in: unknown
+  trait_name: diet_herbivore
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if Diet == "H", else 0
+- var_in: diet_invertivore
+  unit_in: unknown
+  trait_name: diet_invertivore
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if Diet == "I", else 0
+- var_in: diet_inflorescence
+  unit_in: unknown
+  trait_name: diet_inflorescence
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if Diet == "INF", else 0
+- var_in: diet_omnivore
+  unit_in: unknown
+  trait_name: diet_omnivore
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if Diet == "O", else 0
+- var_in: diet_granivore
+  unit_in: unknown
+  trait_name: diet_granivore
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if Diet == "S", else 0
+- var_in: nesting
+  unit_in: unknown
+  trait_name: nesting
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: Derived from nesting.code (G, H, B, etc.)
+- var_in: nest_burrow
+  unit_in: unknown
+  trait_name: nest_burrow
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "Burrow", else 0
+- var_in: nest_cave
+  unit_in: unknown
+  trait_name: nest_cave
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "Cave", else 0
+- var_in: nest_ground
+  unit_in: unknown
+  trait_name: nest_ground
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "Ground", else 0
+- var_in: nest_hollows
+  unit_in: unknown
+  trait_name: nest_hollows
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "Hollows", else 0
+- var_in: nest_branch
+  unit_in: unknown
+  trait_name: nest_branch
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "Branch", else 0
+- var_in: litter.size
+  unit_in: 
+  trait_name: litter_size_n
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

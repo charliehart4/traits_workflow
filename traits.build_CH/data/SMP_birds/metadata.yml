@@ -1,0 +1,108 @@
+source:
+  primary:
+    key: SMP_amph_2020
+    bibtype: Article
+    year: 2020
+    author: "J. Thomson; T. J. Regan; T. Hollings; N. Amos; W. L. Geary; D. Parkes; C. E. Hauser; M. White"
+    title: "Spatial conservation action planning in heterogeneous landscapes"
+    journal: unknown
+    volume: unknown
+    number: unknown
+    pages: unknown
+    doi: unknown
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+     data %>%
+   mutate(
+    derived_nesting = case_when(
+      NestGuildVicForest %in% c("LH", "SH") ~ "hollows",
+      NestGuildVicForest %in% c("V", "B") ~ "branch",
+      NestGuildVicForest %in% c("G") ~ "ground",
+      NestGuildVicForest == "BP" ~ "branch",
+      NestGuildVicForest == "Ledge" ~ "branch",
+      NestGuildVicForest == "W" ~ "ground", 
+      NestGuildVicForest == "X" & FeedGuild == "W" ~ "ground",
+      NestGuildVicForest == "X" & HollowDep == 1 ~ "hollows",
+      TRUE ~ NA_character_
+    ),
+    
+    nest_ground = ifelse(is.na(derived_nesting), NA, ifelse(derived_nesting == "ground", 1, 0)),
+    nest_hollows = ifelse(is.na(derived_nesting), NA, ifelse(derived_nesting == "hollows", 1, 0)),
+    nest_branch = ifelse(is.na(derived_nesting), NA, ifelse(derived_nesting == "branch", 1, 0)),
+    nest_burrow = 0,
+    nest_cave = 0
+   )
+    '
+  collection_date: ''
+  taxon_name: ScientificName
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: derived_nesting
+  unit_in: unknown
+  trait_name: nesting
+  entity_type: population
+  value_type: mode
+  basis_of_value: unknown
+  replicates: unknown
+  methods: Derived from NestGuildVicForest
+- var_in: nest_ground
+  unit_in: unknown
+  trait_name: nest_ground
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "ground", else 0
+- var_in: nest_hollows
+  unit_in: unknown
+  trait_name: nest_hollows
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "hollows", else 0
+- var_in: nest_branch
+  unit_in: unknown
+  trait_name: nest_branch
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: 1 if nesting == "branch", else 0
+- var_in: nest_burrow
+  unit_in: unknown
+  trait_name: nest_burrow
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: Always 0 for birds in this dataset
+- var_in: nest_cave
+  unit_in: unknown
+  trait_name: nest_cave
+  entity_type: population
+  value_type: unknown
+  basis_of_value: unknown
+  replicates: unknown
+  methods: Always 0 for birds in this dataset
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

@@ -1,0 +1,238 @@
+source:
+  primary:
+    key: Clemann_2023
+    bibtype: Book
+    year: 2023
+    author: Nick Clemann
+    title: Frogs of Victoria
+    journal: .na
+    volume: .na
+    number: .na
+    pages: .na
+    doi: .na
+contributors:
+  data_collectors:
+  - last_name: Clemann
+    given_name: Nick
+    ORCID: unknown
+    affiliation: Arthur Rylah Institute for Environmental Research
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: '
+    data %>%
+      mutate(
+        derived_litter_size_n       = as.numeric(`litter_size_n`),
+        derived_litters_per_year_n  = as.numeric(`litters_per_year_n`),
+        derived_n_offspring_year    = derived_litter_size_n * derived_litters_per_year_n
+      )   
+        '
+  collection_date: ''
+  taxon_name: Scientific_Name
+  location_name: Victoria, Australia
+  description: A summary of ecological and reproductive traits for frog species found in Victoria, Australia, as compiled in Clemann (2023).
+  basis_of_record: literature
+  life_stage: adult
+  sampling_strategy: .na
+  original_file: .na
+  notes: Some traits were inferred or derived using values extracted from descriptive species accounts. Caution should be used for derived values where primary data was not provided.
+locations: .na
+contexts: .na
+traits:
+- var_in: Mass_g
+  unit_in: g
+  trait_name: Mass_g
+  entity_type: species
+  value_type: mean
+  basis_of_value: measurement
+  replicates: .na
+  methods: .na
+- var_in: stratum_aerial
+  unit_in: .na
+  trait_name: stratum_aerial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_arboreal_insessorial
+  unit_in: .na
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_aquatic
+  unit_in: .na
+  trait_name: stratum_aquatic
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_cryptic
+  unit_in: .na
+  trait_name: stratum_cryptic
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_fossorial
+  unit_in: .na
+  trait_name: stratum_fossorial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_generalist
+  unit_in: .na
+  trait_name: stratum_generalist
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_saxicolous
+  unit_in: .na
+  trait_name: stratum_saxicolous
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: stratum_terrestrial
+  unit_in: .na
+  trait_name: stratum_terrestrial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: nest_burrow
+  unit_in: .na
+  trait_name: nest_burrow
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: nest_cave
+  unit_in: .na
+  trait_name: nest_cave
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: nest_ground
+  unit_in: .na
+  trait_name: nest_ground
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: nest_hollows
+  unit_in: .na
+  trait_name: nest_hollows
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: nest_branch
+  unit_in: .na
+  trait_name: nest_branch
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: volant
+  unit_in: .na
+  trait_name: volant
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_carnivore
+  unit_in: .na
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_herbivore
+  unit_in: .na
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_invertivore
+  unit_in: .na
+  trait_name: diet_invertivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_infloresence
+  unit_in: .na
+  trait_name: diet_inflorescence
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_omnivore
+  unit_in: .na
+  trait_name: diet_omnivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: diet_granivore
+  unit_in: .na
+  trait_name: diet_granivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: derived_litter_size_n
+  unit_in: count
+  trait_name: litter_size_n
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: derived_litters_per_year_n
+  unit_in: count
+  trait_name: litters_per_year_n
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+- var_in: derived_n_offspring_year
+  unit_in: count
+  trait_name: n_offspring_year
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: .na
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na

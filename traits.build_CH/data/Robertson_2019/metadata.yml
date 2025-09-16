@@ -1,0 +1,158 @@
+source:
+  primary:
+    key: Robertson_2019
+    bibtype: Book
+    year: 2019
+    author: Peter Robertson, A. John Coventry
+    title: "Reptiles of Victoria: A Guide to Identification and Ecology"
+    publisher: "CSIRO Publishing"
+    address: "Melbourne"
+    isbn: "9780643093935"
+    pages: "332"
+contributors:
+  data_collectors:
+  - last_name: unknown
+    given_name: unknown
+    ORCID: unknown
+    affiliation: unknown
+  assistants: unknown
+  dataset_curators: unknown
+dataset:
+  data_is_long_format: no
+  custom_R_code: .na
+  collection_date: ''
+  taxon_name: Scientific_Name
+  location_name: unknown
+  description: unknown
+  basis_of_record: unknown
+  life_stage: unknown
+  sampling_strategy: unknown
+  original_file: unknown
+  notes: unknown
+locations: .na
+contexts: .na
+traits:
+- var_in: stratum
+  unit_in: .na
+  trait_name: stratum
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_water
+  unit_in: .na
+  trait_name: stratum_water
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_fossorial
+  unit_in: .na
+  trait_name: stratum_fossorial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_generalist
+  unit_in: .na
+  trait_name: stratum_generalist
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_saxicolous
+  unit_in: .na
+  trait_name: stratum_saxicolous
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_grass_hummock
+  unit_in: .na
+  trait_name: stratum_grass_hummock
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_arboreal
+  unit_in: .na
+  trait_name: stratum_arboreal_insessorial
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: stratum_CWD
+  unit_in: .na
+  trait_name: stratum_CWD
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet
+  unit_in: .na
+  trait_name: diet
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_carnivore
+  unit_in: .na
+  trait_name: diet_carnivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_herbivore
+  unit_in: .na
+  trait_name: diet_herbivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_invertivore
+  unit_in: .na
+  trait_name: diet_invertivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_infloresence
+  unit_in: .na
+  trait_name: diet_inflorescence
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_omnivore
+  unit_in: .na
+  trait_name: diet_omnivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+- var_in: diet_granivore
+  unit_in: .na
+  trait_name: diet_granivore
+  entity_type: species
+  value_type: .na
+  basis_of_value: expert_score
+  replicates: .na
+  methods: unknown
+substitutions: .na
+taxonomic_updates: .na
+exclude_observations: .na
+questions: .na
